@@ -13,12 +13,15 @@ import { JsonService } from '../../services/json.service';
 })
 export class LineChartComponent implements OnInit, OnDestroy {
   public data: any;
+  public poblaciones: any;
 
   public dataChart: DataChart;
   public options: any;
 
   public selectedModo: Modo;
   modos: Modo[];
+
+  public checked: boolean;
 
   types: SelectItem[];
   selectedTypes: string[] = ['La Mancha', 'C. Madrid', 'C. Valenciana'];
@@ -76,11 +79,15 @@ export class LineChartComponent implements OnInit, OnDestroy {
     ];
     this.selectedModo = this.modos[0];
 
+    this.checked = false;
+
     this.loadingData = true;
   }
 
   ngOnInit() {
+    this.getDataPoblaciones();
     this.getDataComunidades();
+
   }
 
   ngOnDestroy(): void {
@@ -89,17 +96,6 @@ export class LineChartComponent implements OnInit, OnDestroy {
         ob.unsubscribe();
       }
     }
-  }
-
-  aplicarCambio() {
-    this.loadingData = true;
-
-    this.dataChart = {
-      labels: [],
-      datasets: [],
-    };
-
-    this.mostrarData();
   }
 
   getDataComunidades() {
@@ -113,11 +109,37 @@ export class LineChartComponent implements OnInit, OnDestroy {
     this.observables.push(ob);
   }
 
+  getDataPoblaciones() {
+    const ob = this.jsonService
+      .getPoblaciones()
+      .subscribe((response: DataComunidad[]) => {
+        this.poblaciones = response;
+      });
+    this.observables.push(ob);
+  }
+
+  aplicarCambio() {
+    this.loadingData = true;
+
+    this.dataChart = {
+      labels: [],
+      datasets: [],
+    };
+
+    this.mostrarData();
+  }
+
   mostrarData() {
     for (let row of this.data) {
       const idxSelCom = this.selectedTypes.indexOf(row.CCAA);
 
       if (idxSelCom >= 0) {
+        let poblacionTotal = 0;
+        if (this.checked) {
+          const idxPoblacion = this.poblaciones.findIndex(poblacion => poblacion.Comunidad == row.CCAA);
+          poblacionTotal = this.poblaciones[idxPoblacion].Total;
+        }
+
         const idxLabel = this.dataChart.labels.indexOf(row.FECHA);
         if (idxLabel < 0) {
           this.dataChart.labels.push(row.FECHA);
@@ -128,26 +150,34 @@ export class LineChartComponent implements OnInit, OnDestroy {
         for (const dataset of this.dataChart.datasets) {
           if (dataset.label === row.CCAA) {
             datasetEncontrado = true;
-
+            let cantidad = 0;
             if (this.selectedModo.code === 'CASOS') {
-              dataset.data.push(row.CASOS);
+              cantidad = row.CASOS;
             }
             if (this.selectedModo.code === 'Hospitalizados') {
-              dataset.data.push(row.Hospitalizados);
+              cantidad = row.Hospitalizados;
             }
             if (this.selectedModo.code === 'UCI') {
-              dataset.data.push(row.UCI);
+              cantidad = row.UCI;
             }
             if (this.selectedModo.code === 'Recuperados') {
-              dataset.data.push(row.Recuperados);
+              cantidad = row.Recuperados;
             }
             if (this.selectedModo.code === 'Fallecidos') {
-              dataset.data.push(row.Fallecidos);
+              cantidad = row.Fallecidos;
             }
+
+            if (this.checked) {
+              cantidad = ( (cantidad * 100000) / poblacionTotal);
+            }
+
+            dataset.data.push(cantidad);
           }
         }
 
         if (!datasetEncontrado) {
+          let newCantidad = 0;
+
           // Dar de alta uno nuevo
           const newDataSet: DataSets = {
             label: null,
@@ -159,20 +189,25 @@ export class LineChartComponent implements OnInit, OnDestroy {
           newDataSet.label = row.CCAA;
           newDataSet.borderColor = row.Color;
           if (this.selectedModo.code === 'CASOS') {
-            newDataSet.data.push(row.CASOS);
+            newCantidad = row.CASOS;
           }
           if (this.selectedModo.code === 'Hospitalizados') {
-            newDataSet.data.push(row.Hospitalizados);
+            newCantidad = row.Hospitalizados;
           }
           if (this.selectedModo.code === 'UCI') {
-            newDataSet.data.push(row.UCI);
+            newCantidad = row.UCI;
           }
           if (this.selectedModo.code === 'Recuperados') {
-            newDataSet.data.push(row.Recuperados);
+            newCantidad = row.Recuperados;
           }
           if (this.selectedModo.code === 'Fallecidos') {
-            newDataSet.data.push(row.Fallecidos);
+            newCantidad = row.Fallecidos;
           }
+
+          if (this.checked) {
+            newCantidad = ( (newCantidad * 100000) / poblacionTotal);
+          }
+          newDataSet.data.push(newCantidad);
 
           this.dataChart.datasets.push(newDataSet);
         }

@@ -17,13 +17,14 @@ import { FormsModule} from '@angular/forms';
 import { ChartModule } from 'primeng/chart';
 import { LineChartComponent } from './components/line-chart/line-chart.component';
 import { SheetComponent } from './components/sheet/sheet.component';
-import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 import { ButtonModule } from 'primeng/button';
 import { SelectButtonModule } from 'primeng/selectbutton';
 import { DropdownModule } from 'primeng/dropdown';
 import { BarChartComponent } from './components/bar-chart/bar-chart.component';
 import { MenuModule } from 'primeng/menu';
+import { InputSwitchModule } from 'primeng/inputswitch';
 
 @NgModule({
   declarations: [
@@ -40,6 +41,7 @@ import { MenuModule } from 'primeng/menu';
     DropdownModule,
     FormsModule,
     HttpClientModule,
+    InputSwitchModule,
     MenuModule,
     routing,
     SelectButtonModule

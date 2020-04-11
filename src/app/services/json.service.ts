@@ -12,6 +12,10 @@ export class JsonService {
   ) { }
 
   getComunidades() {
-    return this.http.get('/assets/files/convertcsv.json');
+    return this.http.get('/assets/files/coronavirus.json');
+  }
+
+  getPoblaciones() {
+    return this.http.get('/assets/files/poblaciones.json');
   }
 }

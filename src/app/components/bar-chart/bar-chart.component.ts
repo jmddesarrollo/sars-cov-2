@@ -33,6 +33,17 @@ export class BarChartComponent implements OnInit, OnDestroy {
       datasets: [],
     };
 
+    this.options = {
+      title: {
+        display: true,
+        text: 'SARS-COV-2: por Comunidad Autonómica',
+        fontSize: 16,
+      },
+      legend: {
+        position: 'bottom',
+      },
+    };
+
     this.types = [
       { label: 'Andalucía', value: 'Andalucía' },
       { label: 'Aragón', value: 'Aragón' },
