@@ -227,7 +227,13 @@ export class LineChartComponent implements OnInit, OnDestroy {
     let sumatorio = 0;
     const idxEspaña = this.dataChart.datasets.length;
 
-          // Dar de alta uno nuevo
+    let poblacionTotal = 0;
+    if (this.checked) {
+      const idxPoblacion = this.poblaciones.findIndex(poblacion => poblacion.Comunidad == "España");
+      poblacionTotal = this.poblaciones[idxPoblacion].Total;
+    }
+
+    // Dar de alta uno nuevo
     const newDataSet: DataSets = {
       label: "España",
       borderColor: "#FF4B4B",
@@ -241,6 +247,9 @@ export class LineChartComponent implements OnInit, OnDestroy {
         if (fechaDefault !== null) {
           if (this.selectedTypes.length === 1) {
             this.dataChart.labels.push(fechaDefault);
+          }
+          if (this.checked) {
+            sumatorio = ( (sumatorio * 100000) / poblacionTotal);
           }
           this.dataChart.datasets[idxEspaña].data.push(sumatorio);
         }
@@ -266,6 +275,9 @@ export class LineChartComponent implements OnInit, OnDestroy {
     }
     if (this.selectedTypes.length === 1) {
       this.dataChart.labels.push(fechaDefault);
+    }
+    if (this.checked) {
+      sumatorio = ( (sumatorio * 100000) / poblacionTotal);
     }
     this.dataChart.datasets[idxEspaña].data.push(sumatorio);
   }
