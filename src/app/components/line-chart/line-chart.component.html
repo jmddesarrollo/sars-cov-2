@@ -1,0 +1,23 @@
+<div class="w3-container">
+    <div class="w3-center">
+        <h3>Consulta SARS-COV-2 por comparación de Comunidades</h3>
+    </div>
+    <p-selectButton [options]="types" [(ngModel)]="selectedTypes" multiple="multiple" (onChange)="aplicarCambio()"></p-selectButton>
+    <!-- <p>Comunidades seleccionadas: <span style="font-weight: bold" *ngFor="let type of selectedTypes">{{type}} </span></p> -->
+    <div class="w3-clear"></div>
+    <div class="w3-margin-bottom">
+        <p-dropdown [options]="modos" [(ngModel)]="selectedModo" placeholder="Seleccionar modo" optionLabel="name" [showClear]="false" (onChange)="cambiarModo()"></p-dropdown>
+    </div>
+    <!-- <div>
+        <button type="button" (click)="aplicarCambio()" pButton icon="pi pi-times" label="Aplicar cambio" class="w3-btn w3-blue w3-margin-right">Aplicar</button>
+        <button type="button" (click)="clear()" pButton icon="pi pi-times" label="Clear" class="w3-btn w3-orange">Limpiar</button>
+    </div> -->
+</div>
+
+<div class="w3-container">
+    <div class="w3-panel w3-card-4" *ngIf="!loadingData">
+        <p-chart type="line" [data]="dataChart" [options]="options" width="97vw" height="70vh"></p-chart>
+    </div>
+</div>
+
+<label>Fuente: <a href="https://covid19.isciii.es/" target="_blank">Ministerio de Sanidad</a></label>

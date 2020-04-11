@@ -1,0 +1,8551 @@
+[{
+        "CCAA": "AN",
+        "FECHA": "20/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "20/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "20/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "20/2/2020",
+        "CASOS": 1,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "20/2/2020",
+        "CASOS": 1,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "20/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "20/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "20/2/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "20/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "20/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "20/2/2020",
+        "CASOS": null,
+        "Hospitalizados": 26,
+        "UCI": 0,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "20/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "20/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "20/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "20/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "20/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "20/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "20/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "20/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "21/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "21/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "21/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "21/2/2020",
+        "CASOS": 1,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "21/2/2020",
+        "CASOS": 1,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "21/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "21/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "21/2/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "21/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "21/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "21/2/2020",
+        "CASOS": null,
+        "Hospitalizados": 30,
+        "UCI": 1,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "21/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "21/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "21/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "21/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "21/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "21/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "21/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "21/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "22/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "22/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "22/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "22/2/2020",
+        "CASOS": 1,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "22/2/2020",
+        "CASOS": 1,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "22/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "22/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "22/2/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "22/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "22/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "22/2/2020",
+        "CASOS": null,
+        "Hospitalizados": 33,
+        "UCI": 1,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "22/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "22/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "22/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "22/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "22/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "22/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "22/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "22/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "23/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "23/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "23/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "23/2/2020",
+        "CASOS": 1,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "23/2/2020",
+        "CASOS": 1,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "23/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "23/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "23/2/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "23/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "23/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "23/2/2020",
+        "CASOS": null,
+        "Hospitalizados": 38,
+        "UCI": 2,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "23/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "23/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "23/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "23/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "23/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "23/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "23/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "23/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "24/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "24/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "24/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "24/2/2020",
+        "CASOS": 1,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "24/2/2020",
+        "CASOS": 2,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "24/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "24/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "24/2/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "24/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "24/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "24/2/2020",
+        "CASOS": null,
+        "Hospitalizados": 49,
+        "UCI": 2,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "24/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "24/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "24/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "24/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "24/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "24/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "24/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "24/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "25/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "25/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "25/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "25/2/2020",
+        "CASOS": 1,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "25/2/2020",
+        "CASOS": 5,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "25/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "25/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "25/2/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "25/2/2020",
+        "CASOS": 1,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "25/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "25/2/2020",
+        "CASOS": 1,
+        "Hospitalizados": 58,
+        "UCI": 2,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "25/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "25/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "25/2/2020",
+        "CASOS": 2,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "25/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "25/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "25/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "25/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "25/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "26/2/2020",
+        "CASOS": 1,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "26/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "26/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "26/2/2020",
+        "CASOS": 1,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "26/2/2020",
+        "CASOS": 6,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "26/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "26/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "26/2/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "26/2/2020",
+        "CASOS": 2,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "26/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "26/2/2020",
+        "CASOS": 2,
+        "Hospitalizados": 63,
+        "UCI": 3,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "26/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "26/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "26/2/2020",
+        "CASOS": 4,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "26/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "26/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "26/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "26/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "26/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "27/2/2020",
+        "CASOS": 6,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "27/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "27/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "27/2/2020",
+        "CASOS": 1,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "27/2/2020",
+        "CASOS": 6,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "27/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "27/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "27/2/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "27/2/2020",
+        "CASOS": 3,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "27/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "27/2/2020",
+        "CASOS": 8,
+        "Hospitalizados": 73,
+        "UCI": 3,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "27/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "27/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "27/2/2020",
+        "CASOS": 5,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "27/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "27/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "27/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "27/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "27/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "28/2/2020",
+        "CASOS": 8,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "28/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "28/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "28/2/2020",
+        "CASOS": 2,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "28/2/2020",
+        "CASOS": 6,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "28/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "28/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "28/2/2020",
+        "CASOS": 2,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "28/2/2020",
+        "CASOS": 5,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "28/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "28/2/2020",
+        "CASOS": 10,
+        "Hospitalizados": 78,
+        "UCI": 3,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "28/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "28/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "28/2/2020",
+        "CASOS": 8,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "28/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "28/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "28/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "28/2/2020",
+        "CASOS": 2,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "28/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "29/2/2020",
+        "CASOS": 12,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "29/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "29/2/2020",
+        "CASOS": 1,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "29/2/2020",
+        "CASOS": 2,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "29/2/2020",
+        "CASOS": 7,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "29/2/2020",
+        "CASOS": 1,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "29/2/2020",
+        "CASOS": 1,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "29/2/2020",
+        "CASOS": 2,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "29/2/2020",
+        "CASOS": 6,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "29/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "29/2/2020",
+        "CASOS": 15,
+        "Hospitalizados": 85,
+        "UCI": 3,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "29/2/2020",
+        "CASOS": 4,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "29/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "29/2/2020",
+        "CASOS": 10,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "29/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "29/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "29/2/2020",
+        "CASOS": 1,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "29/2/2020",
+        "CASOS": 3,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "29/2/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "1/3/2020",
+        "CASOS": 12,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "1/3/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "1/3/2020",
+        "CASOS": 1,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "1/3/2020",
+        "CASOS": 2,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "1/3/2020",
+        "CASOS": 7,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "1/3/2020",
+        "CASOS": 10,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "1/3/2020",
+        "CASOS": 3,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "1/3/2020",
+        "CASOS": 2,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "1/3/2020",
+        "CASOS": 15,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "1/3/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "1/3/2020",
+        "CASOS": 15,
+        "Hospitalizados": 88,
+        "UCI": 3,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "1/3/2020",
+        "CASOS": 6,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "1/3/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "1/3/2020",
+        "CASOS": 29,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "1/3/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "1/3/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "1/3/2020",
+        "CASOS": 1,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "1/3/2020",
+        "CASOS": 9,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "1/3/2020",
+        "CASOS": 1,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "2/3/2020",
+        "CASOS": 12,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "2/3/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "2/3/2020",
+        "CASOS": 1,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "2/3/2020",
+        "CASOS": 2,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "2/3/2020",
+        "CASOS": 7,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "2/3/2020",
+        "CASOS": 10,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "2/3/2020",
+        "CASOS": 7,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "2/3/2020",
+        "CASOS": 7,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "2/3/2020",
+        "CASOS": 15,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "2/3/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "2/3/2020",
+        "CASOS": 15,
+        "Hospitalizados": 93,
+        "UCI": 3,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "2/3/2020",
+        "CASOS": 6,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "2/3/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "2/3/2020",
+        "CASOS": 49,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "2/3/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "2/3/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "2/3/2020",
+        "CASOS": 1,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "2/3/2020",
+        "CASOS": 13,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "2/3/2020",
+        "CASOS": 3,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "3/3/2020",
+        "CASOS": 12,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "3/3/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "3/3/2020",
+        "CASOS": 2,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "3/3/2020",
+        "CASOS": 5,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "3/3/2020",
+        "CASOS": 7,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "3/3/2020",
+        "CASOS": 10,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "3/3/2020",
+        "CASOS": 12,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "3/3/2020",
+        "CASOS": 8,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "3/3/2020",
+        "CASOS": 15,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "3/3/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "3/3/2020",
+        "CASOS": 19,
+        "Hospitalizados": 105,
+        "UCI": 5,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "3/3/2020",
+        "CASOS": 6,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "3/3/2020",
+        "CASOS": 1,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "3/3/2020",
+        "CASOS": 70,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "3/3/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "3/3/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "3/3/2020",
+        "CASOS": 3,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "3/3/2020",
+        "CASOS": 17,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "3/3/2020",
+        "CASOS": 7,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "4/3/2020",
+        "CASOS": 12,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "4/3/2020",
+        "CASOS": 1,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "4/3/2020",
+        "CASOS": 5,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "4/3/2020",
+        "CASOS": 6,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "4/3/2020",
+        "CASOS": 8,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "4/3/2020",
+        "CASOS": 10,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "4/3/2020",
+        "CASOS": 13,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "4/3/2020",
+        "CASOS": 12,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "4/3/2020",
+        "CASOS": 24,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "4/3/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "4/3/2020",
+        "CASOS": 19,
+        "Hospitalizados": 117,
+        "UCI": 6,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "4/3/2020",
+        "CASOS": 6,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "4/3/2020",
+        "CASOS": 1,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "4/3/2020",
+        "CASOS": 90,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "4/3/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "4/3/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "4/3/2020",
+        "CASOS": 3,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "4/3/2020",
+        "CASOS": 17,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "4/3/2020",
+        "CASOS": 11,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "5/3/2020",
+        "CASOS": 21,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "5/3/2020",
+        "CASOS": 6,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "5/3/2020",
+        "CASOS": 5,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "5/3/2020",
+        "CASOS": 6,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "5/3/2020",
+        "CASOS": 11,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "5/3/2020",
+        "CASOS": 10,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "5/3/2020",
+        "CASOS": 15,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "5/3/2020",
+        "CASOS": 13,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "5/3/2020",
+        "CASOS": 24,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "5/3/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "5/3/2020",
+        "CASOS": 30,
+        "Hospitalizados": 130,
+        "UCI": 8,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "5/3/2020",
+        "CASOS": 6,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "5/3/2020",
+        "CASOS": 3,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "5/3/2020",
+        "CASOS": 137,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "5/3/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "5/3/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "5/3/2020",
+        "CASOS": 3,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "5/3/2020",
+        "CASOS": 45,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "5/3/2020",
+        "CASOS": 29,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "6/3/2020",
+        "CASOS": 27,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "6/3/2020",
+        "CASOS": 11,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "6/3/2020",
+        "CASOS": 5,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "6/3/2020",
+        "CASOS": 6,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "6/3/2020",
+        "CASOS": 11,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "6/3/2020",
+        "CASOS": 10,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "6/3/2020",
+        "CASOS": 15,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "6/3/2020",
+        "CASOS": 14,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "6/3/2020",
+        "CASOS": 24,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "6/3/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "6/3/2020",
+        "CASOS": 30,
+        "Hospitalizados": 138,
+        "UCI": 8,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "6/3/2020",
+        "CASOS": 6,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "6/3/2020",
+        "CASOS": 3,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "6/3/2020",
+        "CASOS": 137,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "6/3/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "6/3/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "6/3/2020",
+        "CASOS": 3,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "6/3/2020",
+        "CASOS": 45,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "6/3/2020",
+        "CASOS": 39,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "7/3/2020",
+        "CASOS": 34,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "7/3/2020",
+        "CASOS": 11,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "7/3/2020",
+        "CASOS": 7,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "7/3/2020",
+        "CASOS": 8,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "7/3/2020",
+        "CASOS": 17,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "7/3/2020",
+        "CASOS": 12,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "7/3/2020",
+        "CASOS": 15,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "7/3/2020",
+        "CASOS": 21,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "7/3/2020",
+        "CASOS": 49,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "7/3/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "7/3/2020",
+        "CASOS": 37,
+        "Hospitalizados": 146,
+        "UCI": 9,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "7/3/2020",
+        "CASOS": 6,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "7/3/2020",
+        "CASOS": 5,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "7/3/2020",
+        "CASOS": 175,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "7/3/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "7/3/2020",
+        "CASOS": 1,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "7/3/2020",
+        "CASOS": 3,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "7/3/2020",
+        "CASOS": 70,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "7/3/2020",
+        "CASOS": 55,
+        "Hospitalizados": null,
+        "UCI": null,
+        "Fallecidos": null,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "8/3/2020",
+        "CASOS": 54,
+        "Hospitalizados": null,
+        "UCI": 1,
+        "Fallecidos": 0,
+        "Recuperados": 11
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "8/3/2020",
+        "CASOS": 13,
+        "Hospitalizados": null,
+        "UCI": 3,
+        "Fallecidos": 3,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "8/3/2020",
+        "CASOS": 7,
+        "Hospitalizados": null,
+        "UCI": 2,
+        "Fallecidos": 0,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "8/3/2020",
+        "CASOS": 11,
+        "Hospitalizados": null,
+        "UCI": 1,
+        "Fallecidos": 0,
+        "Recuperados": 2
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "8/3/2020",
+        "CASOS": 22,
+        "Hospitalizados": null,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 4
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "8/3/2020",
+        "CASOS": 12,
+        "Hospitalizados": null,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "8/3/2020",
+        "CASOS": 26,
+        "Hospitalizados": null,
+        "UCI": 2,
+        "Fallecidos": 0,
+        "Recuperados": 2
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "8/3/2020",
+        "CASOS": 30,
+        "Hospitalizados": null,
+        "UCI": 2,
+        "Fallecidos": 0,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "8/3/2020",
+        "CASOS": 75,
+        "Hospitalizados": null,
+        "UCI": 0,
+        "Fallecidos": 2,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "8/3/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "8/3/2020",
+        "CASOS": 37,
+        "Hospitalizados": 153,
+        "UCI": 9,
+        "Fallecidos": 1,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "8/3/2020",
+        "CASOS": 7,
+        "Hospitalizados": null,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "8/3/2020",
+        "CASOS": 6,
+        "Hospitalizados": null,
+        "UCI": 2,
+        "Fallecidos": 0,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "8/3/2020",
+        "CASOS": 469,
+        "Hospitalizados": null,
+        "UCI": 53,
+        "Fallecidos": 16,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "8/3/2020",
+        "CASOS": 0,
+        "Hospitalizados": null,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "8/3/2020",
+        "CASOS": 4,
+        "Hospitalizados": null,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "8/3/2020",
+        "CASOS": 3,
+        "Hospitalizados": null,
+        "UCI": 1,
+        "Fallecidos": 0,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "8/3/2020",
+        "CASOS": 149,
+        "Hospitalizados": null,
+        "UCI": 5,
+        "Fallecidos": 6,
+        "Recuperados": 2
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "8/3/2020",
+        "CASOS": 81,
+        "Hospitalizados": null,
+        "UCI": 1,
+        "Fallecidos": 0,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "9/3/2020",
+        "CASOS": 71,
+        "Hospitalizados": null,
+        "UCI": 1,
+        "Fallecidos": 0,
+        "Recuperados": 11
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "9/3/2020",
+        "CASOS": 38,
+        "Hospitalizados": null,
+        "UCI": 3,
+        "Fallecidos": 4,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "9/3/2020",
+        "CASOS": 22,
+        "Hospitalizados": null,
+        "UCI": 2,
+        "Fallecidos": 0,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "9/3/2020",
+        "CASOS": 13,
+        "Hospitalizados": null,
+        "UCI": 1,
+        "Fallecidos": 0,
+        "Recuperados": 3
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "9/3/2020",
+        "CASOS": 25,
+        "Hospitalizados": null,
+        "UCI": 1,
+        "Fallecidos": 0,
+        "Recuperados": 5
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "9/3/2020",
+        "CASOS": 12,
+        "Hospitalizados": null,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "9/3/2020",
+        "CASOS": 39,
+        "Hospitalizados": null,
+        "UCI": 3,
+        "Fallecidos": 0,
+        "Recuperados": 2
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "9/3/2020",
+        "CASOS": 40,
+        "Hospitalizados": null,
+        "UCI": 2,
+        "Fallecidos": 0,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "9/3/2020",
+        "CASOS": 124,
+        "Hospitalizados": null,
+        "UCI": 0,
+        "Fallecidos": 3,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "9/3/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "9/3/2020",
+        "CASOS": 50,
+        "Hospitalizados": 171,
+        "UCI": 10,
+        "Fallecidos": 1,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "9/3/2020",
+        "CASOS": 8,
+        "Hospitalizados": null,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "9/3/2020",
+        "CASOS": 22,
+        "Hospitalizados": null,
+        "UCI": 2,
+        "Fallecidos": 0,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "9/3/2020",
+        "CASOS": 782,
+        "Hospitalizados": null,
+        "UCI": 77,
+        "Fallecidos": 21,
+        "Recuperados": 109
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "9/3/2020",
+        "CASOS": null,
+        "Hospitalizados": null,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "9/3/2020",
+        "CASOS": 9,
+        "Hospitalizados": null,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "9/3/2020",
+        "CASOS": 12,
+        "Hospitalizados": null,
+        "UCI": 2,
+        "Fallecidos": 0,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "9/3/2020",
+        "CASOS": 195,
+        "Hospitalizados": null,
+        "UCI": 5,
+        "Fallecidos": 6,
+        "Recuperados": 2
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "9/3/2020",
+        "CASOS": 144,
+        "Hospitalizados": null,
+        "UCI": 1,
+        "Fallecidos": 1,
+        "Recuperados": null
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "10/3/2020",
+        "CASOS": 90,
+        "Hospitalizados": 32,
+        "UCI": 3,
+        "Fallecidos": 0,
+        "Recuperados": 11
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "10/3/2020",
+        "CASOS": 45,
+        "Hospitalizados": 22,
+        "UCI": 3,
+        "Fallecidos": 4,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "10/3/2020",
+        "CASOS": 32,
+        "Hospitalizados": 12,
+        "UCI": 2,
+        "Fallecidos": 0,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "10/3/2020",
+        "CASOS": 16,
+        "Hospitalizados": 8,
+        "UCI": 1,
+        "Fallecidos": 0,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "10/3/2020",
+        "CASOS": 37,
+        "Hospitalizados": 10,
+        "UCI": 1,
+        "Fallecidos": 0,
+        "Recuperados": 5
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "10/3/2020",
+        "CASOS": 12,
+        "Hospitalizados": 0,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "10/3/2020",
+        "CASOS": 71,
+        "Hospitalizados": 0,
+        "UCI": 5,
+        "Fallecidos": 0,
+        "Recuperados": 2
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "10/3/2020",
+        "CASOS": 64,
+        "Hospitalizados": 14,
+        "UCI": 2,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "10/3/2020",
+        "CASOS": 156,
+        "Hospitalizados": 0,
+        "UCI": 0,
+        "Fallecidos": 3,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "10/3/2020",
+        "CASOS": 0,
+        "Hospitalizados": 0,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "10/3/2020",
+        "CASOS": 65,
+        "Hospitalizados": 200,
+        "UCI": 12,
+        "Fallecidos": 1,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "10/3/2020",
+        "CASOS": 9,
+        "Hospitalizados": 2,
+        "UCI": 1,
+        "Fallecidos": 1,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "10/3/2020",
+        "CASOS": 35,
+        "Hospitalizados": 7,
+        "UCI": 2,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "10/3/2020",
+        "CASOS": 1024,
+        "Hospitalizados": 0,
+        "UCI": 102,
+        "Fallecidos": 31,
+        "Recuperados": 157
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "10/3/2020",
+        "CASOS": 0,
+        "Hospitalizados": 0,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "10/3/2020",
+        "CASOS": 11,
+        "Hospitalizados": 4,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "10/3/2020",
+        "CASOS": 46,
+        "Hospitalizados": 10,
+        "UCI": 3,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "10/3/2020",
+        "CASOS": 225,
+        "Hospitalizados": 102,
+        "UCI": 15,
+        "Fallecidos": 6,
+        "Recuperados": 2
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "10/3/2020",
+        "CASOS": 179,
+        "Hospitalizados": 13,
+        "UCI": 1,
+        "Fallecidos": 2,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "11/3/2020",
+        "CASOS": 115,
+        "Hospitalizados": 50,
+        "UCI": 4,
+        "Fallecidos": 0,
+        "Recuperados": 11
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "11/3/2020",
+        "CASOS": 64,
+        "Hospitalizados": 28,
+        "UCI": 3,
+        "Fallecidos": 6,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "11/3/2020",
+        "CASOS": 47,
+        "Hospitalizados": 12,
+        "UCI": 2,
+        "Fallecidos": 1,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "11/3/2020",
+        "CASOS": 22,
+        "Hospitalizados": 8,
+        "UCI": 2,
+        "Fallecidos": 1,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "11/3/2020",
+        "CASOS": 51,
+        "Hospitalizados": 15,
+        "UCI": 3,
+        "Fallecidos": 0,
+        "Recuperados": 5
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "11/3/2020",
+        "CASOS": 16,
+        "Hospitalizados": 3,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 6
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "11/3/2020",
+        "CASOS": 115,
+        "Hospitalizados": 39,
+        "UCI": 9,
+        "Fallecidos": 1,
+        "Recuperados": 2
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "11/3/2020",
+        "CASOS": 71,
+        "Hospitalizados": 24,
+        "UCI": 2,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "11/3/2020",
+        "CASOS": 260,
+        "Hospitalizados": 0,
+        "UCI": 0,
+        "Fallecidos": 4,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "11/3/2020",
+        "CASOS": 0,
+        "Hospitalizados": 0,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "11/3/2020",
+        "CASOS": 76,
+        "Hospitalizados": 232,
+        "UCI": 15,
+        "Fallecidos": 1,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "11/3/2020",
+        "CASOS": 19,
+        "Hospitalizados": 2,
+        "UCI": 1,
+        "Fallecidos": 1,
+        "Recuperados": 3
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "11/3/2020",
+        "CASOS": 35,
+        "Hospitalizados": 7,
+        "UCI": 2,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "11/3/2020",
+        "CASOS": 1388,
+        "Hospitalizados": 0,
+        "UCI": 135,
+        "Fallecidos": 56,
+        "Recuperados": 157
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "11/3/2020",
+        "CASOS": 0,
+        "Hospitalizados": 0,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "11/3/2020",
+        "CASOS": 26,
+        "Hospitalizados": 5,
+        "UCI": 1,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "11/3/2020",
+        "CASOS": 73,
+        "Hospitalizados": 17,
+        "UCI": 3,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "11/3/2020",
+        "CASOS": 346,
+        "Hospitalizados": 146,
+        "UCI": 18,
+        "Fallecidos": 11,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "11/3/2020",
+        "CASOS": 205,
+        "Hospitalizados": 21,
+        "UCI": 1,
+        "Fallecidos": 2,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "12/3/2020",
+        "CASOS": 219,
+        "Hospitalizados": 92,
+        "UCI": 8,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "12/3/2020",
+        "CASOS": 80,
+        "Hospitalizados": 30,
+        "UCI": 3,
+        "Fallecidos": 7,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "12/3/2020",
+        "CASOS": 67,
+        "Hospitalizados": 16,
+        "UCI": 2,
+        "Fallecidos": 1,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "12/3/2020",
+        "CASOS": 28,
+        "Hospitalizados": 9,
+        "UCI": 2,
+        "Fallecidos": 1,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "12/3/2020",
+        "CASOS": 70,
+        "Hospitalizados": 15,
+        "UCI": 3,
+        "Fallecidos": 0,
+        "Recuperados": 5
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "12/3/2020",
+        "CASOS": 29,
+        "Hospitalizados": 3,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 7
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "12/3/2020",
+        "CASOS": 194,
+        "Hospitalizados": 78,
+        "UCI": 10,
+        "Fallecidos": 5,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "12/3/2020",
+        "CASOS": 92,
+        "Hospitalizados": 25,
+        "UCI": 4,
+        "Fallecidos": 0,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "12/3/2020",
+        "CASOS": 316,
+        "Hospitalizados": 0,
+        "UCI": 25,
+        "Fallecidos": 6,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "12/3/2020",
+        "CASOS": 0,
+        "Hospitalizados": 0,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "12/3/2020",
+        "CASOS": 94,
+        "Hospitalizados": 271,
+        "UCI": 22,
+        "Fallecidos": 1,
+        "Recuperados": 2
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "12/3/2020",
+        "CASOS": 39,
+        "Hospitalizados": 3,
+        "UCI": 1,
+        "Fallecidos": 1,
+        "Recuperados": 3
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "12/3/2020",
+        "CASOS": 85,
+        "Hospitalizados": 15,
+        "UCI": 2,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "12/3/2020",
+        "CASOS": 1990,
+        "Hospitalizados": 1304,
+        "UCI": 180,
+        "Fallecidos": 81,
+        "Recuperados": 157
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "12/3/2020",
+        "CASOS": 2,
+        "Hospitalizados": 3,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "12/3/2020",
+        "CASOS": 35,
+        "Hospitalizados": 8,
+        "UCI": 2,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "12/3/2020",
+        "CASOS": 130,
+        "Hospitalizados": 28,
+        "UCI": 4,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "12/3/2020",
+        "CASOS": 417,
+        "Hospitalizados": 179,
+        "UCI": 20,
+        "Fallecidos": 14,
+        "Recuperados": 2
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "12/3/2020",
+        "CASOS": 243,
+        "Hospitalizados": 27,
+        "UCI": 2,
+        "Fallecidos": 3,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "13/3/2020",
+        "CASOS": 269,
+        "Hospitalizados": 92,
+        "UCI": 8,
+        "Fallecidos": 2,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "13/3/2020",
+        "CASOS": 121,
+        "Hospitalizados": 42,
+        "UCI": 5,
+        "Fallecidos": 7,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "13/3/2020",
+        "CASOS": 92,
+        "Hospitalizados": 16,
+        "UCI": 2,
+        "Fallecidos": 1,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "13/3/2020",
+        "CASOS": 28,
+        "Hospitalizados": 9,
+        "UCI": 2,
+        "Fallecidos": 1,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "13/3/2020",
+        "CASOS": 90,
+        "Hospitalizados": 15,
+        "UCI": 6,
+        "Fallecidos": 1,
+        "Recuperados": 7
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "13/3/2020",
+        "CASOS": 31,
+        "Hospitalizados": 3,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 7
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "13/3/2020",
+        "CASOS": 289,
+        "Hospitalizados": 78,
+        "UCI": 10,
+        "Fallecidos": 6,
+        "Recuperados": 5
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "13/3/2020",
+        "CASOS": 169,
+        "Hospitalizados": 25,
+        "UCI": 8,
+        "Fallecidos": 1,
+        "Recuperados": 2
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "13/3/2020",
+        "CASOS": 509,
+        "Hospitalizados": 0,
+        "UCI": 33,
+        "Fallecidos": 6,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "13/3/2020",
+        "CASOS": 0,
+        "Hospitalizados": 0,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "13/3/2020",
+        "CASOS": 130,
+        "Hospitalizados": 307,
+        "UCI": 29,
+        "Fallecidos": 4,
+        "Recuperados": 2
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "13/3/2020",
+        "CASOS": 66,
+        "Hospitalizados": 3,
+        "UCI": 1,
+        "Fallecidos": 2,
+        "Recuperados": 4
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "13/3/2020",
+        "CASOS": 115,
+        "Hospitalizados": 32,
+        "UCI": 7,
+        "Fallecidos": 0,
+        "Recuperados": 3
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "13/3/2020",
+        "CASOS": 2940,
+        "Hospitalizados": 1518,
+        "UCI": 180,
+        "Fallecidos": 86,
+        "Recuperados": 474
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "13/3/2020",
+        "CASOS": 3,
+        "Hospitalizados": 3,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "13/3/2020",
+        "CASOS": 47,
+        "Hospitalizados": 8,
+        "UCI": 2,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "13/3/2020",
+        "CASOS": 146,
+        "Hospitalizados": 28,
+        "UCI": 4,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "13/3/2020",
+        "CASOS": 521,
+        "Hospitalizados": 179,
+        "UCI": 22,
+        "Fallecidos": 14,
+        "Recuperados": 5
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "13/3/2020",
+        "CASOS": 278,
+        "Hospitalizados": 38,
+        "UCI": 2,
+        "Fallecidos": 3,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "14/3/2020",
+        "CASOS": 437,
+        "Hospitalizados": 92,
+        "UCI": 8,
+        "Fallecidos": 6,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "14/3/2020",
+        "CASOS": 147,
+        "Hospitalizados": 59,
+        "UCI": 5,
+        "Fallecidos": 7,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "14/3/2020",
+        "CASOS": 137,
+        "Hospitalizados": 16,
+        "UCI": 3,
+        "Fallecidos": 1,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "14/3/2020",
+        "CASOS": 42,
+        "Hospitalizados": 9,
+        "UCI": 2,
+        "Fallecidos": 1,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "14/3/2020",
+        "CASOS": 109,
+        "Hospitalizados": 15,
+        "UCI": 6,
+        "Fallecidos": 1,
+        "Recuperados": 7
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "14/3/2020",
+        "CASOS": 51,
+        "Hospitalizados": 3,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 10
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "14/3/2020",
+        "CASOS": 401,
+        "Hospitalizados": 78,
+        "UCI": 10,
+        "Fallecidos": 10,
+        "Recuperados": 5
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "14/3/2020",
+        "CASOS": 223,
+        "Hospitalizados": 45,
+        "UCI": 8,
+        "Fallecidos": 3,
+        "Recuperados": 3
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "14/3/2020",
+        "CASOS": 715,
+        "Hospitalizados": 0,
+        "UCI": 33,
+        "Fallecidos": 8,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "14/3/2020",
+        "CASOS": 1,
+        "Hospitalizados": 0,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "14/3/2020",
+        "CASOS": 409,
+        "Hospitalizados": 339,
+        "UCI": 37,
+        "Fallecidos": 5,
+        "Recuperados": 2
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "14/3/2020",
+        "CASOS": 95,
+        "Hospitalizados": 8,
+        "UCI": 1,
+        "Fallecidos": 2,
+        "Recuperados": 4
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "14/3/2020",
+        "CASOS": 195,
+        "Hospitalizados": 32,
+        "UCI": 8,
+        "Fallecidos": 2,
+        "Recuperados": 4
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "14/3/2020",
+        "CASOS": 3544,
+        "Hospitalizados": 2337,
+        "UCI": 253,
+        "Fallecidos": 213,
+        "Recuperados": 474
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "14/3/2020",
+        "CASOS": 8,
+        "Hospitalizados": 4,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "14/3/2020",
+        "CASOS": 71,
+        "Hospitalizados": 13,
+        "UCI": 2,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "14/3/2020",
+        "CASOS": 183,
+        "Hospitalizados": 34,
+        "UCI": 4,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "14/3/2020",
+        "CASOS": 630,
+        "Hospitalizados": 262,
+        "UCI": 29,
+        "Fallecidos": 23,
+        "Recuperados": 5
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "14/3/2020",
+        "CASOS": 300,
+        "Hospitalizados": 58,
+        "UCI": 7,
+        "Fallecidos": 3,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "15/3/2020",
+        "CASOS": 554,
+        "Hospitalizados": 197,
+        "UCI": 11,
+        "Fallecidos": 7,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "15/3/2020",
+        "CASOS": 174,
+        "Hospitalizados": 64,
+        "UCI": 7,
+        "Fallecidos": 11,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "15/3/2020",
+        "CASOS": 177,
+        "Hospitalizados": 16,
+        "UCI": 3,
+        "Fallecidos": 1,
+        "Recuperados": 3
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "15/3/2020",
+        "CASOS": 73,
+        "Hospitalizados": 21,
+        "UCI": 4,
+        "Fallecidos": 1,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "15/3/2020",
+        "CASOS": 119,
+        "Hospitalizados": 40,
+        "UCI": 9,
+        "Fallecidos": 1,
+        "Recuperados": 7
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "15/3/2020",
+        "CASOS": 58,
+        "Hospitalizados": 18,
+        "UCI": 2,
+        "Fallecidos": 0,
+        "Recuperados": 10
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "15/3/2020",
+        "CASOS": 567,
+        "Hospitalizados": 207,
+        "UCI": 23,
+        "Fallecidos": 17,
+        "Recuperados": 12
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "15/3/2020",
+        "CASOS": 292,
+        "Hospitalizados": 45,
+        "UCI": 8,
+        "Fallecidos": 6,
+        "Recuperados": 5
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "15/3/2020",
+        "CASOS": 903,
+        "Hospitalizados": 0,
+        "UCI": 33,
+        "Fallecidos": 12,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "15/3/2020",
+        "CASOS": 1,
+        "Hospitalizados": 0,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "15/3/2020",
+        "CASOS": 409,
+        "Hospitalizados": 390,
+        "UCI": 47,
+        "Fallecidos": 5,
+        "Recuperados": 2
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "15/3/2020",
+        "CASOS": 111,
+        "Hospitalizados": 9,
+        "UCI": 1,
+        "Fallecidos": 2,
+        "Recuperados": 4
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "15/3/2020",
+        "CASOS": 245,
+        "Hospitalizados": 49,
+        "UCI": 9,
+        "Fallecidos": 2,
+        "Recuperados": 4
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "15/3/2020",
+        "CASOS": 4165,
+        "Hospitalizados": 2337,
+        "UCI": 253,
+        "Fallecidos": 213,
+        "Recuperados": 474
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "15/3/2020",
+        "CASOS": 8,
+        "Hospitalizados": 4,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "15/3/2020",
+        "CASOS": 77,
+        "Hospitalizados": 13,
+        "UCI": 2,
+        "Fallecidos": 0,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "15/3/2020",
+        "CASOS": 274,
+        "Hospitalizados": 58,
+        "UCI": 5,
+        "Fallecidos": 1,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "15/3/2020",
+        "CASOS": 630,
+        "Hospitalizados": 262,
+        "UCI": 29,
+        "Fallecidos": 23,
+        "Recuperados": 5
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "15/3/2020",
+        "CASOS": 312,
+        "Hospitalizados": 64,
+        "UCI": 13,
+        "Fallecidos": 4,
+        "Recuperados": 2
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "16/3/2020",
+        "CASOS": 683,
+        "Hospitalizados": 229,
+        "UCI": 13,
+        "Fallecidos": 11,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "16/3/2020",
+        "CASOS": 207,
+        "Hospitalizados": 74,
+        "UCI": 9,
+        "Fallecidos": 12,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "16/3/2020",
+        "CASOS": 193,
+        "Hospitalizados": 34,
+        "UCI": 5,
+        "Fallecidos": 1,
+        "Recuperados": 3
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "16/3/2020",
+        "CASOS": 92,
+        "Hospitalizados": 26,
+        "UCI": 4,
+        "Fallecidos": 1,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "16/3/2020",
+        "CASOS": 148,
+        "Hospitalizados": 56,
+        "UCI": 13,
+        "Fallecidos": 2,
+        "Recuperados": 8
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "16/3/2020",
+        "CASOS": 58,
+        "Hospitalizados": 18,
+        "UCI": 2,
+        "Fallecidos": 0,
+        "Recuperados": 10
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "16/3/2020",
+        "CASOS": 567,
+        "Hospitalizados": 207,
+        "UCI": 23,
+        "Fallecidos": 17,
+        "Recuperados": 12
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "16/3/2020",
+        "CASOS": 431,
+        "Hospitalizados": 95,
+        "UCI": 24,
+        "Fallecidos": 12,
+        "Recuperados": 5
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "16/3/2020",
+        "CASOS": 1394,
+        "Hospitalizados": 0,
+        "UCI": 33,
+        "Fallecidos": 18,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "16/3/2020",
+        "CASOS": 1,
+        "Hospitalizados": 0,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "16/3/2020",
+        "CASOS": 541,
+        "Hospitalizados": 456,
+        "UCI": 52,
+        "Fallecidos": 13,
+        "Recuperados": 12
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "16/3/2020",
+        "CASOS": 153,
+        "Hospitalizados": 18,
+        "UCI": 2,
+        "Fallecidos": 3,
+        "Recuperados": 5
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "16/3/2020",
+        "CASOS": 292,
+        "Hospitalizados": 49,
+        "UCI": 9,
+        "Fallecidos": 3,
+        "Recuperados": 7
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "16/3/2020",
+        "CASOS": 4871,
+        "Hospitalizados": 3710,
+        "UCI": 340,
+        "Fallecidos": 355,
+        "Recuperados": 951
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "16/3/2020",
+        "CASOS": 17,
+        "Hospitalizados": 4,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "16/3/2020",
+        "CASOS": 97,
+        "Hospitalizados": 18,
+        "UCI": 3,
+        "Fallecidos": 0,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "16/3/2020",
+        "CASOS": 313,
+        "Hospitalizados": 72,
+        "UCI": 10,
+        "Fallecidos": 2,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "16/3/2020",
+        "CASOS": 765,
+        "Hospitalizados": 309,
+        "UCI": 33,
+        "Fallecidos": 36,
+        "Recuperados": 11
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "16/3/2020",
+        "CASOS": 355,
+        "Hospitalizados": 82,
+        "UCI": 13,
+        "Fallecidos": 5,
+        "Recuperados": 2
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "17/3/2020",
+        "CASOS": 859,
+        "Hospitalizados": 319,
+        "UCI": 21,
+        "Fallecidos": 19,
+        "Recuperados": 38
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "17/3/2020",
+        "CASOS": 226,
+        "Hospitalizados": 81,
+        "UCI": 9,
+        "Fallecidos": 13,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "17/3/2020",
+        "CASOS": 242,
+        "Hospitalizados": 45,
+        "UCI": 5,
+        "Fallecidos": 1,
+        "Recuperados": 4
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "17/3/2020",
+        "CASOS": 112,
+        "Hospitalizados": 29,
+        "UCI": 4,
+        "Fallecidos": 1,
+        "Recuperados": 4
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "17/3/2020",
+        "CASOS": 181,
+        "Hospitalizados": 73,
+        "UCI": 17,
+        "Fallecidos": 3,
+        "Recuperados": 8
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "17/3/2020",
+        "CASOS": 68,
+        "Hospitalizados": 25,
+        "UCI": 3,
+        "Fallecidos": 1,
+        "Recuperados": 10
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "17/3/2020",
+        "CASOS": 675,
+        "Hospitalizados": 277,
+        "UCI": 29,
+        "Fallecidos": 28,
+        "Recuperados": 15
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "17/3/2020",
+        "CASOS": 668,
+        "Hospitalizados": 281,
+        "UCI": 43,
+        "Fallecidos": 22,
+        "Recuperados": 5
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "17/3/2020",
+        "CASOS": 1866,
+        "Hospitalizados": 0,
+        "UCI": 33,
+        "Fallecidos": 41,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "17/3/2020",
+        "CASOS": 1,
+        "Hospitalizados": 0,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "17/3/2020",
+        "CASOS": 726,
+        "Hospitalizados": 530,
+        "UCI": 65,
+        "Fallecidos": 22,
+        "Recuperados": 16
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "17/3/2020",
+        "CASOS": 194,
+        "Hospitalizados": 27,
+        "UCI": 3,
+        "Fallecidos": 6,
+        "Recuperados": 6
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "17/3/2020",
+        "CASOS": 341,
+        "Hospitalizados": 63,
+        "UCI": 12,
+        "Fallecidos": 3,
+        "Recuperados": 7
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "17/3/2020",
+        "CASOS": 5637,
+        "Hospitalizados": 3778,
+        "UCI": 491,
+        "Fallecidos": 390,
+        "Recuperados": 951
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "17/3/2020",
+        "CASOS": 20,
+        "Hospitalizados": 4,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "17/3/2020",
+        "CASOS": 122,
+        "Hospitalizados": 22,
+        "UCI": 4,
+        "Fallecidos": 0,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "17/3/2020",
+        "CASOS": 386,
+        "Hospitalizados": 93,
+        "UCI": 10,
+        "Fallecidos": 3,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "17/3/2020",
+        "CASOS": 973,
+        "Hospitalizados": 353,
+        "UCI": 37,
+        "Fallecidos": 40,
+        "Recuperados": 14
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "17/3/2020",
+        "CASOS": 419,
+        "Hospitalizados": 99,
+        "UCI": 13,
+        "Fallecidos": 5,
+        "Recuperados": 2
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "18/3/2020",
+        "CASOS": 1008,
+        "Hospitalizados": 384,
+        "UCI": 25,
+        "Fallecidos": 23,
+        "Recuperados": 33
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "18/3/2020",
+        "CASOS": 281,
+        "Hospitalizados": 101,
+        "UCI": 14,
+        "Fallecidos": 15,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "18/3/2020",
+        "CASOS": 292,
+        "Hospitalizados": 61,
+        "UCI": 6,
+        "Fallecidos": 1,
+        "Recuperados": 4
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "18/3/2020",
+        "CASOS": 169,
+        "Hospitalizados": 31,
+        "UCI": 7,
+        "Fallecidos": 2,
+        "Recuperados": 6
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "18/3/2020",
+        "CASOS": 220,
+        "Hospitalizados": 82,
+        "UCI": 23,
+        "Fallecidos": 3,
+        "Recuperados": 9
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "18/3/2020",
+        "CASOS": 83,
+        "Hospitalizados": 40,
+        "UCI": 4,
+        "Fallecidos": 1,
+        "Recuperados": 10
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "18/3/2020",
+        "CASOS": 801,
+        "Hospitalizados": 313,
+        "UCI": 37,
+        "Fallecidos": 42,
+        "Recuperados": 27
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "18/3/2020",
+        "CASOS": 868,
+        "Hospitalizados": 362,
+        "UCI": 54,
+        "Fallecidos": 29,
+        "Recuperados": 27
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "18/3/2020",
+        "CASOS": 2702,
+        "Hospitalizados": 0,
+        "UCI": 33,
+        "Fallecidos": 55,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "18/3/2020",
+        "CASOS": 1,
+        "Hospitalizados": 0,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "18/3/2020",
+        "CASOS": 921,
+        "Hospitalizados": 647,
+        "UCI": 85,
+        "Fallecidos": 24,
+        "Recuperados": 19
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "18/3/2020",
+        "CASOS": 241,
+        "Hospitalizados": 36,
+        "UCI": 3,
+        "Fallecidos": 8,
+        "Recuperados": 6
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "18/3/2020",
+        "CASOS": 453,
+        "Hospitalizados": 100,
+        "UCI": 15,
+        "Fallecidos": 4,
+        "Recuperados": 4
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "18/3/2020",
+        "CASOS": 6777,
+        "Hospitalizados": 5168,
+        "UCI": 590,
+        "Fallecidos": 498,
+        "Recuperados": 941
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "18/3/2020",
+        "CASOS": 23,
+        "Hospitalizados": 4,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "18/3/2020",
+        "CASOS": 167,
+        "Hospitalizados": 36,
+        "UCI": 6,
+        "Fallecidos": 0,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "18/3/2020",
+        "CASOS": 482,
+        "Hospitalizados": 132,
+        "UCI": 11,
+        "Fallecidos": 4,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "18/3/2020",
+        "CASOS": 1190,
+        "Hospitalizados": 455,
+        "UCI": 44,
+        "Fallecidos": 53,
+        "Recuperados": 18
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "18/3/2020",
+        "CASOS": 468,
+        "Hospitalizados": 121,
+        "UCI": 15,
+        "Fallecidos": 5,
+        "Recuperados": 2
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "19/3/2020",
+        "CASOS": 1287,
+        "Hospitalizados": 501,
+        "UCI": 38,
+        "Fallecidos": 30,
+        "Recuperados": 36
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "19/3/2020",
+        "CASOS": 360,
+        "Hospitalizados": 127,
+        "UCI": 28,
+        "Fallecidos": 17,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "19/3/2020",
+        "CASOS": 344,
+        "Hospitalizados": 87,
+        "UCI": 7,
+        "Fallecidos": 2,
+        "Recuperados": 12
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "19/3/2020",
+        "CASOS": 203,
+        "Hospitalizados": 48,
+        "UCI": 10,
+        "Fallecidos": 2,
+        "Recuperados": 10
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "19/3/2020",
+        "CASOS": 287,
+        "Hospitalizados": 115,
+        "UCI": 25,
+        "Fallecidos": 4,
+        "Recuperados": 9
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "19/3/2020",
+        "CASOS": 144,
+        "Hospitalizados": 61,
+        "UCI": 7,
+        "Fallecidos": 1,
+        "Recuperados": 10
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "19/3/2020",
+        "CASOS": 1044,
+        "Hospitalizados": 313,
+        "UCI": 37,
+        "Fallecidos": 42,
+        "Recuperados": 27
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "19/3/2020",
+        "CASOS": 1147,
+        "Hospitalizados": 476,
+        "UCI": 69,
+        "Fallecidos": 43,
+        "Recuperados": 37
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "19/3/2020",
+        "CASOS": 3270,
+        "Hospitalizados": 1002,
+        "UCI": 33,
+        "Fallecidos": 82,
+        "Recuperados": 150
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "19/3/2020",
+        "CASOS": 5,
+        "Hospitalizados": 0,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "19/3/2020",
+        "CASOS": 1105,
+        "Hospitalizados": 777,
+        "UCI": 101,
+        "Fallecidos": 33,
+        "Recuperados": 20
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "19/3/2020",
+        "CASOS": 297,
+        "Hospitalizados": 44,
+        "UCI": 4,
+        "Fallecidos": 10,
+        "Recuperados": 7
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "19/3/2020",
+        "CASOS": 578,
+        "Hospitalizados": 138,
+        "UCI": 19,
+        "Fallecidos": 5,
+        "Recuperados": 5
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "19/3/2020",
+        "CASOS": 7165,
+        "Hospitalizados": 6338,
+        "UCI": 678,
+        "Fallecidos": 628,
+        "Recuperados": 1186
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "19/3/2020",
+        "CASOS": 24,
+        "Hospitalizados": 5,
+        "UCI": 1,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "19/3/2020",
+        "CASOS": 204,
+        "Hospitalizados": 47,
+        "UCI": 11,
+        "Fallecidos": 0,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "19/3/2020",
+        "CASOS": 554,
+        "Hospitalizados": 172,
+        "UCI": 19,
+        "Fallecidos": 5,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "19/3/2020",
+        "CASOS": 1465,
+        "Hospitalizados": 550,
+        "UCI": 53,
+        "Fallecidos": 71,
+        "Recuperados": 21
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "19/3/2020",
+        "CASOS": 497,
+        "Hospitalizados": 122,
+        "UCI": 15,
+        "Fallecidos": 7,
+        "Recuperados": 13
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "20/3/2020",
+        "CASOS": 1515,
+        "Hospitalizados": 605,
+        "UCI": 53,
+        "Fallecidos": 40,
+        "Recuperados": 36
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "20/3/2020",
+        "CASOS": 424,
+        "Hospitalizados": 192,
+        "UCI": 33,
+        "Fallecidos": 22,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "20/3/2020",
+        "CASOS": 486,
+        "Hospitalizados": 133,
+        "UCI": 12,
+        "Fallecidos": 5,
+        "Recuperados": 16
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "20/3/2020",
+        "CASOS": 246,
+        "Hospitalizados": 60,
+        "UCI": 14,
+        "Fallecidos": 4,
+        "Recuperados": 11
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "20/3/2020",
+        "CASOS": 348,
+        "Hospitalizados": 139,
+        "UCI": 29,
+        "Fallecidos": 7,
+        "Recuperados": 7
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "20/3/2020",
+        "CASOS": 215,
+        "Hospitalizados": 92,
+        "UCI": 9,
+        "Fallecidos": 2,
+        "Recuperados": 11
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "20/3/2020",
+        "CASOS": 1423,
+        "Hospitalizados": 635,
+        "UCI": 65,
+        "Fallecidos": 84,
+        "Recuperados": 38
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "20/3/2020",
+        "CASOS": 1466,
+        "Hospitalizados": 629,
+        "UCI": 85,
+        "Fallecidos": 55,
+        "Recuperados": 54
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "20/3/2020",
+        "CASOS": 4203,
+        "Hospitalizados": 1681,
+        "UCI": 298,
+        "Fallecidos": 122,
+        "Recuperados": 150
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "20/3/2020",
+        "CASOS": 5,
+        "Hospitalizados": 0,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "20/3/2020",
+        "CASOS": 1363,
+        "Hospitalizados": 947,
+        "UCI": 129,
+        "Fallecidos": 50,
+        "Recuperados": 25
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "20/3/2020",
+        "CASOS": 354,
+        "Hospitalizados": 65,
+        "UCI": 6,
+        "Fallecidos": 12,
+        "Recuperados": 8
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "20/3/2020",
+        "CASOS": 739,
+        "Hospitalizados": 168,
+        "UCI": 29,
+        "Fallecidos": 9,
+        "Recuperados": 6
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "20/3/2020",
+        "CASOS": 8921,
+        "Hospitalizados": 7388,
+        "UCI": 767,
+        "Fallecidos": 804,
+        "Recuperados": 1542
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "20/3/2020",
+        "CASOS": 25,
+        "Hospitalizados": 8,
+        "UCI": 1,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "20/3/2020",
+        "CASOS": 240,
+        "Hospitalizados": 61,
+        "UCI": 14,
+        "Fallecidos": 1,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "20/3/2020",
+        "CASOS": 664,
+        "Hospitalizados": 222,
+        "UCI": 25,
+        "Fallecidos": 9,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "20/3/2020",
+        "CASOS": 1725,
+        "Hospitalizados": 654,
+        "UCI": 71,
+        "Fallecidos": 85,
+        "Recuperados": 165
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "20/3/2020",
+        "CASOS": 564,
+        "Hospitalizados": 128,
+        "UCI": 17,
+        "Fallecidos": 15,
+        "Recuperados": 18
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "21/3/2020",
+        "CASOS": 1725,
+        "Hospitalizados": 724,
+        "UCI": 55,
+        "Fallecidos": 47,
+        "Recuperados": 38
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "21/3/2020",
+        "CASOS": 532,
+        "Hospitalizados": 241,
+        "UCI": 45,
+        "Fallecidos": 24,
+        "Recuperados": 3
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "21/3/2020",
+        "CASOS": 545,
+        "Hospitalizados": 171,
+        "UCI": 15,
+        "Fallecidos": 8,
+        "Recuperados": 20
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "21/3/2020",
+        "CASOS": 331,
+        "Hospitalizados": 79,
+        "UCI": 14,
+        "Fallecidos": 4,
+        "Recuperados": 17
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "21/3/2020",
+        "CASOS": 414,
+        "Hospitalizados": 150,
+        "UCI": 32,
+        "Fallecidos": 9,
+        "Recuperados": 7
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "21/3/2020",
+        "CASOS": 282,
+        "Hospitalizados": 116,
+        "UCI": 9,
+        "Fallecidos": 5,
+        "Recuperados": 11
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "21/3/2020",
+        "CASOS": 1819,
+        "Hospitalizados": 838,
+        "UCI": 76,
+        "Fallecidos": 112,
+        "Recuperados": 48
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "21/3/2020",
+        "CASOS": 1744,
+        "Hospitalizados": 798,
+        "UCI": 106,
+        "Fallecidos": 74,
+        "Recuperados": 89
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "21/3/2020",
+        "CASOS": 4704,
+        "Hospitalizados": 1681,
+        "UCI": 298,
+        "Fallecidos": 191,
+        "Recuperados": 150
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "21/3/2020",
+        "CASOS": 5,
+        "Hospitalizados": 0,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "21/3/2020",
+        "CASOS": 1604,
+        "Hospitalizados": 1136,
+        "UCI": 152,
+        "Fallecidos": 69,
+        "Recuperados": 30
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "21/3/2020",
+        "CASOS": 384,
+        "Hospitalizados": 87,
+        "UCI": 8,
+        "Fallecidos": 14,
+        "Recuperados": 8
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "21/3/2020",
+        "CASOS": 915,
+        "Hospitalizados": 227,
+        "UCI": 35,
+        "Fallecidos": 12,
+        "Recuperados": 16
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "21/3/2020",
+        "CASOS": 9702,
+        "Hospitalizados": 8441,
+        "UCI": 834,
+        "Fallecidos": 1021,
+        "Recuperados": 1899
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "21/3/2020",
+        "CASOS": 25,
+        "Hospitalizados": 12,
+        "UCI": 1,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "21/3/2020",
+        "CASOS": 296,
+        "Hospitalizados": 78,
+        "UCI": 16,
+        "Fallecidos": 1,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "21/3/2020",
+        "CASOS": 794,
+        "Hospitalizados": 288,
+        "UCI": 30,
+        "Fallecidos": 14,
+        "Recuperados": 4
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "21/3/2020",
+        "CASOS": 2097,
+        "Hospitalizados": 988,
+        "UCI": 81,
+        "Fallecidos": 97,
+        "Recuperados": 216
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "21/3/2020",
+        "CASOS": 654,
+        "Hospitalizados": 134,
+        "UCI": 17,
+        "Fallecidos": 18,
+        "Recuperados": 18
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "22/3/2020",
+        "CASOS": 1961,
+        "Hospitalizados": 865,
+        "UCI": 77,
+        "Fallecidos": 58,
+        "Recuperados": 50
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "22/3/2020",
+        "CASOS": 638,
+        "Hospitalizados": 298,
+        "UCI": 52,
+        "Fallecidos": 32,
+        "Recuperados": 30
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "22/3/2020",
+        "CASOS": 594,
+        "Hospitalizados": 194,
+        "UCI": 22,
+        "Fallecidos": 12,
+        "Recuperados": 21
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "22/3/2020",
+        "CASOS": 400,
+        "Hospitalizados": 87,
+        "UCI": 27,
+        "Fallecidos": 10,
+        "Recuperados": 18
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "22/3/2020",
+        "CASOS": 481,
+        "Hospitalizados": 172,
+        "UCI": 32,
+        "Fallecidos": 11,
+        "Recuperados": 7
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "22/3/2020",
+        "CASOS": 347,
+        "Hospitalizados": 157,
+        "UCI": 14,
+        "Fallecidos": 6,
+        "Recuperados": 11
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "22/3/2020",
+        "CASOS": 2078,
+        "Hospitalizados": 1547,
+        "UCI": 142,
+        "Fallecidos": 145,
+        "Recuperados": 51
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "22/3/2020",
+        "CASOS": 2055,
+        "Hospitalizados": 977,
+        "UCI": 120,
+        "Fallecidos": 102,
+        "Recuperados": 117
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "22/3/2020",
+        "CASOS": 5925,
+        "Hospitalizados": 1681,
+        "UCI": 551,
+        "Fallecidos": 245,
+        "Recuperados": 644
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "22/3/2020",
+        "CASOS": 6,
+        "Hospitalizados": 0,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "22/3/2020",
+        "CASOS": 1901,
+        "Hospitalizados": 1311,
+        "UCI": 181,
+        "Fallecidos": 94,
+        "Recuperados": 36
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "22/3/2020",
+        "CASOS": 493,
+        "Hospitalizados": 131,
+        "UCI": 13,
+        "Fallecidos": 18,
+        "Recuperados": 6
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "22/3/2020",
+        "CASOS": 1208,
+        "Hospitalizados": 270,
+        "UCI": 47,
+        "Fallecidos": 18,
+        "Recuperados": 19
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "22/3/2020",
+        "CASOS": 10575,
+        "Hospitalizados": 9561,
+        "UCI": 942,
+        "Fallecidos": 1263,
+        "Recuperados": 2063
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "22/3/2020",
+        "CASOS": 28,
+        "Hospitalizados": 12,
+        "UCI": 1,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "22/3/2020",
+        "CASOS": 345,
+        "Hospitalizados": 80,
+        "UCI": 23,
+        "Fallecidos": 2,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "22/3/2020",
+        "CASOS": 886,
+        "Hospitalizados": 339,
+        "UCI": 40,
+        "Fallecidos": 24,
+        "Recuperados": 7
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "22/3/2020",
+        "CASOS": 2421,
+        "Hospitalizados": 1252,
+        "UCI": 92,
+        "Fallecidos": 120,
+        "Recuperados": 283
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "22/3/2020",
+        "CASOS": 747,
+        "Hospitalizados": 166,
+        "UCI": 22,
+        "Fallecidos": 22,
+        "Recuperados": 18
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "23/3/2020",
+        "CASOS": 2471,
+        "Hospitalizados": 1132,
+        "UCI": 102,
+        "Fallecidos": 87,
+        "Recuperados": 66
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "23/3/2020",
+        "CASOS": 758,
+        "Hospitalizados": 384,
+        "UCI": 66,
+        "Fallecidos": 37,
+        "Recuperados": 3
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "23/3/2020",
+        "CASOS": 662,
+        "Hospitalizados": 224,
+        "UCI": 23,
+        "Fallecidos": 22,
+        "Recuperados": 30
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "23/3/2020",
+        "CASOS": 478,
+        "Hospitalizados": 127,
+        "UCI": 35,
+        "Fallecidos": 10,
+        "Recuperados": 19
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "23/3/2020",
+        "CASOS": 557,
+        "Hospitalizados": 207,
+        "UCI": 36,
+        "Fallecidos": 16,
+        "Recuperados": 8
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "23/3/2020",
+        "CASOS": 425,
+        "Hospitalizados": 200,
+        "UCI": 16,
+        "Fallecidos": 9,
+        "Recuperados": 12
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "23/3/2020",
+        "CASOS": 2465,
+        "Hospitalizados": 1826,
+        "UCI": 182,
+        "Fallecidos": 216,
+        "Recuperados": 53
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "23/3/2020",
+        "CASOS": 2460,
+        "Hospitalizados": 1197,
+        "UCI": 137,
+        "Fallecidos": 124,
+        "Recuperados": 140
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "23/3/2020",
+        "CASOS": 7864,
+        "Hospitalizados": 3599,
+        "UCI": 551,
+        "Fallecidos": 282,
+        "Recuperados": 728
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "23/3/2020",
+        "CASOS": 6,
+        "Hospitalizados": 0,
+        "UCI": 0,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "23/3/2020",
+        "CASOS": 2167,
+        "Hospitalizados": 1562,
+        "UCI": 222,
+        "Fallecidos": 115,
+        "Recuperados": 37
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "23/3/2020",
+        "CASOS": 636,
+        "Hospitalizados": 161,
+        "UCI": 20,
+        "Fallecidos": 26,
+        "Recuperados": 8
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "23/3/2020",
+        "CASOS": 1415,
+        "Hospitalizados": 338,
+        "UCI": 55,
+        "Fallecidos": 20,
+        "Recuperados": 19
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "23/3/2020",
+        "CASOS": 12352,
+        "Hospitalizados": 10443,
+        "UCI": 1050,
+        "Fallecidos": 1535,
+        "Recuperados": 2291
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "23/3/2020",
+        "CASOS": 28,
+        "Hospitalizados": 12,
+        "UCI": 1,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "23/3/2020",
+        "CASOS": 385,
+        "Hospitalizados": 99,
+        "UCI": 26,
+        "Fallecidos": 3,
+        "Recuperados": 1
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "23/3/2020",
+        "CASOS": 1014,
+        "Hospitalizados": 405,
+        "UCI": 45,
+        "Fallecidos": 31,
+        "Recuperados": 11
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "23/3/2020",
+        "CASOS": 2728,
+        "Hospitalizados": 1425,
+        "UCI": 106,
+        "Fallecidos": 133,
+        "Recuperados": 344
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "23/3/2020",
+        "CASOS": 802,
+        "Hospitalizados": 206,
+        "UCI": 24,
+        "Fallecidos": 30,
+        "Recuperados": 24
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "24/3/2020",
+        "CASOS": 3010,
+        "Hospitalizados": 1433,
+        "UCI": 116,
+        "Fallecidos": 113,
+        "Recuperados": 71
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "24/3/2020",
+        "CASOS": 907,
+        "Hospitalizados": 459,
+        "UCI": 75,
+        "Fallecidos": 40,
+        "Recuperados": 4
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "24/3/2020",
+        "CASOS": 779,
+        "Hospitalizados": 263,
+        "UCI": 29,
+        "Fallecidos": 25,
+        "Recuperados": 35
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "24/3/2020",
+        "CASOS": 562,
+        "Hospitalizados": 164,
+        "UCI": 40,
+        "Fallecidos": 13,
+        "Recuperados": 28
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "24/3/2020",
+        "CASOS": 657,
+        "Hospitalizados": 235,
+        "UCI": 43,
+        "Fallecidos": 21,
+        "Recuperados": 15
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "24/3/2020",
+        "CASOS": 510,
+        "Hospitalizados": 241,
+        "UCI": 18,
+        "Fallecidos": 14,
+        "Recuperados": 12
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "24/3/2020",
+        "CASOS": 2780,
+        "Hospitalizados": 2162,
+        "UCI": 210,
+        "Fallecidos": 263,
+        "Recuperados": 71
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "24/3/2020",
+        "CASOS": 2940,
+        "Hospitalizados": 1457,
+        "UCI": 170,
+        "Fallecidos": 165,
+        "Recuperados": 213
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "24/3/2020",
+        "CASOS": 9937,
+        "Hospitalizados": 5434,
+        "UCI": 781,
+        "Fallecidos": 516,
+        "Recuperados": 1274
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "24/3/2020",
+        "CASOS": 9,
+        "Hospitalizados": 2,
+        "UCI": 1,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "24/3/2020",
+        "CASOS": 2616,
+        "Hospitalizados": 1842,
+        "UCI": 255,
+        "Fallecidos": 143,
+        "Recuperados": 44
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "24/3/2020",
+        "CASOS": 742,
+        "Hospitalizados": 209,
+        "UCI": 28,
+        "Fallecidos": 39,
+        "Recuperados": 8
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "24/3/2020",
+        "CASOS": 1653,
+        "Hospitalizados": 412,
+        "UCI": 69,
+        "Fallecidos": 27,
+        "Recuperados": 25
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "24/3/2020",
+        "CASOS": 14597,
+        "Hospitalizados": 11153,
+        "UCI": 1150,
+        "Fallecidos": 1825,
+        "Recuperados": 3031
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "24/3/2020",
+        "CASOS": 38,
+        "Hospitalizados": 14,
+        "UCI": 2,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "24/3/2020",
+        "CASOS": 477,
+        "Hospitalizados": 127,
+        "UCI": 33,
+        "Fallecidos": 5,
+        "Recuperados": 4
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "24/3/2020",
+        "CASOS": 1197,
+        "Hospitalizados": 506,
+        "UCI": 51,
+        "Fallecidos": 33,
+        "Recuperados": 23
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "24/3/2020",
+        "CASOS": 3271,
+        "Hospitalizados": 1577,
+        "UCI": 119,
+        "Fallecidos": 155,
+        "Recuperados": 466
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "24/3/2020",
+        "CASOS": 928,
+        "Hospitalizados": 254,
+        "UCI": 33,
+        "Fallecidos": 37,
+        "Recuperados": 43
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "25/3/2020",
+        "CASOS": 3406,
+        "Hospitalizados": 1626,
+        "UCI": 134,
+        "Fallecidos": 134,
+        "Recuperados": 77
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "25/3/2020",
+        "CASOS": 1116,
+        "Hospitalizados": 562,
+        "UCI": 93,
+        "Fallecidos": 48,
+        "Recuperados": 4
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "25/3/2020",
+        "CASOS": 841,
+        "Hospitalizados": 300,
+        "UCI": 34,
+        "Fallecidos": 27,
+        "Recuperados": 40
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "25/3/2020",
+        "CASOS": 660,
+        "Hospitalizados": 205,
+        "UCI": 43,
+        "Fallecidos": 17,
+        "Recuperados": 39
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "25/3/2020",
+        "CASOS": 784,
+        "Hospitalizados": 279,
+        "UCI": 45,
+        "Fallecidos": 24,
+        "Recuperados": 18
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "25/3/2020",
+        "CASOS": 671,
+        "Hospitalizados": 300,
+        "UCI": 26,
+        "Fallecidos": 17,
+        "Recuperados": 14
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "25/3/2020",
+        "CASOS": 3383,
+        "Hospitalizados": 2162,
+        "UCI": 243,
+        "Fallecidos": 316,
+        "Recuperados": 95
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "25/3/2020",
+        "CASOS": 3488,
+        "Hospitalizados": 1823,
+        "UCI": 202,
+        "Fallecidos": 206,
+        "Recuperados": 308
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "25/3/2020",
+        "CASOS": 11592,
+        "Hospitalizados": 7439,
+        "UCI": 1021,
+        "Fallecidos": 672,
+        "Recuperados": 1697
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "25/3/2020",
+        "CASOS": 10,
+        "Hospitalizados": 2,
+        "UCI": 2,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "25/3/2020",
+        "CASOS": 3200,
+        "Hospitalizados": 2097,
+        "UCI": 289,
+        "Fallecidos": 167,
+        "Recuperados": 57
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "25/3/2020",
+        "CASOS": 969,
+        "Hospitalizados": 241,
+        "UCI": 34,
+        "Fallecidos": 58,
+        "Recuperados": 24
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "25/3/2020",
+        "CASOS": 1915,
+        "Hospitalizados": 503,
+        "UCI": 86,
+        "Fallecidos": 32,
+        "Recuperados": 47
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "25/3/2020",
+        "CASOS": 17166,
+        "Hospitalizados": 12440,
+        "UCI": 1221,
+        "Fallecidos": 2090,
+        "Recuperados": 3882
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "25/3/2020",
+        "CASOS": 39,
+        "Hospitalizados": 16,
+        "UCI": 2,
+        "Fallecidos": 1,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "25/3/2020",
+        "CASOS": 596,
+        "Hospitalizados": 172,
+        "UCI": 36,
+        "Fallecidos": 8,
+        "Recuperados": 9
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "25/3/2020",
+        "CASOS": 1411,
+        "Hospitalizados": 649,
+        "UCI": 54,
+        "Fallecidos": 49,
+        "Recuperados": 35
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "25/3/2020",
+        "CASOS": 3946,
+        "Hospitalizados": 1907,
+        "UCI": 137,
+        "Fallecidos": 180,
+        "Recuperados": 621
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "25/3/2020",
+        "CASOS": 995,
+        "Hospitalizados": 316,
+        "UCI": 36,
+        "Fallecidos": 43,
+        "Recuperados": 48
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "26/3/2020",
+        "CASOS": 3793,
+        "Hospitalizados": 1843,
+        "UCI": 148,
+        "Fallecidos": 144,
+        "Recuperados": 92
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "26/3/2020",
+        "CASOS": 1338,
+        "Hospitalizados": 693,
+        "UCI": 114,
+        "Fallecidos": 58,
+        "Recuperados": 8
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "26/3/2020",
+        "CASOS": 900,
+        "Hospitalizados": 339,
+        "UCI": 47,
+        "Fallecidos": 29,
+        "Recuperados": 52
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "26/3/2020",
+        "CASOS": 755,
+        "Hospitalizados": 237,
+        "UCI": 46,
+        "Fallecidos": 22,
+        "Recuperados": 67
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "26/3/2020",
+        "CASOS": 878,
+        "Hospitalizados": 328,
+        "UCI": 61,
+        "Fallecidos": 27,
+        "Recuperados": 20
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "26/3/2020",
+        "CASOS": 810,
+        "Hospitalizados": 355,
+        "UCI": 29,
+        "Fallecidos": 21,
+        "Recuperados": 19
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "26/3/2020",
+        "CASOS": 3934,
+        "Hospitalizados": 2707,
+        "UCI": 273,
+        "Fallecidos": 367,
+        "Recuperados": 153
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "26/3/2020",
+        "CASOS": 4132,
+        "Hospitalizados": 2214,
+        "UCI": 228,
+        "Fallecidos": 252,
+        "Recuperados": 423
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "26/3/2020",
+        "CASOS": 12940,
+        "Hospitalizados": 8545,
+        "UCI": 1187,
+        "Fallecidos": 880,
+        "Recuperados": 2348
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "26/3/2020",
+        "CASOS": 17,
+        "Hospitalizados": 2,
+        "UCI": 2,
+        "Fallecidos": 0,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "26/3/2020",
+        "CASOS": 3532,
+        "Hospitalizados": 2357,
+        "UCI": 325,
+        "Fallecidos": 198,
+        "Recuperados": 73
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "26/3/2020",
+        "CASOS": 1231,
+        "Hospitalizados": 277,
+        "UCI": 41,
+        "Fallecidos": 69,
+        "Recuperados": 33
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "26/3/2020",
+        "CASOS": 2322,
+        "Hospitalizados": 557,
+        "UCI": 98,
+        "Fallecidos": 43,
+        "Recuperados": 67
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "26/3/2020",
+        "CASOS": 19243,
+        "Hospitalizados": 13580,
+        "UCI": 1312,
+        "Fallecidos": 2412,
+        "Recuperados": 5044
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "26/3/2020",
+        "CASOS": 42,
+        "Hospitalizados": 18,
+        "UCI": 2,
+        "Fallecidos": 1,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "26/3/2020",
+        "CASOS": 714,
+        "Hospitalizados": 209,
+        "UCI": 53,
+        "Fallecidos": 15,
+        "Recuperados": 12
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "26/3/2020",
+        "CASOS": 1641,
+        "Hospitalizados": 732,
+        "UCI": 75,
+        "Fallecidos": 58,
+        "Recuperados": 70
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "26/3/2020",
+        "CASOS": 4601,
+        "Hospitalizados": 2270,
+        "UCI": 154,
+        "Fallecidos": 207,
+        "Recuperados": 814
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "26/3/2020",
+        "CASOS": 1236,
+        "Hospitalizados": 388,
+        "UCI": 43,
+        "Fallecidos": 55,
+        "Recuperados": 62
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "27/3/2020",
+        "CASOS": 4277,
+        "Hospitalizados": 2106,
+        "UCI": 172,
+        "Fallecidos": 175,
+        "Recuperados": 139
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "27/3/2020",
+        "CASOS": 1592,
+        "Hospitalizados": 835,
+        "UCI": 124,
+        "Fallecidos": 93,
+        "Recuperados": 8
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "27/3/2020",
+        "CASOS": 1004,
+        "Hospitalizados": 408,
+        "UCI": 50,
+        "Fallecidos": 33,
+        "Recuperados": 65
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "27/3/2020",
+        "CASOS": 862,
+        "Hospitalizados": 283,
+        "UCI": 59,
+        "Fallecidos": 26,
+        "Recuperados": 80
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "27/3/2020",
+        "CASOS": 1025,
+        "Hospitalizados": 377,
+        "UCI": 68,
+        "Fallecidos": 36,
+        "Recuperados": 25
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "27/3/2020",
+        "CASOS": 937,
+        "Hospitalizados": 406,
+        "UCI": 37,
+        "Fallecidos": 22,
+        "Recuperados": 21
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "27/3/2020",
+        "CASOS": 4512,
+        "Hospitalizados": 2977,
+        "UCI": 289,
+        "Fallecidos": 448,
+        "Recuperados": 197
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "27/3/2020",
+        "CASOS": 4791,
+        "Hospitalizados": 2648,
+        "UCI": 249,
+        "Fallecidos": 321,
+        "Recuperados": 585
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "27/3/2020",
+        "CASOS": 14263,
+        "Hospitalizados": 9900,
+        "UCI": 1324,
+        "Fallecidos": 1070,
+        "Recuperados": 3106
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "27/3/2020",
+        "CASOS": 17,
+        "Hospitalizados": 2,
+        "UCI": 2,
+        "Fallecidos": 1,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "27/3/2020",
+        "CASOS": 4034,
+        "Hospitalizados": 2606,
+        "UCI": 348,
+        "Fallecidos": 234,
+        "Recuperados": 92
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "27/3/2020",
+        "CASOS": 1394,
+        "Hospitalizados": 312,
+        "UCI": 40,
+        "Fallecidos": 88,
+        "Recuperados": 49
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "27/3/2020",
+        "CASOS": 2772,
+        "Hospitalizados": 906,
+        "UCI": 112,
+        "Fallecidos": 47,
+        "Recuperados": 95
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "27/3/2020",
+        "CASOS": 21520,
+        "Hospitalizados": 14211,
+        "UCI": 1404,
+        "Fallecidos": 2757,
+        "Recuperados": 6326
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "27/3/2020",
+        "CASOS": 45,
+        "Hospitalizados": 22,
+        "UCI": 2,
+        "Fallecidos": 1,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "27/3/2020",
+        "CASOS": 802,
+        "Hospitalizados": 231,
+        "UCI": 58,
+        "Fallecidos": 17,
+        "Recuperados": 12
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "27/3/2020",
+        "CASOS": 1829,
+        "Hospitalizados": 827,
+        "UCI": 84,
+        "Fallecidos": 70,
+        "Recuperados": 98
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "27/3/2020",
+        "CASOS": 5136,
+        "Hospitalizados": 2612,
+        "UCI": 176,
+        "Fallecidos": 241,
+        "Recuperados": 1023
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "27/3/2020",
+        "CASOS": 1436,
+        "Hospitalizados": 458,
+        "UCI": 43,
+        "Fallecidos": 65,
+        "Recuperados": 364
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "28/3/2020",
+        "CASOS": 4682,
+        "Hospitalizados": 2294,
+        "UCI": 201,
+        "Fallecidos": 207,
+        "Recuperados": 148
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "28/3/2020",
+        "CASOS": 1858,
+        "Hospitalizados": 835,
+        "UCI": 124,
+        "Fallecidos": 104,
+        "Recuperados": 8
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "28/3/2020",
+        "CASOS": 1088,
+        "Hospitalizados": 466,
+        "UCI": 57,
+        "Fallecidos": 41,
+        "Recuperados": 76
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "28/3/2020",
+        "CASOS": 958,
+        "Hospitalizados": 345,
+        "UCI": 71,
+        "Fallecidos": 29,
+        "Recuperados": 82
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "28/3/2020",
+        "CASOS": 1125,
+        "Hospitalizados": 425,
+        "UCI": 78,
+        "Fallecidos": 39,
+        "Recuperados": 30
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "28/3/2020",
+        "CASOS": 1023,
+        "Hospitalizados": 449,
+        "UCI": 40,
+        "Fallecidos": 26,
+        "Recuperados": 24
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "28/3/2020",
+        "CASOS": 5246,
+        "Hospitalizados": 3018,
+        "UCI": 299,
+        "Fallecidos": 539,
+        "Recuperados": 236
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "28/3/2020",
+        "CASOS": 5414,
+        "Hospitalizados": 3160,
+        "UCI": 278,
+        "Fallecidos": 380,
+        "Recuperados": 752
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "28/3/2020",
+        "CASOS": 15026,
+        "Hospitalizados": 10688,
+        "UCI": 1391,
+        "Fallecidos": 1226,
+        "Recuperados": 3455
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "28/3/2020",
+        "CASOS": 21,
+        "Hospitalizados": 2,
+        "UCI": 2,
+        "Fallecidos": 1,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "28/3/2020",
+        "CASOS": 4784,
+        "Hospitalizados": 2773,
+        "UCI": 375,
+        "Fallecidos": 267,
+        "Recuperados": 161
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "28/3/2020",
+        "CASOS": 1456,
+        "Hospitalizados": 313,
+        "UCI": 41,
+        "Fallecidos": 100,
+        "Recuperados": 51
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "28/3/2020",
+        "CASOS": 3139,
+        "Hospitalizados": 1043,
+        "UCI": 123,
+        "Fallecidos": 60,
+        "Recuperados": 153
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "28/3/2020",
+        "CASOS": 22677,
+        "Hospitalizados": 14454,
+        "UCI": 1429,
+        "Fallecidos": 3082,
+        "Recuperados": 7491
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "28/3/2020",
+        "CASOS": 48,
+        "Hospitalizados": 24,
+        "UCI": 2,
+        "Fallecidos": 1,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "28/3/2020",
+        "CASOS": 872,
+        "Hospitalizados": 260,
+        "UCI": 58,
+        "Fallecidos": 20,
+        "Recuperados": 16
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "28/3/2020",
+        "CASOS": 2011,
+        "Hospitalizados": 896,
+        "UCI": 90,
+        "Fallecidos": 84,
+        "Recuperados": 125
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "28/3/2020",
+        "CASOS": 5740,
+        "Hospitalizados": 3106,
+        "UCI": 271,
+        "Fallecidos": 265,
+        "Recuperados": 1503
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "28/3/2020",
+        "CASOS": 1629,
+        "Hospitalizados": 497,
+        "UCI": 43,
+        "Fallecidos": 68,
+        "Recuperados": 397
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "29/3/2020",
+        "CASOS": 5405,
+        "Hospitalizados": 2671,
+        "UCI": 216,
+        "Fallecidos": 236,
+        "Recuperados": 155
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "29/3/2020",
+        "CASOS": 2078,
+        "Hospitalizados": 1094,
+        "UCI": 156,
+        "Fallecidos": 106,
+        "Recuperados": 174
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "29/3/2020",
+        "CASOS": 1158,
+        "Hospitalizados": 479,
+        "UCI": 60,
+        "Fallecidos": 49,
+        "Recuperados": 78
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "29/3/2020",
+        "CASOS": 1000,
+        "Hospitalizados": 353,
+        "UCI": 80,
+        "Fallecidos": 37,
+        "Recuperados": 100
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "29/3/2020",
+        "CASOS": 1204,
+        "Hospitalizados": 444,
+        "UCI": 84,
+        "Fallecidos": 40,
+        "Recuperados": 32
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "29/3/2020",
+        "CASOS": 1100,
+        "Hospitalizados": 481,
+        "UCI": 46,
+        "Fallecidos": 27,
+        "Recuperados": 24
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "29/3/2020",
+        "CASOS": 5858,
+        "Hospitalizados": 3134,
+        "UCI": 302,
+        "Fallecidos": 622,
+        "Recuperados": 252
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "29/3/2020",
+        "CASOS": 5801,
+        "Hospitalizados": 3411,
+        "UCI": 307,
+        "Fallecidos": 442,
+        "Recuperados": 871
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "29/3/2020",
+        "CASOS": 16157,
+        "Hospitalizados": 11769,
+        "UCI": 1512,
+        "Fallecidos": 1410,
+        "Recuperados": 4125
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "29/3/2020",
+        "CASOS": 25,
+        "Hospitalizados": 2,
+        "UCI": 2,
+        "Fallecidos": 1,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "29/3/2020",
+        "CASOS": 5110,
+        "Hospitalizados": 2914,
+        "UCI": 393,
+        "Fallecidos": 310,
+        "Recuperados": 185
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "29/3/2020",
+        "CASOS": 1560,
+        "Hospitalizados": 353,
+        "UCI": 43,
+        "Fallecidos": 106,
+        "Recuperados": 60
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "29/3/2020",
+        "CASOS": 3723,
+        "Hospitalizados": 1147,
+        "UCI": 134,
+        "Fallecidos": 66,
+        "Recuperados": 168
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "29/3/2020",
+        "CASOS": 24090,
+        "Hospitalizados": 14917,
+        "UCI": 1460,
+        "Fallecidos": 3392,
+        "Recuperados": 8301
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "29/3/2020",
+        "CASOS": 51,
+        "Hospitalizados": 27,
+        "UCI": 3,
+        "Fallecidos": 1,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "29/3/2020",
+        "CASOS": 939,
+        "Hospitalizados": 265,
+        "UCI": 58,
+        "Fallecidos": 25,
+        "Recuperados": 17
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "29/3/2020",
+        "CASOS": 2146,
+        "Hospitalizados": 955,
+        "UCI": 96,
+        "Fallecidos": 102,
+        "Recuperados": 161
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "29/3/2020",
+        "CASOS": 6057,
+        "Hospitalizados": 3427,
+        "UCI": 293,
+        "Fallecidos": 297,
+        "Recuperados": 1646
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "29/3/2020",
+        "CASOS": 1733,
+        "Hospitalizados": 517,
+        "UCI": 43,
+        "Fallecidos": 71,
+        "Recuperados": 431
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "30/3/2020",
+        "CASOS": 5818,
+        "Hospitalizados": 2867,
+        "UCI": 235,
+        "Fallecidos": 248,
+        "Recuperados": 160
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "30/3/2020",
+        "CASOS": 2272,
+        "Hospitalizados": 1176,
+        "UCI": 165,
+        "Fallecidos": 138,
+        "Recuperados": 204
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "30/3/2020",
+        "CASOS": 1236,
+        "Hospitalizados": 529,
+        "UCI": 65,
+        "Fallecidos": 55,
+        "Recuperados": 90
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "30/3/2020",
+        "CASOS": 1069,
+        "Hospitalizados": 399,
+        "UCI": 85,
+        "Fallecidos": 42,
+        "Recuperados": 111
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "30/3/2020",
+        "CASOS": 1262,
+        "Hospitalizados": 483,
+        "UCI": 94,
+        "Fallecidos": 55,
+        "Recuperados": 57
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "30/3/2020",
+        "CASOS": 1171,
+        "Hospitalizados": 522,
+        "UCI": 50,
+        "Fallecidos": 37,
+        "Recuperados": 35
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "30/3/2020",
+        "CASOS": 6424,
+        "Hospitalizados": 3225,
+        "UCI": 344,
+        "Fallecidos": 708,
+        "Recuperados": 296
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "30/3/2020",
+        "CASOS": 6211,
+        "Hospitalizados": 3629,
+        "UCI": 325,
+        "Fallecidos": 516,
+        "Recuperados": 1028
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "30/3/2020",
+        "CASOS": 18773,
+        "Hospitalizados": 12974,
+        "UCI": 1652,
+        "Fallecidos": 1672,
+        "Recuperados": 4966
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "30/3/2020",
+        "CASOS": 34,
+        "Hospitalizados": 3,
+        "UCI": 3,
+        "Fallecidos": 1,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "30/3/2020",
+        "CASOS": 5508,
+        "Hospitalizados": 3111,
+        "UCI": 416,
+        "Fallecidos": 339,
+        "Recuperados": 200
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "30/3/2020",
+        "CASOS": 1628,
+        "Hospitalizados": 371,
+        "UCI": 51,
+        "Fallecidos": 133,
+        "Recuperados": 91
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "30/3/2020",
+        "CASOS": 4039,
+        "Hospitalizados": 1250,
+        "UCI": 149,
+        "Fallecidos": 84,
+        "Recuperados": 187
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "30/3/2020",
+        "CASOS": 27509,
+        "Hospitalizados": 15140,
+        "UCI": 1514,
+        "Fallecidos": 3603,
+        "Recuperados": 9330
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "30/3/2020",
+        "CASOS": 54,
+        "Hospitalizados": 27,
+        "UCI": 3,
+        "Fallecidos": 1,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "30/3/2020",
+        "CASOS": 974,
+        "Hospitalizados": 283,
+        "UCI": 59,
+        "Fallecidos": 34,
+        "Recuperados": 20
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "30/3/2020",
+        "CASOS": 2305,
+        "Hospitalizados": 1035,
+        "UCI": 99,
+        "Fallecidos": 113,
+        "Recuperados": 192
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "30/3/2020",
+        "CASOS": 6320,
+        "Hospitalizados": 3594,
+        "UCI": 307,
+        "Fallecidos": 325,
+        "Recuperados": 1796
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "30/3/2020",
+        "CASOS": 1810,
+        "Hospitalizados": 575,
+        "UCI": 51,
+        "Fallecidos": 85,
+        "Recuperados": 496
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "31/3/2020",
+        "CASOS": 6392,
+        "Hospitalizados": 3147,
+        "UCI": 260,
+        "Fallecidos": 308,
+        "Recuperados": 182
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "31/3/2020",
+        "CASOS": 2491,
+        "Hospitalizados": 1234,
+        "UCI": 168,
+        "Fallecidos": 169,
+        "Recuperados": 257
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "31/3/2020",
+        "CASOS": 1322,
+        "Hospitalizados": 590,
+        "UCI": 76,
+        "Fallecidos": 63,
+        "Recuperados": 109
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "31/3/2020",
+        "CASOS": 1131,
+        "Hospitalizados": 468,
+        "UCI": 95,
+        "Fallecidos": 46,
+        "Recuperados": 170
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "31/3/2020",
+        "CASOS": 1380,
+        "Hospitalizados": 532,
+        "UCI": 110,
+        "Fallecidos": 62,
+        "Recuperados": 77
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "31/3/2020",
+        "CASOS": 1213,
+        "Hospitalizados": 543,
+        "UCI": 54,
+        "Fallecidos": 54,
+        "Recuperados": 43
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "31/3/2020",
+        "CASOS": 7047,
+        "Hospitalizados": 3230,
+        "UCI": 353,
+        "Fallecidos": 774,
+        "Recuperados": 397
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "31/3/2020",
+        "CASOS": 6847,
+        "Hospitalizados": 3951,
+        "UCI": 345,
+        "Fallecidos": 585,
+        "Recuperados": 1259
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "31/3/2020",
+        "CASOS": 19991,
+        "Hospitalizados": 13969,
+        "UCI": 1769,
+        "Fallecidos": 1849,
+        "Recuperados": 5701
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "31/3/2020",
+        "CASOS": 51,
+        "Hospitalizados": 6,
+        "UCI": 3,
+        "Fallecidos": 1,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "31/3/2020",
+        "CASOS": 5922,
+        "Hospitalizados": 3253,
+        "UCI": 434,
+        "Fallecidos": 395,
+        "Recuperados": 240
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "31/3/2020",
+        "CASOS": 1679,
+        "Hospitalizados": 372,
+        "UCI": 58,
+        "Fallecidos": 152,
+        "Recuperados": 113
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "31/3/2020",
+        "CASOS": 4432,
+        "Hospitalizados": 1338,
+        "UCI": 158,
+        "Fallecidos": 103,
+        "Recuperados": 259
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "31/3/2020",
+        "CASOS": 29840,
+        "Hospitalizados": 15227,
+        "UCI": 1514,
+        "Fallecidos": 3865,
+        "Recuperados": 10827
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "31/3/2020",
+        "CASOS": 62,
+        "Hospitalizados": 32,
+        "UCI": 3,
+        "Fallecidos": 1,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "31/3/2020",
+        "CASOS": 1041,
+        "Hospitalizados": 304,
+        "UCI": 59,
+        "Fallecidos": 37,
+        "Recuperados": 43
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "31/3/2020",
+        "CASOS": 2497,
+        "Hospitalizados": 1120,
+        "UCI": 104,
+        "Fallecidos": 130,
+        "Recuperados": 236
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "31/3/2020",
+        "CASOS": 6838,
+        "Hospitalizados": 3806,
+        "UCI": 324,
+        "Fallecidos": 369,
+        "Recuperados": 2165
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "31/3/2020",
+        "CASOS": 1960,
+        "Hospitalizados": 619,
+        "UCI": 54,
+        "Fallecidos": 90,
+        "Recuperados": 569
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "1/4/2020",
+        "CASOS": 6972,
+        "Hospitalizados": 3444,
+        "UCI": 280,
+        "Fallecidos": 343,
+        "Recuperados": 228
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "1/4/2020",
+        "CASOS": 2700,
+        "Hospitalizados": 1320,
+        "UCI": 178,
+        "Fallecidos": 200,
+        "Recuperados": 320
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "1/4/2020",
+        "CASOS": 1384,
+        "Hospitalizados": 640,
+        "UCI": 79,
+        "Fallecidos": 69,
+        "Recuperados": 135
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "1/4/2020",
+        "CASOS": 1204,
+        "Hospitalizados": 517,
+        "UCI": 105,
+        "Fallecidos": 58,
+        "Recuperados": 239
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "1/4/2020",
+        "CASOS": 1444,
+        "Hospitalizados": 566,
+        "UCI": 113,
+        "Fallecidos": 68,
+        "Recuperados": 94
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "1/4/2020",
+        "CASOS": 1268,
+        "Hospitalizados": 567,
+        "UCI": 57,
+        "Fallecidos": 60,
+        "Recuperados": 60
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "1/4/2020",
+        "CASOS": 7682,
+        "Hospitalizados": 3230,
+        "UCI": 355,
+        "Fallecidos": 854,
+        "Recuperados": 494
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "1/4/2020",
+        "CASOS": 7355,
+        "Hospitalizados": 4207,
+        "UCI": 353,
+        "Fallecidos": 641,
+        "Recuperados": 1498
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "1/4/2020",
+        "CASOS": 21804,
+        "Hospitalizados": 15489,
+        "UCI": 1855,
+        "Fallecidos": 2093,
+        "Recuperados": 6917
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "1/4/2020",
+        "CASOS": 55,
+        "Hospitalizados": 7,
+        "UCI": 3,
+        "Fallecidos": 1,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "1/4/2020",
+        "CASOS": 6308,
+        "Hospitalizados": 3389,
+        "UCI": 449,
+        "Fallecidos": 443,
+        "Recuperados": 432
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "1/4/2020",
+        "CASOS": 1837,
+        "Hospitalizados": 412,
+        "UCI": 62,
+        "Fallecidos": 181,
+        "Recuperados": 139
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "1/4/2020",
+        "CASOS": 4842,
+        "Hospitalizados": 1447,
+        "UCI": 165,
+        "Fallecidos": 120,
+        "Recuperados": 333
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "1/4/2020",
+        "CASOS": 32155,
+        "Hospitalizados": 15227,
+        "UCI": 1528,
+        "Fallecidos": 4175,
+        "Recuperados": 12400
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "1/4/2020",
+        "CASOS": 62,
+        "Hospitalizados": 32,
+        "UCI": 3,
+        "Fallecidos": 1,
+        "Recuperados": 0
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "1/4/2020",
+        "CASOS": 1084,
+        "Hospitalizados": 389,
+        "UCI": 68,
+        "Fallecidos": 42,
+        "Recuperados": 45
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "1/4/2020",
+        "CASOS": 2682,
+        "Hospitalizados": 1181,
+        "UCI": 108,
+        "Fallecidos": 141,
+        "Recuperados": 278
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "1/4/2020",
+        "CASOS": 7317,
+        "Hospitalizados": 4087,
+        "UCI": 344,
+        "Fallecidos": 412,
+        "Recuperados": 2490
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "1/4/2020",
+        "CASOS": 2083,
+        "Hospitalizados": 660,
+        "UCI": 57,
+        "Fallecidos": 101,
+        "Recuperados": 641
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "2/4/2020",
+        "CASOS": 7374,
+        "Hospitalizados": 3673,
+        "UCI": 338,
+        "Fallecidos": 376,
+        "Recuperados": 258
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "2/4/2020",
+        "CASOS": 2889,
+        "Hospitalizados": 1431,
+        "UCI": 180,
+        "Fallecidos": 224,
+        "Recuperados": 378
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "2/4/2020",
+        "CASOS": 1433,
+        "Hospitalizados": 702,
+        "UCI": 86,
+        "Fallecidos": 70,
+        "Recuperados": 154
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "2/4/2020",
+        "CASOS": 1257,
+        "Hospitalizados": 587,
+        "UCI": 112,
+        "Fallecidos": 69,
+        "Recuperados": 375
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "2/4/2020",
+        "CASOS": 1490,
+        "Hospitalizados": 605,
+        "UCI": 120,
+        "Fallecidos": 73,
+        "Recuperados": 102
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "2/4/2020",
+        "CASOS": 1321,
+        "Hospitalizados": 592,
+        "UCI": 59,
+        "Fallecidos": 64,
+        "Recuperados": 74
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "2/4/2020",
+        "CASOS": 8523,
+        "Hospitalizados": 3168,
+        "UCI": 355,
+        "Fallecidos": 916,
+        "Recuperados": 579
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "2/4/2020",
+        "CASOS": 7875,
+        "Hospitalizados": 4472,
+        "UCI": 355,
+        "Fallecidos": 723,
+        "Recuperados": 1759
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "2/4/2020",
+        "CASOS": 23460,
+        "Hospitalizados": 17257,
+        "UCI": 2053,
+        "Fallecidos": 2335,
+        "Recuperados": 7849
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "2/4/2020",
+        "CASOS": 62,
+        "Hospitalizados": 8,
+        "UCI": 3,
+        "Fallecidos": 1,
+        "Recuperados": 2
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "2/4/2020",
+        "CASOS": 6624,
+        "Hospitalizados": 3492,
+        "UCI": 460,
+        "Fallecidos": 511,
+        "Recuperados": 592
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "2/4/2020",
+        "CASOS": 1893,
+        "Hospitalizados": 415,
+        "UCI": 64,
+        "Fallecidos": 200,
+        "Recuperados": 164
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "2/4/2020",
+        "CASOS": 5219,
+        "Hospitalizados": 1630,
+        "UCI": 178,
+        "Fallecidos": 138,
+        "Recuperados": 435
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "2/4/2020",
+        "CASOS": 34188,
+        "Hospitalizados": 15050,
+        "UCI": 1506,
+        "Fallecidos": 4483,
+        "Recuperados": 13850
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "2/4/2020",
+        "CASOS": 70,
+        "Hospitalizados": 34,
+        "UCI": 3,
+        "Fallecidos": 2,
+        "Recuperados": 4
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "2/4/2020",
+        "CASOS": 1145,
+        "Hospitalizados": 405,
+        "UCI": 72,
+        "Fallecidos": 46,
+        "Recuperados": 90
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "2/4/2020",
+        "CASOS": 2836,
+        "Hospitalizados": 1284,
+        "UCI": 119,
+        "Fallecidos": 151,
+        "Recuperados": 294
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "2/4/2020",
+        "CASOS": 7827,
+        "Hospitalizados": 4283,
+        "UCI": 363,
+        "Fallecidos": 444,
+        "Recuperados": 2809
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "2/4/2020",
+        "CASOS": 2224,
+        "Hospitalizados": 738,
+        "UCI": 64,
+        "Fallecidos": 109,
+        "Recuperados": 745
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "3/4/2020",
+        "CASOS": 7869,
+        "Hospitalizados": 3896,
+        "UCI": 364,
+        "Fallecidos": 426,
+        "Recuperados": 463
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "3/4/2020",
+        "CASOS": 3078,
+        "Hospitalizados": 1505,
+        "UCI": 190,
+        "Fallecidos": 251,
+        "Recuperados": 440
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "3/4/2020",
+        "CASOS": 1522,
+        "Hospitalizados": 766,
+        "UCI": 87,
+        "Fallecidos": 76,
+        "Recuperados": 190
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "3/4/2020",
+        "CASOS": 1271,
+        "Hospitalizados": 634,
+        "UCI": 114,
+        "Fallecidos": 71,
+        "Recuperados": 422
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "3/4/2020",
+        "CASOS": 1564,
+        "Hospitalizados": 632,
+        "UCI": 128,
+        "Fallecidos": 78,
+        "Recuperados": 123
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "3/4/2020",
+        "CASOS": 1384,
+        "Hospitalizados": 619,
+        "UCI": 60,
+        "Fallecidos": 68,
+        "Recuperados": 99
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "3/4/2020",
+        "CASOS": 9324,
+        "Hospitalizados": 3133,
+        "UCI": 360,
+        "Fallecidos": 989,
+        "Recuperados": 657
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "3/4/2020",
+        "CASOS": 8332,
+        "Hospitalizados": 4685,
+        "UCI": 348,
+        "Fallecidos": 786,
+        "Recuperados": 2021
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "3/4/2020",
+        "CASOS": 24734,
+        "Hospitalizados": 17678,
+        "UCI": 2108,
+        "Fallecidos": 2508,
+        "Recuperados": 8635
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "3/4/2020",
+        "CASOS": 73,
+        "Hospitalizados": 8,
+        "UCI": 4,
+        "Fallecidos": 1,
+        "Recuperados": 2
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "3/4/2020",
+        "CASOS": 6901,
+        "Hospitalizados": 3560,
+        "UCI": 470,
+        "Fallecidos": 571,
+        "Recuperados": 695
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "3/4/2020",
+        "CASOS": 1979,
+        "Hospitalizados": 453,
+        "UCI": 64,
+        "Fallecidos": 208,
+        "Recuperados": 205
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "3/4/2020",
+        "CASOS": 5625,
+        "Hospitalizados": 1767,
+        "UCI": 178,
+        "Fallecidos": 159,
+        "Recuperados": 531
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "3/4/2020",
+        "CASOS": 36249,
+        "Hospitalizados": 14741,
+        "UCI": 1498,
+        "Fallecidos": 4723,
+        "Recuperados": 15362
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "3/4/2020",
+        "CASOS": 79,
+        "Hospitalizados": 37,
+        "UCI": 3,
+        "Fallecidos": 2,
+        "Recuperados": 9
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "3/4/2020",
+        "CASOS": 1188,
+        "Hospitalizados": 434,
+        "UCI": 79,
+        "Fallecidos": 51,
+        "Recuperados": 113
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "3/4/2020",
+        "CASOS": 2972,
+        "Hospitalizados": 1341,
+        "UCI": 120,
+        "Fallecidos": 171,
+        "Recuperados": 311
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "3/4/2020",
+        "CASOS": 8187,
+        "Hospitalizados": 4522,
+        "UCI": 377,
+        "Fallecidos": 477,
+        "Recuperados": 3098
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "3/4/2020",
+        "CASOS": 2405,
+        "Hospitalizados": 805,
+        "UCI": 64,
+        "Fallecidos": 128,
+        "Recuperados": 843
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "4/4/2020",
+        "CASOS": 8301,
+        "Hospitalizados": 4107,
+        "UCI": 474,
+        "Fallecidos": 470,
+        "Recuperados": 665
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "4/4/2020",
+        "CASOS": 3232,
+        "Hospitalizados": 1588,
+        "UCI": 233,
+        "Fallecidos": 270,
+        "Recuperados": 537
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "4/4/2020",
+        "CASOS": 1605,
+        "Hospitalizados": 808,
+        "UCI": 90,
+        "Fallecidos": 80,
+        "Recuperados": 216
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "4/4/2020",
+        "CASOS": 1293,
+        "Hospitalizados": 664,
+        "UCI": 120,
+        "Fallecidos": 75,
+        "Recuperados": 461
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "4/4/2020",
+        "CASOS": 1622,
+        "Hospitalizados": 644,
+        "UCI": 129,
+        "Fallecidos": 80,
+        "Recuperados": 137
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "4/4/2020",
+        "CASOS": 1441,
+        "Hospitalizados": 639,
+        "UCI": 62,
+        "Fallecidos": 68,
+        "Recuperados": 113
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "4/4/2020",
+        "CASOS": 10031,
+        "Hospitalizados": 2950,
+        "UCI": 357,
+        "Fallecidos": 1055,
+        "Recuperados": 1149
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "4/4/2020",
+        "CASOS": 8749,
+        "Hospitalizados": 4905,
+        "UCI": 351,
+        "Fallecidos": 847,
+        "Recuperados": 2331
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "4/4/2020",
+        "CASOS": 26032,
+        "Hospitalizados": 18656,
+        "UCI": 2249,
+        "Fallecidos": 2637,
+        "Recuperados": 9528
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "4/4/2020",
+        "CASOS": 83,
+        "Hospitalizados": 9,
+        "UCI": 4,
+        "Fallecidos": 2,
+        "Recuperados": 2
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "4/4/2020",
+        "CASOS": 7184,
+        "Hospitalizados": 3620,
+        "UCI": 478,
+        "Fallecidos": 613,
+        "Recuperados": 812
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "4/4/2020",
+        "CASOS": 2047,
+        "Hospitalizados": 417,
+        "UCI": 66,
+        "Fallecidos": 218,
+        "Recuperados": 215
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "4/4/2020",
+        "CASOS": 5944,
+        "Hospitalizados": 1831,
+        "UCI": 170,
+        "Fallecidos": 174,
+        "Recuperados": 587
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "4/4/2020",
+        "CASOS": 37584,
+        "Hospitalizados": 14551,
+        "UCI": 1499,
+        "Fallecidos": 4941,
+        "Recuperados": 16543
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "4/4/2020",
+        "CASOS": 83,
+        "Hospitalizados": 38,
+        "UCI": 3,
+        "Fallecidos": 2,
+        "Recuperados": 11
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "4/4/2020",
+        "CASOS": 1235,
+        "Hospitalizados": 447,
+        "UCI": 80,
+        "Fallecidos": 59,
+        "Recuperados": 130
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "4/4/2020",
+        "CASOS": 3073,
+        "Hospitalizados": 1399,
+        "UCI": 123,
+        "Fallecidos": 178,
+        "Recuperados": 334
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "4/4/2020",
+        "CASOS": 8628,
+        "Hospitalizados": 4666,
+        "UCI": 404,
+        "Fallecidos": 515,
+        "Recuperados": 3405
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "4/4/2020",
+        "CASOS": 2592,
+        "Hospitalizados": 855,
+        "UCI": 66,
+        "Fallecidos": 134,
+        "Recuperados": 904
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "5/4/2020",
+        "CASOS": 8581,
+        "Hospitalizados": 4227,
+        "UCI": 489,
+        "Fallecidos": 491,
+        "Recuperados": 798
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "5/4/2020",
+        "CASOS": 3347,
+        "Hospitalizados": 1637,
+        "UCI": 237,
+        "Fallecidos": 284,
+        "Recuperados": 565
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "5/4/2020",
+        "CASOS": 1646,
+        "Hospitalizados": 846,
+        "UCI": 90,
+        "Fallecidos": 86,
+        "Recuperados": 222
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "5/4/2020",
+        "CASOS": 1320,
+        "Hospitalizados": 683,
+        "UCI": 121,
+        "Fallecidos": 81,
+        "Recuperados": 531
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "5/4/2020",
+        "CASOS": 1649,
+        "Hospitalizados": 651,
+        "UCI": 133,
+        "Fallecidos": 85,
+        "Recuperados": 157
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "5/4/2020",
+        "CASOS": 1483,
+        "Hospitalizados": 658,
+        "UCI": 65,
+        "Fallecidos": 77,
+        "Recuperados": 118
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "5/4/2020",
+        "CASOS": 10602,
+        "Hospitalizados": 2901,
+        "UCI": 354,
+        "Fallecidos": 1132,
+        "Recuperados": 1259
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "5/4/2020",
+        "CASOS": 9116,
+        "Hospitalizados": 5041,
+        "UCI": 348,
+        "Fallecidos": 919,
+        "Recuperados": 2533
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "5/4/2020",
+        "CASOS": 26824,
+        "Hospitalizados": 19143,
+        "UCI": 2276,
+        "Fallecidos": 2760,
+        "Recuperados": 10088
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "5/4/2020",
+        "CASOS": 83,
+        "Hospitalizados": 9,
+        "UCI": 4,
+        "Fallecidos": 3,
+        "Recuperados": 2
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "5/4/2020",
+        "CASOS": 7334,
+        "Hospitalizados": 3668,
+        "UCI": 487,
+        "Fallecidos": 637,
+        "Recuperados": 930
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "5/4/2020",
+        "CASOS": 2068,
+        "Hospitalizados": 453,
+        "UCI": 66,
+        "Fallecidos": 228,
+        "Recuperados": 223
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "5/4/2020",
+        "CASOS": 6151,
+        "Hospitalizados": 1916,
+        "UCI": 170,
+        "Fallecidos": 190,
+        "Recuperados": 610
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "5/4/2020",
+        "CASOS": 38723,
+        "Hospitalizados": 14501,
+        "UCI": 1510,
+        "Fallecidos": 5136,
+        "Recuperados": 17322
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "5/4/2020",
+        "CASOS": 86,
+        "Hospitalizados": 38,
+        "UCI": 3,
+        "Fallecidos": 2,
+        "Recuperados": 11
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "5/4/2020",
+        "CASOS": 1259,
+        "Hospitalizados": 468,
+        "UCI": 81,
+        "Fallecidos": 68,
+        "Recuperados": 156
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "5/4/2020",
+        "CASOS": 3231,
+        "Hospitalizados": 1432,
+        "UCI": 124,
+        "Fallecidos": 187,
+        "Recuperados": 380
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "5/4/2020",
+        "CASOS": 8810,
+        "Hospitalizados": 4794,
+        "UCI": 410,
+        "Fallecidos": 548,
+        "Recuperados": 3568
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "5/4/2020",
+        "CASOS": 2719,
+        "Hospitalizados": 888,
+        "UCI": 66,
+        "Fallecidos": 141,
+        "Recuperados": 964
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "6/4/2020",
+        "CASOS": 8767,
+        "Hospitalizados": 4335,
+        "UCI": 499,
+        "Fallecidos": 528,
+        "Recuperados": 900
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "6/4/2020",
+        "CASOS": 3449,
+        "Hospitalizados": 1663,
+        "UCI": 247,
+        "Fallecidos": 312,
+        "Recuperados": 578
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "6/4/2020",
+        "CASOS": 1679,
+        "Hospitalizados": 889,
+        "UCI": 91,
+        "Fallecidos": 96,
+        "Recuperados": 244
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "6/4/2020",
+        "CASOS": 1369,
+        "Hospitalizados": 705,
+        "UCI": 124,
+        "Fallecidos": 84,
+        "Recuperados": 537
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "6/4/2020",
+        "CASOS": 1725,
+        "Hospitalizados": 689,
+        "UCI": 137,
+        "Fallecidos": 89,
+        "Recuperados": 186
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "6/4/2020",
+        "CASOS": 1501,
+        "Hospitalizados": 677,
+        "UCI": 66,
+        "Fallecidos": 85,
+        "Recuperados": 129
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "6/4/2020",
+        "CASOS": 11077,
+        "Hospitalizados": 2908,
+        "UCI": 360,
+        "Fallecidos": 1177,
+        "Recuperados": 1353
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "6/4/2020",
+        "CASOS": 9581,
+        "Hospitalizados": 5180,
+        "UCI": 346,
+        "Fallecidos": 982,
+        "Recuperados": 2711
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "6/4/2020",
+        "CASOS": 28323,
+        "Hospitalizados": 19745,
+        "UCI": 2391,
+        "Fallecidos": 2908,
+        "Recuperados": 10738
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "6/4/2020",
+        "CASOS": 83,
+        "Hospitalizados": 9,
+        "UCI": 4,
+        "Fallecidos": 4,
+        "Recuperados": 2
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "6/4/2020",
+        "CASOS": 7443,
+        "Hospitalizados": 3698,
+        "UCI": 492,
+        "Fallecidos": 672,
+        "Recuperados": 1103
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "6/4/2020",
+        "CASOS": 2116,
+        "Hospitalizados": 686,
+        "UCI": 70,
+        "Fallecidos": 258,
+        "Recuperados": 282
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "6/4/2020",
+        "CASOS": 6331,
+        "Hospitalizados": 1968,
+        "UCI": 162,
+        "Fallecidos": 204,
+        "Recuperados": 688
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "6/4/2020",
+        "CASOS": 40469,
+        "Hospitalizados": 13950,
+        "UCI": 1494,
+        "Fallecidos": 5371,
+        "Recuperados": 18410
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "6/4/2020",
+        "CASOS": 92,
+        "Hospitalizados": 40,
+        "UCI": 3,
+        "Fallecidos": 2,
+        "Recuperados": 11
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "6/4/2020",
+        "CASOS": 1283,
+        "Hospitalizados": 500,
+        "UCI": 84,
+        "Fallecidos": 78,
+        "Recuperados": 193
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "6/4/2020",
+        "CASOS": 3355,
+        "Hospitalizados": 1488,
+        "UCI": 124,
+        "Fallecidos": 202,
+        "Recuperados": 421
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "6/4/2020",
+        "CASOS": 9021,
+        "Hospitalizados": 4856,
+        "UCI": 417,
+        "Fallecidos": 586,
+        "Recuperados": 3728
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "6/4/2020",
+        "CASOS": 2846,
+        "Hospitalizados": 918,
+        "UCI": 66,
+        "Fallecidos": 160,
+        "Recuperados": 994
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "7/4/2020",
+        "CASOS": 8997,
+        "Hospitalizados": 4463,
+        "UCI": 520,
+        "Fallecidos": 605,
+        "Recuperados": 1041
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "7/4/2020",
+        "CASOS": 3549,
+        "Hospitalizados": 1716,
+        "UCI": 255,
+        "Fallecidos": 349,
+        "Recuperados": 659
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "7/4/2020",
+        "CASOS": 1705,
+        "Hospitalizados": 958,
+        "UCI": 91,
+        "Fallecidos": 102,
+        "Recuperados": 294
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "7/4/2020",
+        "CASOS": 1412,
+        "Hospitalizados": 731,
+        "UCI": 129,
+        "Fallecidos": 89,
+        "Recuperados": 616
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "7/4/2020",
+        "CASOS": 1762,
+        "Hospitalizados": 703,
+        "UCI": 138,
+        "Fallecidos": 91,
+        "Recuperados": 249
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "7/4/2020",
+        "CASOS": 1572,
+        "Hospitalizados": 700,
+        "UCI": 69,
+        "Fallecidos": 92,
+        "Recuperados": 175
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "7/4/2020",
+        "CASOS": 11788,
+        "Hospitalizados": 2731,
+        "UCI": 354,
+        "Fallecidos": 1255,
+        "Recuperados": 1557
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "7/4/2020",
+        "CASOS": 10058,
+        "Hospitalizados": 5322,
+        "UCI": 342,
+        "Fallecidos": 1028,
+        "Recuperados": 2988
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "7/4/2020",
+        "CASOS": 29647,
+        "Hospitalizados": 20250,
+        "UCI": 2442,
+        "Fallecidos": 3041,
+        "Recuperados": 12250
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "7/4/2020",
+        "CASOS": 84,
+        "Hospitalizados": 9,
+        "UCI": 4,
+        "Fallecidos": 4,
+        "Recuperados": 7
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "7/4/2020",
+        "CASOS": 7655,
+        "Hospitalizados": 3713,
+        "UCI": 496,
+        "Fallecidos": 724,
+        "Recuperados": 1344
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "7/4/2020",
+        "CASOS": 2184,
+        "Hospitalizados": 898,
+        "UCI": 98,
+        "Fallecidos": 271,
+        "Recuperados": 328
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "7/4/2020",
+        "CASOS": 6538,
+        "Hospitalizados": 2014,
+        "UCI": 158,
+        "Fallecidos": 213,
+        "Recuperados": 800
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "7/4/2020",
+        "CASOS": 42450,
+        "Hospitalizados": 13289,
+        "UCI": 1450,
+        "Fallecidos": 5586,
+        "Recuperados": 19836
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "7/4/2020",
+        "CASOS": 93,
+        "Hospitalizados": 40,
+        "UCI": 3,
+        "Fallecidos": 2,
+        "Recuperados": 12
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "7/4/2020",
+        "CASOS": 1326,
+        "Hospitalizados": 515,
+        "UCI": 86,
+        "Fallecidos": 85,
+        "Recuperados": 203
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "7/4/2020",
+        "CASOS": 3467,
+        "Hospitalizados": 1526,
+        "UCI": 124,
+        "Fallecidos": 206,
+        "Recuperados": 450
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "7/4/2020",
+        "CASOS": 9452,
+        "Hospitalizados": 4982,
+        "UCI": 430,
+        "Fallecidos": 635,
+        "Recuperados": 4151
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "7/4/2020",
+        "CASOS": 2951,
+        "Hospitalizados": 955,
+        "UCI": 68,
+        "Fallecidos": 177,
+        "Recuperados": 1061
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "8/4/2020",
+        "CASOS": 9261,
+        "Hospitalizados": 4599,
+        "UCI": 538,
+        "Fallecidos": 652,
+        "Recuperados": 1193
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "8/4/2020",
+        "CASOS": 3685,
+        "Hospitalizados": 1765,
+        "UCI": 261,
+        "Fallecidos": 385,
+        "Recuperados": 718
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "8/4/2020",
+        "CASOS": 1737,
+        "Hospitalizados": 1018,
+        "UCI": 94,
+        "Fallecidos": 110,
+        "Recuperados": 340
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "8/4/2020",
+        "CASOS": 1448,
+        "Hospitalizados": 751,
+        "UCI": 132,
+        "Fallecidos": 89,
+        "Recuperados": 696
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "8/4/2020",
+        "CASOS": 1834,
+        "Hospitalizados": 730,
+        "UCI": 140,
+        "Fallecidos": 92,
+        "Recuperados": 359
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "8/4/2020",
+        "CASOS": 1619,
+        "Hospitalizados": 720,
+        "UCI": 71,
+        "Fallecidos": 98,
+        "Recuperados": 214
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "8/4/2020",
+        "CASOS": 12489,
+        "Hospitalizados": 2575,
+        "UCI": 342,
+        "Fallecidos": 1322,
+        "Recuperados": 1766
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "8/4/2020",
+        "CASOS": 10518,
+        "Hospitalizados": 5523,
+        "UCI": 338,
+        "Fallecidos": 1082,
+        "Recuperados": 3242
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "8/4/2020",
+        "CASOS": 31043,
+        "Hospitalizados": 20943,
+        "UCI": 2507,
+        "Fallecidos": 3148,
+        "Recuperados": 13063
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "8/4/2020",
+        "CASOS": 84,
+        "Hospitalizados": 9,
+        "UCI": 4,
+        "Fallecidos": 4,
+        "Recuperados": 7
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "8/4/2020",
+        "CASOS": 7964,
+        "Hospitalizados": 3815,
+        "UCI": 541,
+        "Fallecidos": 767,
+        "Recuperados": 1772
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "8/4/2020",
+        "CASOS": 2273,
+        "Hospitalizados": 958,
+        "UCI": 99,
+        "Fallecidos": 283,
+        "Recuperados": 381
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "8/4/2020",
+        "CASOS": 6758,
+        "Hospitalizados": 2094,
+        "UCI": 155,
+        "Fallecidos": 231,
+        "Recuperados": 910
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "8/4/2020",
+        "CASOS": 43877,
+        "Hospitalizados": 12853,
+        "UCI": 1433,
+        "Fallecidos": 5800,
+        "Recuperados": 21121
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "8/4/2020",
+        "CASOS": 93,
+        "Hospitalizados": 40,
+        "UCI": 3,
+        "Fallecidos": 2,
+        "Recuperados": 16
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "8/4/2020",
+        "CASOS": 1356,
+        "Hospitalizados": 533,
+        "UCI": 87,
+        "Fallecidos": 88,
+        "Recuperados": 219
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "8/4/2020",
+        "CASOS": 3575,
+        "Hospitalizados": 1526,
+        "UCI": 124,
+        "Fallecidos": 214,
+        "Recuperados": 462
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "8/4/2020",
+        "CASOS": 9806,
+        "Hospitalizados": 5130,
+        "UCI": 433,
+        "Fallecidos": 689,
+        "Recuperados": 4514
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "8/4/2020",
+        "CASOS": 3026,
+        "Hospitalizados": 997,
+        "UCI": 69,
+        "Fallecidos": 182,
+        "Recuperados": 1172
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "9/4/2020",
+        "CASOS": 9510,
+        "Hospitalizados": 4715,
+        "UCI": 582,
+        "Fallecidos": 691,
+        "Recuperados": 1437
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "9/4/2020",
+        "CASOS": 3831,
+        "Hospitalizados": 1822,
+        "UCI": 263,
+        "Fallecidos": 409,
+        "Recuperados": 797
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "9/4/2020",
+        "CASOS": 1799,
+        "Hospitalizados": 1083,
+        "UCI": 100,
+        "Fallecidos": 121,
+        "Recuperados": 372
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "9/4/2020",
+        "CASOS": 1488,
+        "Hospitalizados": 777,
+        "UCI": 136,
+        "Fallecidos": 97,
+        "Recuperados": 737
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "9/4/2020",
+        "CASOS": 1858,
+        "Hospitalizados": 738,
+        "UCI": 141,
+        "Fallecidos": 94,
+        "Recuperados": 386
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "9/4/2020",
+        "CASOS": 1659,
+        "Hospitalizados": 747,
+        "UCI": 73,
+        "Fallecidos": 102,
+        "Recuperados": 265
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "9/4/2020",
+        "CASOS": 13063,
+        "Hospitalizados": 2359,
+        "UCI": 329,
+        "Fallecidos": 1431,
+        "Recuperados": 1982
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "9/4/2020",
+        "CASOS": 11102,
+        "Hospitalizados": 5674,
+        "UCI": 332,
+        "Fallecidos": 1129,
+        "Recuperados": 3506
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "9/4/2020",
+        "CASOS": 31824,
+        "Hospitalizados": 21530,
+        "UCI": 2582,
+        "Fallecidos": 3231,
+        "Recuperados": 13513
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "9/4/2020",
+        "CASOS": 91,
+        "Hospitalizados": 9,
+        "UCI": 4,
+        "Fallecidos": 4,
+        "Recuperados": 12
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "9/4/2020",
+        "CASOS": 8331,
+        "Hospitalizados": 3987,
+        "UCI": 561,
+        "Fallecidos": 796,
+        "Recuperados": 2085
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "9/4/2020",
+        "CASOS": 2332,
+        "Hospitalizados": 1003,
+        "UCI": 101,
+        "Fallecidos": 288,
+        "Recuperados": 397
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "9/4/2020",
+        "CASOS": 6946,
+        "Hospitalizados": 2165,
+        "UCI": 151,
+        "Fallecidos": 243,
+        "Recuperados": 997
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "9/4/2020",
+        "CASOS": 44783,
+        "Hospitalizados": 12432,
+        "UCI": 1399,
+        "Fallecidos": 5972,
+        "Recuperados": 22414
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "9/4/2020",
+        "CASOS": 95,
+        "Hospitalizados": 41,
+        "UCI": 3,
+        "Fallecidos": 2,
+        "Recuperados": 17
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "9/4/2020",
+        "CASOS": 1383,
+        "Hospitalizados": 533,
+        "UCI": 88,
+        "Fallecidos": 90,
+        "Recuperados": 255
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "9/4/2020",
+        "CASOS": 3748,
+        "Hospitalizados": 1620,
+        "UCI": 124,
+        "Fallecidos": 218,
+        "Recuperados": 560
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "9/4/2020",
+        "CASOS": 10103,
+        "Hospitalizados": 5290,
+        "UCI": 442,
+        "Fallecidos": 729,
+        "Recuperados": 4680
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "9/4/2020",
+        "CASOS": 3076,
+        "Hospitalizados": 1047,
+        "UCI": 71,
+        "Fallecidos": 196,
+        "Recuperados": 1256
+    }
+]
