@@ -1,1 +1,4 @@
+<p-menu #menu [popup]="true" [model]="items"></p-menu>
+<button type="button" pButton icon="pi pi-bars" label="Mostrar" (click)="menu.toggle($event)"></button>
+
 <router-outlet></router-outlet>

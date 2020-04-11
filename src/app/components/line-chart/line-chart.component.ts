@@ -204,6 +204,9 @@ export class LineChartComponent implements OnInit, OnDestroy {
     for (let row of this.data) {
       if (fechaDefault !== row.FECHA) {
         if (fechaDefault !== null) {
+          if (this.selectedTypes.length === 1) {
+            this.dataChart.labels.push(fechaDefault);
+          }
           this.dataChart.datasets[idxEspaña].data.push(sumatorio);
         }
         fechaDefault = row.FECHA;
@@ -225,6 +228,9 @@ export class LineChartComponent implements OnInit, OnDestroy {
       if (this.selectedModo.code === 'Fallecidos') {
         sumatorio += row.Fallecidos;
       }
+    }
+    if (this.selectedTypes.length === 1) {
+      this.dataChart.labels.push(fechaDefault);
     }
     this.dataChart.datasets[idxEspaña].data.push(sumatorio);
   }
@@ -345,10 +351,6 @@ export class LineChartComponent implements OnInit, OnDestroy {
     }
 
     return row;
-  }
-
-  clear() {
-    this.selectedTypes = [];
   }
 }
 

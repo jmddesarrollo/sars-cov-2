@@ -2,11 +2,12 @@ import { Routes, RouterModule } from '@angular/router';
 import { ModuleWithProviders } from '@angular/core';
 
 import { LineChartComponent } from './components/line-chart/line-chart.component';
+import { BarChartComponent } from './components/bar-chart/bar-chart.component';
 
 const appRoutes: Routes = [
     {path: '', component: LineChartComponent},
-    {path: 'home', component: LineChartComponent, data: {titulo: 'Home'} },
-
+    {path: 'comunidades', component: LineChartComponent, data: {titulo: 'Comunidades'} },
+    {path: 'comunidad', component: BarChartComponent, data: {titulo: 'comunidad'} },
     {path: '**', component: LineChartComponent}
 ];
 

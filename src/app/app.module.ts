@@ -19,9 +19,11 @@ import { LineChartComponent } from './components/line-chart/line-chart.component
 import { SheetComponent } from './components/sheet/sheet.component';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 
+import { ButtonModule } from 'primeng/button';
 import { SelectButtonModule } from 'primeng/selectbutton';
 import { DropdownModule } from 'primeng/dropdown';
 import { BarChartComponent } from './components/bar-chart/bar-chart.component';
+import { MenuModule } from 'primeng/menu';
 
 @NgModule({
   declarations: [
@@ -33,10 +35,12 @@ import { BarChartComponent } from './components/bar-chart/bar-chart.component';
   imports: [
     BrowserModule,
     BrowserAnimationsModule,
+    ButtonModule,
     ChartModule,
     DropdownModule,
     FormsModule,
     HttpClientModule,
+    MenuModule,
     routing,
     SelectButtonModule
   ],

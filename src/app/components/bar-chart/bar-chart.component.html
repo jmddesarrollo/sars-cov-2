@@ -1,1 +1,13 @@
-<p>bar-chart works!</p>
+<div class="w3-container">
+    <div class="w3-container">
+        <div class="w3-center">
+            <h3>Consulta SARS-COV-2 por Comunidad</h3>
+        </div>
+        <p-selectButton [options]="types" [(ngModel)]="selectedType" (onChange)="aplicarCambio()"></p-selectButton>
+    </div>
+</div>
+<div class="w3-container">
+    <div class="w3-panel w3-card-4" *ngIf="!loadingData">
+        <p-chart type="bar" [data]="dataChart" width="97vw" height="80vh"></p-chart>
+    </div>
+</div>
