@@ -11,11 +11,19 @@ export class JsonService {
     private http: HttpClient
   ) { }
 
-  getComunidades() {
-    return this.http.get('/assets/files/coronavirus.json');
+  getCoronaComunidades() {
+    return this.http.get('/assets/files/corona-comunidades.json');
   }
 
-  getPoblaciones() {
-    return this.http.get('/assets/files/poblaciones.json');
+  getPoblacionesComunidades() {
+    return this.http.get('/assets/files/poblaciones-comunidades.json');
+  }
+
+  getCoronaPaises() {
+    return this.http.get('/assets/files/corona-paises.json');
+  }
+
+  getPoblacionesPaises() {
+    return this.http.get('/assets/files/poblaciones-paises.json');
   }
 }

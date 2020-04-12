@@ -85,7 +85,7 @@ export class BarChartComponent implements OnInit, OnDestroy {
 
   getDataComunidades() {
     const ob = this.jsonService
-      .getComunidades()
+      .getCoronaComunidades()
       .subscribe((response: DataComunidad[]) => {
         this.data = response;
         this.adaptarComunidad();

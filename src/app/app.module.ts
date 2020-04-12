@@ -25,13 +25,15 @@ import { DropdownModule } from 'primeng/dropdown';
 import { BarChartComponent } from './components/bar-chart/bar-chart.component';
 import { MenuModule } from 'primeng/menu';
 import { InputSwitchModule } from 'primeng/inputswitch';
+import { PaisesChartComponent } from './components/paises-chart/paises-chart.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     LineChartComponent,
     SheetComponent,
-    BarChartComponent
+    BarChartComponent,
+    PaisesChartComponent
   ],
   imports: [
     BrowserModule,

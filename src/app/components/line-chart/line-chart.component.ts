@@ -100,7 +100,7 @@ export class LineChartComponent implements OnInit, OnDestroy {
 
   getDataComunidades() {
     const ob = this.jsonService
-      .getComunidades()
+      .getCoronaComunidades()
       .subscribe((response: DataComunidad[]) => {
         this.data = response;
         this.adaptarComunidad();
@@ -111,7 +111,7 @@ export class LineChartComponent implements OnInit, OnDestroy {
 
   getDataPoblaciones() {
     const ob = this.jsonService
-      .getPoblaciones()
+      .getPoblacionesComunidades()
       .subscribe((response: DataComunidad[]) => {
         this.poblaciones = response;
       });
@@ -220,6 +220,8 @@ export class LineChartComponent implements OnInit, OnDestroy {
     }
 
     this.loadingData = false;
+
+    console.log(this.dataChart);
   }
 
   calcularEspaña() {
