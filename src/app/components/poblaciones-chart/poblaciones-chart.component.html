@@ -16,10 +16,20 @@
     <div class="w3-panel w3-card-4" *ngIf="!loadingData">
         <p-chart type="line" [data]="dataChart" [options]="options" width="97vw" height="75vh"></p-chart>
     </div>
-    <div>
-        <label>Fuente: <a href="https://www.bloomberg.com/graphics/2020-coronavirus-cases-world-map/" target="_blank">Bloomberg - Nº de contagios y fallecidos (Datos recogidos a mano a partir del 13/03/2020. Algunos paises se ha empezado a recoger más tarde)</a></label>
+    <div *ngIf="typePoblacion === 'paises'">
+        <div>
+            <label>Fuente: <a href="https://www.bloomberg.com/graphics/2020-coronavirus-cases-world-map/" target="_blank">Bloomberg - Nº de contagios y fallecidos (Datos recogidos a mano a partir del 13/03/2020. Algunos paises se ha empezado a recoger más tarde)</a></label>
+        </div>
+        <div>
+            <label>Fuente: <a href="https://es.wikipedia.org/wiki/Anexo:Pa%C3%ADses_y_territorios_dependientes_por_poblaci%C3%B3n" target="_blank">Wikipedia - Tabla de Población Mundial proyectada para el 01/07/2020</a></label>
+        </div>
     </div>
-    <div>
-        <label>Fuente: <a href="https://es.wikipedia.org/wiki/Anexo:Pa%C3%ADses_y_territorios_dependientes_por_poblaci%C3%B3n" target="_blank">Wikipedia - Tabla de Población Mundial proyectada para el 01/07/2020</a></label>
+    <div *ngIf="typePoblacion === 'provincias'">
+        <div>
+            <label>Fuente: <a href="https://sanidad.castillalamancha.es/ciudadanos/enfermedades-infecciosas/coronavirus/actualizacion-de-casos-en-castilla-la-mancha" target="_blank">Sanidad CLM - (Los datos de hospitalizados por provincia comenzaron a informarse a partir del día 22/03/2020. Fallecidos se recogen datos a partir del día 25/03/2020)</a></label>
+        </div>
+        <div>
+            <label>Fuente: <a href="https://www.ine.es/jaxiT3/Datos.htm?t=2852#!tabs-tabla" target="_blank">INE - Tabla de Población por Provincias en 2019</a></label>
+        </div>
     </div>
 </div>

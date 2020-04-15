@@ -1,4 +1,4 @@
-import { Component, OnInit, OnDestroy, Type } from '@angular/core';
+import { Component, OnInit, OnDestroy, Input } from '@angular/core';
 
 // PrimeNG
 import { SelectItem } from 'primeng/api';
@@ -7,11 +7,13 @@ import { SelectItem } from 'primeng/api';
 import { JsonService } from '../../services/json.service';
 
 @Component({
-  selector: 'app-paises-chart',
-  templateUrl: './paises-chart.component.html',
-  styleUrls: ['./paises-chart.component.css']
+  selector: 'app-poblaciones-chart',
+  templateUrl: './poblaciones-chart.component.html',
+  styleUrls: ['./poblaciones-chart.component.css'],
 })
-export class PaisesChartComponent implements OnInit, OnDestroy {
+export class PoblacionesChartComponent implements OnInit, OnDestroy {
+  @Input() typePoblacion: string;
+
   public data: any;
   public poblaciones: any;
 
@@ -41,7 +43,7 @@ export class PaisesChartComponent implements OnInit, OnDestroy {
     this.options = {
       title: {
         display: true,
-        text: 'SARS-COV-2: Contagios por Países',
+        text: 'SARS-COV-2: Por Países',
         fontSize: 16,
       },
       legend: {
@@ -53,6 +55,7 @@ export class PaisesChartComponent implements OnInit, OnDestroy {
       { name: 'Contagiados', code: 'Contagiados' },
       { name: 'Fallecidos', code: 'Fallecidos' },
     ];
+
     this.selectedModo = this.modos[0];
 
     this.checked = false;
@@ -61,8 +64,22 @@ export class PaisesChartComponent implements OnInit, OnDestroy {
   }
 
   ngOnInit() {
-    this.getDataPoblaciones();
-    this.getDataComunidades();
+    if (this.typePoblacion === 'provincias') {
+      this.getPoblacionesProvincias();
+      this.getCoronaProvincias();
+    } else {
+      this.getPoblacionesPaises();
+      this.getCoronaPaises();
+    }
+
+    if (this.typePoblacion === 'provincias') {
+      this.options.title.text = 'SARS-COV-2: Por Provincias de CLM';
+      this.modos = [
+        { name: 'Contagiados', code: 'Contagiados' },
+        { name: 'Hospitalizados', code: 'Hospitalizados'},
+        { name: 'Fallecidos', code: 'Fallecidos' },
+      ];
+    }
   }
 
   ngOnDestroy(): void {
@@ -73,7 +90,7 @@ export class PaisesChartComponent implements OnInit, OnDestroy {
     }
   }
 
-  getDataPoblaciones() {
+  getPoblacionesPaises() {
     const ob = this.jsonService
       .getPoblacionesPaises()
       .subscribe((response: DataComunidad[]) => {
@@ -81,14 +98,40 @@ export class PaisesChartComponent implements OnInit, OnDestroy {
       });
     this.observables.push(ob);
   }
+  getPoblacionesProvincias() {
+    const ob = this.jsonService
+      .getPoblacionesProvincias()
+      .subscribe((response: DataComunidad[]) => {
+        this.poblaciones = response;
+      });
+    this.observables.push(ob);
+  }
 
-  getDataComunidades() {
+  getCoronaPaises() {
     const ob = this.jsonService
       .getCoronaPaises()
       .subscribe((response: DataComunidad[]) => {
         this.data = response;
 
         this.selectedTypes = ['ESPAÑA', 'PORTUGAL', 'ITALIA'];
+        this.cargarLabels();
+        this.cargarData();
+      });
+    this.observables.push(ob);
+  }
+  getCoronaProvincias() {
+    const ob = this.jsonService
+      .getCoronaProvincias()
+      .subscribe((response: DataComunidad[]) => {
+        this.data = response;
+
+        this.selectedTypes = [
+          'Albacete',
+          'Ciudad Real',
+          'Cuenca',
+          'Guadalajara',
+          'Toledo',
+        ];
         this.cargarLabels();
         this.cargarData();
       });
@@ -108,9 +151,14 @@ export class PaisesChartComponent implements OnInit, OnDestroy {
   }
 
   cargarTypes(row) {
-    const idxType = this.types.findIndex(fila => fila.value === row.poblacion);
+    const idxType = this.types.findIndex(
+      (fila) => fila.value === row.poblacion
+    );
     if (idxType < 0) {
-      const objType: SelectItem = {label: row.poblacion, value: row.poblacion};
+      const objType: SelectItem = {
+        label: row.poblacion,
+        value: row.poblacion,
+      };
 
       this.types.push(objType);
     }
@@ -135,7 +183,9 @@ export class PaisesChartComponent implements OnInit, OnDestroy {
           }
         }
 
-        const idxPoblacion = this.poblaciones.findIndex(fila => fila.poblacion == row.poblacion);
+        const idxPoblacion = this.poblaciones.findIndex(
+          (fila) => fila.poblacion == row.poblacion
+        );
         const color = this.poblaciones[idxPoblacion].color;
 
         if (!encontrado) {
@@ -160,7 +210,9 @@ export class PaisesChartComponent implements OnInit, OnDestroy {
         let poblacionTotal = 0;
 
         if (this.checked) {
-          const idxPoblacion = this.poblaciones.findIndex(fila => fila.poblacion == row.poblacion);
+          const idxPoblacion = this.poblaciones.findIndex(
+            (fila) => fila.poblacion == row.poblacion
+          );
           poblacionTotal = this.poblaciones[idxPoblacion].Total;
         }
 
@@ -171,12 +223,15 @@ export class PaisesChartComponent implements OnInit, OnDestroy {
             if (this.selectedModo.code === 'Contagiados') {
               cantidad = row.contagiados;
             }
+            if (this.selectedModo.code === 'Hospitalizados') {
+              cantidad = row.hospitalizados;
+            }
             if (this.selectedModo.code === 'Fallecidos') {
               cantidad = row.fallecidos;
             }
 
             if (this.checked) {
-              cantidad = ( (cantidad * 100000) / poblacionTotal);
+              cantidad = (cantidad * 100000) / poblacionTotal;
             }
 
             dataset.data.push(cantidad);
@@ -205,6 +260,7 @@ interface DataComunidad {
   fecha: string;
   poblacion: string;
   contagiados: number;
+  hospitalizados: number;
   fallecidos: number;
 }
 

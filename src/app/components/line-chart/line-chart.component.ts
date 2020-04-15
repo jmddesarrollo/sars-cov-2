@@ -62,7 +62,7 @@ export class LineChartComponent implements OnInit, OnDestroy {
     this.options = {
       title: {
         display: true,
-        text: 'SARS-COV-2: Contagios por Comunidades Autonómicas',
+        text: 'SARS-COV-2: Por Comunidades Autonómicas',
         fontSize: 16,
       },
       legend: {

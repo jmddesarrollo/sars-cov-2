@@ -1,0 +1,26 @@
+[{
+        "poblacion": "Albacete",
+        "Total": 388167,
+        "color": "#FFC400"
+    },
+    {
+        "poblacion": "Ciudad Real",
+        "Total": 495761,
+        "color": "#75AEE0"
+    },
+    {
+        "poblacion": "Cuenca",
+        "Total": 196329,
+        "color": "#FF0000"
+    },
+    {
+        "poblacion": "Guadalajara",
+        "Total": 257762,
+        "color": "#FF8EF2"
+    },
+    {
+        "poblacion": "Toledo",
+        "Total": 694844,
+        "color": "#009246"
+    }
+]

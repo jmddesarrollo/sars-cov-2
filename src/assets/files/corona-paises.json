@@ -59,6 +59,12 @@
         "fallecidos": 2607
     },
     {
+        "fecha": "13/04/2020",
+        "poblacion": "ALEMANIA",
+        "contagiados": 128002,
+        "fallecidos": 3030
+    },
+    {
         "fecha": "13/03/2020",
         "poblacion": "ARGENTINA",
         "contagiados": 21,
@@ -119,6 +125,12 @@
         "fallecidos": 81
     },
     {
+        "fecha": "13/04/2020",
+        "poblacion": "ARGENTINA",
+        "contagiados": 2208,
+        "fallecidos": 97
+    },
+    {
         "fecha": "13/03/2020",
         "poblacion": "BELGICA",
         "contagiados": 399,
@@ -171,6 +183,12 @@
         "poblacion": "BELGICA",
         "contagiados": 22194,
         "fallecidos": 2035
+    },
+    {
+        "fecha": "13/04/2020",
+        "poblacion": "BELGICA",
+        "contagiados": 30589,
+        "fallecidos": 3903
     },
     {
         "fecha": "10/04/2020",
@@ -239,6 +257,12 @@
         "fallecidos": 974
     },
     {
+        "fecha": "13/04/2020",
+        "poblacion": "BRASIL",
+        "contagiados": 22720,
+        "fallecidos": 1269
+    },
+    {
         "fecha": "13/03/2020",
         "poblacion": "CHINA",
         "contagiados": 80945,
@@ -297,6 +321,12 @@
         "poblacion": "CHINA",
         "contagiados": 81907,
         "fallecidos": 3336
+    },
+    {
+        "fecha": "13/04/2020",
+        "poblacion": "CHINA",
+        "contagiados": 82159,
+        "fallecidos": 3341
     },
     {
         "fecha": "13/03/2020",
@@ -359,6 +389,12 @@
         "fallecidos": 208
     },
     {
+        "fecha": "13/04/2020",
+        "poblacion": "COREA SUR",
+        "contagiados": 10537,
+        "fallecidos": 217
+    },
+    {
         "fecha": "13/03/2020",
         "poblacion": "ESPAÑA",
         "contagiados": 3754,
@@ -417,6 +453,12 @@
         "poblacion": "ESPAÑA",
         "contagiados": 157053,
         "fallecidos": 15970
+    },
+    {
+        "fecha": "13/04/2020",
+        "poblacion": "ESPAÑA",
+        "contagiados": 169496,
+        "fallecidos": 17489
     },
     {
         "fecha": "13/03/2020",
@@ -479,64 +521,76 @@
         "fallecidos": 13215
     },
     {
+        "fecha": "13/04/2020",
+        "poblacion": "FRANCIA",
+        "contagiados": 133685,
+        "fallecidos": 14412
+    },
+    {
         "fecha": "13/03/2020",
-        "poblacion": "REINO UNIDO",
+        "poblacion": "G.BRETAÑA",
         "contagiados": 596,
         "fallecidos": 10
     },
     {
         "fecha": "17/03/2020",
-        "poblacion": "REINO UNIDO",
+        "poblacion": "G.BRETAÑA",
         "contagiados": 1543,
         "fallecidos": 55
     },
     {
         "fecha": "20/03/2020",
-        "poblacion": "REINO UNIDO",
+        "poblacion": "G.BRETAÑA",
         "contagiados": 3269,
         "fallecidos": 144
     },
     {
         "fecha": "23/03/2020",
-        "poblacion": "REINO UNIDO",
+        "poblacion": "G.BRETAÑA",
         "contagiados": 5683,
         "fallecidos": 281
     },
     {
         "fecha": "26/03/2020",
-        "poblacion": "REINO UNIDO",
+        "poblacion": "G.BRETAÑA",
         "contagiados": 9529,
         "fallecidos": 463
     },
     {
         "fecha": "29/03/2020",
-        "poblacion": "REINO UNIDO",
+        "poblacion": "G.BRETAÑA",
         "contagiados": 19522,
         "fallecidos": 1228
     },
     {
         "fecha": "01/04/2020",
-        "poblacion": "REINO UNIDO",
+        "poblacion": "G.BRETAÑA",
         "contagiados": 29474,
         "fallecidos": 2352
     },
     {
         "fecha": "04/04/2020",
-        "poblacion": "REINO UNIDO",
+        "poblacion": "G.BRETAÑA",
         "contagiados": 42433,
         "fallecidos": 4320
     },
     {
         "fecha": "07/04/2020",
-        "poblacion": "REINO UNIDO",
+        "poblacion": "G.BRETAÑA",
         "contagiados": 52302,
         "fallecidos": 5385
     },
     {
         "fecha": "10/04/2020",
-        "poblacion": "REINO UNIDO",
+        "poblacion": "G.BRETAÑA",
         "contagiados": 74605,
         "fallecidos": 8974
+    },
+    {
+        "fecha": "13/04/2020",
+        "poblacion": "G.BRETAÑA",
+        "contagiados": 89564,
+        "fallecidos": 11346
     },
     {
         "fecha": "13/03/2020",
@@ -599,6 +653,12 @@
         "fallecidos": 91
     },
     {
+        "fecha": "13/04/2020",
+        "poblacion": "GRECIA",
+        "contagiados": 2145,
+        "fallecidos": 99
+    },
+    {
         "fecha": "13/03/2020",
         "poblacion": "IRAN",
         "contagiados": 11364,
@@ -657,6 +717,12 @@
         "poblacion": "IRAN",
         "contagiados": 68192,
         "fallecidos": 4232
+    },
+    {
+        "fecha": "13/04/2020",
+        "poblacion": "IRAN",
+        "contagiados": 73303,
+        "fallecidos": 4585
     },
     {
         "fecha": "13/03/2020",
@@ -719,6 +785,12 @@
         "fallecidos": 95
     },
     {
+        "fecha": "13/04/2020",
+        "poblacion": "ISRAEL",
+        "contagiados": 11235,
+        "fallecidos": 113
+    },
+    {
         "fecha": "13/03/2020",
         "poblacion": "ITALIA",
         "contagiados": 15113,
@@ -777,6 +849,12 @@
         "poblacion": "ITALIA",
         "contagiados": 147577,
         "fallecidos": 18849
+    },
+    {
+        "fecha": "13/04/2020",
+        "poblacion": "ITALIA",
+        "contagiados": 159516,
+        "fallecidos": 20465
     },
     {
         "fecha": "13/03/2020",
@@ -839,6 +917,12 @@
         "fallecidos": 99
     },
     {
+        "fecha": "13/04/2020",
+        "poblacion": "JAPON",
+        "contagiados": 7370,
+        "fallecidos": 123
+    },
+    {
         "fecha": "13/03/2020",
         "poblacion": "MARRUECOS",
         "contagiados": 0,
@@ -897,6 +981,12 @@
         "poblacion": "MARRUECOS",
         "contagiados": 1448,
         "fallecidos": 107
+    },
+    {
+        "fecha": "13/04/2020",
+        "poblacion": "MARRUECOS",
+        "contagiados": 1746,
+        "fallecidos": 120
     },
     {
         "fecha": "13/03/2020",
@@ -959,6 +1049,12 @@
         "fallecidos": 194
     },
     {
+        "fecha": "13/04/2020",
+        "poblacion": "MEJICO",
+        "contagiados": 4661,
+        "fallecidos": 296
+    },
+    {
         "fecha": "13/03/2020",
         "poblacion": "PORTUGAL",
         "contagiados": 78,
@@ -1017,6 +1113,12 @@
         "poblacion": "PORTUGAL",
         "contagiados": 15472,
         "fallecidos": 435
+    },
+    {
+        "fecha": "13/04/2020",
+        "poblacion": "PORTUGAL",
+        "contagiados": 16934,
+        "fallecidos": 535
     },
     {
         "fecha": "13/03/2020",
@@ -1079,6 +1181,12 @@
         "fallecidos": 119
     },
     {
+        "fecha": "13/04/2020",
+        "poblacion": "REP. CHECA",
+        "contagiados": 6022,
+        "fallecidos": 143
+    },
+    {
         "fecha": "13/03/2020",
         "poblacion": "RUSIA",
         "contagiados": 0,
@@ -1137,6 +1245,12 @@
         "poblacion": "RUSIA",
         "contagiados": 11917,
         "fallecidos": 94
+    },
+    {
+        "fecha": "13/04/2020",
+        "poblacion": "RUSIA",
+        "contagiados": 18328,
+        "fallecidos": 148
     },
     {
         "fecha": "13/03/2020",
@@ -1199,6 +1313,12 @@
         "fallecidos": 1001
     },
     {
+        "fecha": "13/04/2020",
+        "poblacion": "SUIZA",
+        "contagiados": 25688,
+        "fallecidos": 1138
+    },
+    {
         "fecha": "13/03/2020",
         "poblacion": "USA",
         "contagiados": 1701,
@@ -1257,5 +1377,11 @@
         "poblacion": "USA",
         "contagiados": 486490,
         "fallecidos": 18002
+    },
+    {
+        "fecha": "13/04/2020",
+        "poblacion": "USA",
+        "contagiados": 560891,
+        "fallecidos": 22861
     }
 ]

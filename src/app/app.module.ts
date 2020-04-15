@@ -22,10 +22,14 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { ButtonModule } from 'primeng/button';
 import { SelectButtonModule } from 'primeng/selectbutton';
 import { DropdownModule } from 'primeng/dropdown';
-import { BarChartComponent } from './components/bar-chart/bar-chart.component';
 import { MenuModule } from 'primeng/menu';
 import { InputSwitchModule } from 'primeng/inputswitch';
-import { PaisesChartComponent } from './components/paises-chart/paises-chart.component';
+
+import { BarChartComponent } from './components/bar-chart/bar-chart.component';
+import { PoblacionesChartComponent } from './components/poblaciones-chart/poblaciones-chart.component';
+import { PaisesViewComponent } from './views/paises-view/paises-view.component';
+import { ProvinciasViewComponent } from './views/provincias-view/provincias-view.component';
+
 
 @NgModule({
   declarations: [
@@ -33,7 +37,9 @@ import { PaisesChartComponent } from './components/paises-chart/paises-chart.com
     LineChartComponent,
     SheetComponent,
     BarChartComponent,
-    PaisesChartComponent
+    PaisesViewComponent,
+    ProvinciasViewComponent,
+    PoblacionesChartComponent
   ],
   imports: [
     BrowserModule,

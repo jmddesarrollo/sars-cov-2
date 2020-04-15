@@ -26,4 +26,12 @@ export class JsonService {
   getPoblacionesPaises() {
     return this.http.get('/assets/files/poblaciones-paises.json');
   }
+
+  getCoronaProvincias() {
+    return this.http.get('/assets/files/corona-provincias.json');
+  }
+
+  getPoblacionesProvincias() {
+    return this.http.get('/assets/files/poblaciones-provincias.json');
+  }
 }

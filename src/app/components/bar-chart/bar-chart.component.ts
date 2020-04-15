@@ -36,7 +36,7 @@ export class BarChartComponent implements OnInit, OnDestroy {
     this.options = {
       title: {
         display: true,
-        text: 'SARS-COV-2: por Comunidad Autonómica',
+        text: 'SARS-COV-2: Por Comunidad Autonómica',
         fontSize: 16,
       },
       legend: {
@@ -152,7 +152,6 @@ export class BarChartComponent implements OnInit, OnDestroy {
   }
 
   calcularEspaña() {
-    console.log('Ole');
     let fechaDefault = null;
     let sumatorioContagiados = 0;
     let sumatorioHospitalizados = 0;
@@ -161,10 +160,7 @@ export class BarChartComponent implements OnInit, OnDestroy {
 
     for (let row of this.data) {
       if (fechaDefault !== row.FECHA) {
-        console.log(fechaDefault);
         if (fechaDefault !== null) {
-          console.log('escribe');
-          console.log(sumatorioContagiados);
           this.dataChart.labels.push(fechaDefault);
           this.dataChart.datasets[0].data.push(sumatorioContagiados);
           this.dataChart.datasets[1].data.push(sumatorioHospitalizados);

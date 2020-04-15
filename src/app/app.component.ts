@@ -18,7 +18,7 @@ export class AppComponent implements OnInit {
           { label: 'Comunidades', icon: 'pi pi-fw pi-chart-line', routerLink: ['/comunidades'] },
           { label: 'Comunidad', icon: 'pi pi-fw pi-chart-bar', routerLink: ['/comunidad'] },
           { label: 'Países', icon: 'pi pi-fw pi-chart-line', routerLink: ['/paises'] },
-          // { label: 'La Mancha', icon: 'pi pi-fw pi-chart-bar' },
+          { label: 'La Mancha', icon: 'pi pi-fw pi-chart-bar', routerLink: ['/provincias'] },
         ],
       },
     ];
