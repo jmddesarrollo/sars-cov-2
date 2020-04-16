@@ -240,6 +240,8 @@ export class PoblacionesChartComponent implements OnInit, OnDestroy {
       }
     }
 
+    this.rectificaciones();
+
     this.loadingData = false;
   }
 
@@ -253,6 +255,21 @@ export class PoblacionesChartComponent implements OnInit, OnDestroy {
 
     this.cargarLabels();
     this.cargarData();
+  }
+
+  rectificaciones() {
+    if (this.typePoblacion === 'provincias' && this.selectedModo.code === 'Hospitalizados') {
+      this.dataChart.labels = this.dataChart.labels.slice(22);
+      for (const dataset of this.dataChart.datasets) {
+        dataset.data = dataset.data.slice(22);
+      }
+    }
+    if (this.typePoblacion === 'provincias' && this.selectedModo.code === 'Fallecidos') {
+      this.dataChart.labels = this.dataChart.labels.slice(25);
+      for (const dataset of this.dataChart.datasets) {
+        dataset.data = dataset.data.slice(25);
+      }
+    }
   }
 }
 

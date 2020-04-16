@@ -317,7 +317,7 @@
         "fecha": "14/04/2020",
         "poblacion": "Albacete",
         "contagiados": 3575,
-        "hospitalizados": 454,
+        "hospitalizados": 425,
         "fallecidos": 338
     },
     {
@@ -639,7 +639,7 @@
         "fecha": "14/04/2020",
         "poblacion": "Ciudad Real",
         "contagiados": 5717,
-        "hospitalizados": 663,
+        "hospitalizados": 630,
         "fallecidos": 659
     },
     {
@@ -961,7 +961,7 @@
         "fecha": "14/04/2020",
         "poblacion": "Cuenca",
         "contagiados": 969,
-        "hospitalizados": 107,
+        "hospitalizados": 100,
         "fallecidos": 147
     },
     {
@@ -1283,7 +1283,7 @@
         "fecha": "14/04/2020",
         "poblacion": "Guadalajara",
         "contagiados": 1226,
-        "hospitalizados": 184,
+        "hospitalizados": 186,
         "fallecidos": 157
     },
     {
@@ -1605,7 +1605,42 @@
         "fecha": "14/04/2020",
         "poblacion": "Toledo",
         "contagiados": 3193,
-        "hospitalizados": 565,
+        "hospitalizados": 540,
         "fallecidos": 454
+    },
+    {
+        "fecha": "15/04/2020",
+        "poblacion": "Albacete",
+        "contagiados": 3600,
+        "hospitalizados": 406,
+        "fallecidos": 344
+    },
+    {
+        "fecha": "15/04/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 5962,
+        "hospitalizados": 594,
+        "fallecidos": 674
+    },
+    {
+        "fecha": "15/04/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 1009,
+        "hospitalizados": 95,
+        "fallecidos": 147
+    },
+    {
+        "fecha": "15/04/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 1245,
+        "hospitalizados": 189,
+        "fallecidos": 168
+    },
+    {
+        "fecha": "15/04/2020",
+        "poblacion": "Toledo",
+        "contagiados": 3335,
+        "hospitalizados": 515,
+        "fallecidos": 463
     }
 ]

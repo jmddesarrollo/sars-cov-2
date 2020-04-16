@@ -9402,5 +9402,176 @@
         "UCI": 75,
         "Fallecidos": 246,
         "Recuperados": 1585
+    },
+    {
+        "CCAA": "AN",
+        "FECHA": "15/4/2020",
+        "CASOS": 10807,
+        "Hospitalizados": 5226,
+        "UCI": 671,
+        "Fallecidos": 912,
+        "Recuperados": 2634
+    },
+    {
+        "CCAA": "AR",
+        "FECHA": "15/4/2020",
+        "CASOS": 4566,
+        "Hospitalizados": 2108,
+        "UCI": 291,
+        "Fallecidos": 543,
+        "Recuperados": 1087
+    },
+    {
+        "CCAA": "AS",
+        "FECHA": "15/4/2020",
+        "CASOS": 2170,
+        "Hospitalizados": 1432,
+        "UCI": 116,
+        "Fallecidos": 168,
+        "Recuperados": 522
+    },
+    {
+        "CCAA": "IB",
+        "FECHA": "15/4/2020",
+        "CASOS": 1637,
+        "Hospitalizados": 872,
+        "UCI": 152,
+        "Fallecidos": 131,
+        "Recuperados": 918
+    },
+    {
+        "CCAA": "CN",
+        "FECHA": "15/4/2020",
+        "CASOS": 1988,
+        "Hospitalizados": 802,
+        "UCI": 156,
+        "Fallecidos": 107,
+        "Recuperados": 673
+    },
+    {
+        "CCAA": "CB",
+        "FECHA": "15/4/2020",
+        "CASOS": 1845,
+        "Hospitalizados": 890,
+        "UCI": 77,
+        "Fallecidos": 137,
+        "Recuperados": 442
+    },
+    {
+        "CCAA": "CM",
+        "FECHA": "15/4/2020",
+        "CASOS": 15151,
+        "Hospitalizados": 1799,
+        "UCI": 503,
+        "Fallecidos": 1796,
+        "Recuperados": 3378
+    },
+    {
+        "CCAA": "CL",
+        "FECHA": "15/4/2020",
+        "CASOS": 14380,
+        "Hospitalizados": 6449,
+        "UCI": 307,
+        "Fallecidos": 1372,
+        "Recuperados": 4725
+    },
+    {
+        "CCAA": "CT",
+        "FECHA": "15/4/2020",
+        "CASOS": 37354,
+        "Hospitalizados": 23680,
+        "UCI": 2798,
+        "Fallecidos": 3855,
+        "Recuperados": 17297
+    },
+    {
+        "CCAA": "CE",
+        "FECHA": "15/4/2020",
+        "CASOS": 100,
+        "Hospitalizados": 9,
+        "UCI": 4,
+        "Fallecidos": 4,
+        "Recuperados": 41
+    },
+    {
+        "CCAA": "VC",
+        "FECHA": "15/4/2020",
+        "CASOS": 9615,
+        "Hospitalizados": 4524,
+        "UCI": 625,
+        "Fallecidos": 972,
+        "Recuperados": 3702
+    },
+    {
+        "CCAA": "EX",
+        "FECHA": "15/4/2020",
+        "CASOS": 2881,
+        "Hospitalizados": 1186,
+        "UCI": 110,
+        "Fallecidos": 359,
+        "Recuperados": 649
+    },
+    {
+        "CCAA": "GA",
+        "FECHA": "15/4/2020",
+        "CASOS": 7873,
+        "Hospitalizados": 2494,
+        "UCI": 123,
+        "Fallecidos": 310,
+        "Recuperados": 1383
+    },
+    {
+        "CCAA": "MD",
+        "FECHA": "15/4/2020",
+        "CASOS": 50694,
+        "Hospitalizados": 9653,
+        "UCI": 1206,
+        "Fallecidos": 6877,
+        "Recuperados": 28491
+    },
+    {
+        "CCAA": "ML",
+        "FECHA": "15/4/2020",
+        "CASOS": 103,
+        "Hospitalizados": 43,
+        "UCI": 3,
+        "Fallecidos": 2,
+        "Recuperados": 27
+    },
+    {
+        "CCAA": "MC",
+        "FECHA": "15/4/2020",
+        "CASOS": 1598,
+        "Hospitalizados": 575,
+        "UCI": 97,
+        "Fallecidos": 111,
+        "Recuperados": 516
+    },
+    {
+        "CCAA": "NC",
+        "FECHA": "15/4/2020",
+        "CASOS": 4348,
+        "Hospitalizados": 1752,
+        "UCI": 124,
+        "Fallecidos": 261,
+        "Recuperados": 845
+    },
+    {
+        "CCAA": "PV",
+        "FECHA": "15/4/2020",
+        "CASOS": 11790,
+        "Hospitalizados": 5863,
+        "UCI": 478,
+        "Fallecidos": 956,
+        "Recuperados": 5813
+    },
+    {
+        "CCAA": "RI",
+        "FECHA": "15/4/2020",
+        "CASOS": 3916,
+        "Hospitalizados": 1207,
+        "UCI": 75,
+        "Fallecidos": 257,
+        "Recuperados": 1654
     }
 ]

@@ -220,8 +220,6 @@ export class LineChartComponent implements OnInit, OnDestroy {
     }
 
     this.loadingData = false;
-
-    console.log(this.dataChart);
   }
 
   calcularEspaña() {

@@ -16,7 +16,6 @@ import { FormsModule} from '@angular/forms';
 // Módulos
 import { ChartModule } from 'primeng/chart';
 import { LineChartComponent } from './components/line-chart/line-chart.component';
-import { SheetComponent } from './components/sheet/sheet.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 import { ButtonModule } from 'primeng/button';
@@ -35,7 +34,6 @@ import { ProvinciasViewComponent } from './views/provincias-view/provincias-view
   declarations: [
     AppComponent,
     LineChartComponent,
-    SheetComponent,
     BarChartComponent,
     PaisesViewComponent,
     ProvinciasViewComponent,
