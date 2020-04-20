@@ -51,7 +51,7 @@ export class BarChartComponent implements OnInit, OnDestroy {
       { label: 'Baleares', value: 'Baleares' },
       { label: 'Canarias', value: 'Canarias' },
       { label: 'Cantabria', value: 'Cantabria' },
-      { label: 'La Mancha', value: 'La Mancha' },
+      { label: 'Castilla La Mancha', value: 'La Mancha' },
       { label: 'Castilla y León', value: 'Castilla y León' },
       { label: 'Cataluña', value: 'Cataluña' },
       { label: 'Ceuta', value: 'Ceuta' },

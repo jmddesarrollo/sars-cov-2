@@ -1,106 +1,85 @@
 [{
         "poblacion": "ALEMANIA",
-        "Total": 83421000,
-        "color": "#FFCF00"
+        "Total": 83421000
     },
     {
         "poblacion": "ARGENTINA",
-        "Total": 45377000,
-        "color": "#75AEE0"
+        "Total": 45377000
     },
     {
         "poblacion": "BELGICA",
-        "Total": 11555000,
-        "color": "#FAE140"
+        "Total": 11555000
     },
     {
         "poblacion": "BRASIL",
-        "Total": 211420000,
-        "color": "#009B3A"
+        "Total": 211420000
     },
     {
         "poblacion": "CHINA",
-        "Total": 1403375000,
-        "color": "#DE2910"
+        "Total": 1403375000
     },
     {
         "poblacion": "COREA SUR",
-        "Total": 51781000,
-        "color": "#0045A1"
+        "Total": 51781000
     },
     {
         "poblacion": "ESPAÑA",
-        "Total": 47183000,
-        "color": "#FFC400"
+        "Total": 47183000
     },
     {
         "poblacion": "FRANCIA",
-        "Total": 64981000,
-        "color": "#002395"
+        "Total": 64981000
     },
     {
         "poblacion": "REINO UNIDO",
-        "Total": 67236000,
-        "color": "#C9072A"
+        "Total": 67236000
     },
     {
         "poblacion": "GRECIA",
-        "Total": 10714000,
-        "color": "#055EB1"
+        "Total": 10714000
     },
     {
         "poblacion": "IRAN",
-        "Total": 83914000,
-        "color": "#239F40"
+        "Total": 83914000
     },
     {
         "poblacion": "ISRAEL",
-        "Total": 9240000,
-        "color": "#0038B8"
+        "Total": 9240000
     },
     {
         "poblacion": "ITALIA",
-        "Total": 60346000,
-        "color": "#009246"
+        "Total": 60346000
     },
     {
         "poblacion": "JAPON",
-        "Total": 125796000,
-        "color": "#FFEFA7"
+        "Total": 125796000
     },
     {
         "poblacion": "MARRUECOS",
-        "Total": 35820000,
-        "color": "#C1272D"
+        "Total": 35820000
     },
     {
         "poblacion": "MEJICO",
-        "Total": 127792000,
-        "color": "#006847"
+        "Total": 127792000
     },
     {
         "poblacion": "PORTUGAL",
-        "Total": 10222000,
-        "color": "#FF0000"
+        "Total": 10222000
     },
     {
         "poblacion": "REP. CHECA",
-        "Total": 10702000,
-        "color": "#08437F"
+        "Total": 10702000
     },
     {
         "poblacion": "RUSIA",
-        "Total": 146712000,
-        "color": "#D62718"
+        "Total": 146712000
     },
     {
         "poblacion": "SUIZA",
-        "Total": 8651000,
-        "color": "#D52B1E"
+        "Total": 8651000
     },
     {
         "poblacion": "USA",
-        "Total": 331800000,
-        "color": "#B22234"
+        "Total": 331800000
     }
 ]

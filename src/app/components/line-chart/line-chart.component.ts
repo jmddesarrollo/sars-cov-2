@@ -5,6 +5,7 @@ import { SelectItem } from 'primeng/api';
 
 // Services
 import { JsonService } from '../../services/json.service';
+import { ColoresService } from '../../services/colores.service';
 
 @Component({
   selector: 'app-line-chart',
@@ -30,7 +31,10 @@ export class LineChartComponent implements OnInit, OnDestroy {
 
   private observables = new Array();
 
-  constructor(private jsonService: JsonService) {
+  constructor(
+    private jsonService: JsonService,
+    private coloresService: ColoresService
+    ) {
     this.types = [
       { label: 'Andalucía', value: 'Andalucía' },
       { label: 'Aragón', value: 'Aragón' },
@@ -38,7 +42,7 @@ export class LineChartComponent implements OnInit, OnDestroy {
       { label: 'Baleares', value: 'Baleares' },
       { label: 'Canarias', value: 'Canarias' },
       { label: 'Cantabria', value: 'Cantabria' },
-      { label: 'La Mancha', value: 'La Mancha' },
+      { label: 'Castilla La Mancha', value: 'La Mancha' },
       { label: 'Castilla y León', value: 'Castilla y León' },
       { label: 'Cataluña', value: 'Cataluña' },
       { label: 'Ceuta', value: 'Ceuta' },
@@ -130,7 +134,8 @@ export class LineChartComponent implements OnInit, OnDestroy {
   }
 
   mostrarData() {
-    for (let row of this.data) {
+    let num = 0;
+    for (const row of this.data) {
       const idxSelCom = this.selectedTypes.indexOf(row.CCAA);
 
       if (idxSelCom >= 0) {
@@ -187,7 +192,14 @@ export class LineChartComponent implements OnInit, OnDestroy {
           };
 
           newDataSet.label = row.CCAA;
-          newDataSet.borderColor = row.Color;
+
+          // Asignar color
+          newDataSet.borderColor = '#000000';
+
+          newDataSet.borderColor = this.coloresService.getColor(num);
+          num++;
+          //
+
           if (this.selectedModo.code === 'CASOS') {
             newCantidad = row.CASOS;
           }
@@ -236,7 +248,7 @@ export class LineChartComponent implements OnInit, OnDestroy {
     // Dar de alta uno nuevo
     const newDataSet: DataSets = {
       label: "España",
-      borderColor: "#FF4B4B",
+      borderColor: "#E74C3C",
       fill: false,
       data: [],
     };
@@ -298,79 +310,60 @@ export class LineChartComponent implements OnInit, OnDestroy {
       switch (row.CCAA) {
         case 'AN':
           row.CCAA = 'Andalucía';
-          row.Color = '#3BB77B';
           break;
         case 'AR':
           row.CCAA = 'Aragón';
-          row.Color = '#FF5833';
           break;
         case 'AS':
           row.CCAA = 'Asturias';
-          row.Color = '#0072BD';
           break;
         case 'IB':
           row.CCAA = 'Baleares';
-          row.Color = '#1D206F';
           break;
         case 'CN':
           row.CCAA = 'Canarias';
-          row.Color = '#FFCC00';
           break;
         case 'CB':
           row.CCAA = 'Cantabria';
-          row.Color = '#DA121A';
           break;
         case 'CM':
           row.CCAA = 'La Mancha';
-          row.Color = '#B81626';
           break;
         case 'CL':
           row.CCAA = 'Castilla y León';
-          row.Color = '#DB0A13';
           break;
         case 'CT':
           row.CCAA = 'Cataluña';
-          row.Color = '#FFAB68';
           break;
         case 'CE':
           row.CCAA = 'Ceuta';
-          row.Color = '#000000';
           break;
         case 'VC':
           row.CCAA = 'C. Valenciana';
-          row.Color = '#7068FF';
           break;
         case 'EX':
           row.CCAA = 'Extremadura';
-          row.Color = '#00AB39';
           break;
         case 'GA':
           row.CCAA = 'Galicia';
-          row.Color = '#009ACD';
           break;
         case 'MD':
           row.CCAA = 'C. Madrid';
-          row.Color = '#C70318';
           break;
         case 'ML':
           row.CCAA = 'Melilla';
-          row.Color = '#4C86C9';
           break;
         case 'MC':
           row.CCAA = 'Murcia';
-          row.Color = '#ED1C24';
           break;
         case 'NC':
           row.CCAA = 'Navarra';
-          row.Color = '#DB0A13';
           break;
         case 'PV':
           row.CCAA = 'País Vasco';
-          row.Color = '#009B48';
           break;
         case 'RI':
           row.CCAA = 'La Rioja';
-          row.Color = '#FFC82E';
           break;
         default:
           break;
@@ -409,7 +402,6 @@ interface DataComunidad {
   UCI: number;
   Fallecidos: number;
   Recuperados: number;
-  Color: string;
 }
 
 interface DataChart {

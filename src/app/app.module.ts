@@ -13,6 +13,9 @@ import { routing, appRoutingProviders } from './app.routes';
 // Modulo para trabajo con formularios.
 import { FormsModule} from '@angular/forms';
 
+// Services
+import { ColoresService } from './services/colores.service';
+
 // Módulos
 import { ChartModule } from 'primeng/chart';
 import { LineChartComponent } from './components/line-chart/line-chart.component';
@@ -53,7 +56,8 @@ import { ProvinciasViewComponent } from './views/provincias-view/provincias-view
     SelectButtonModule
   ],
   providers: [
-    appRoutingProviders
+    appRoutingProviders,
+    ColoresService
   ],
   bootstrap: [AppComponent]
 })

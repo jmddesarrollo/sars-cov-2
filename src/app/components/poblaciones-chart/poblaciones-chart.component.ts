@@ -5,6 +5,7 @@ import { SelectItem } from 'primeng/api';
 
 // Services
 import { JsonService } from '../../services/json.service';
+import { ColoresService } from '../../services/colores.service';
 
 @Component({
   selector: 'app-poblaciones-chart',
@@ -32,7 +33,10 @@ export class PoblacionesChartComponent implements OnInit, OnDestroy {
 
   private observables = new Array();
 
-  constructor(private jsonService: JsonService) {
+  constructor(
+    private jsonService: JsonService,
+    private coloresService: ColoresService
+  ) {
     this.types = [];
 
     this.dataChart = {
@@ -76,7 +80,7 @@ export class PoblacionesChartComponent implements OnInit, OnDestroy {
       this.options.title.text = 'SARS-COV-2: Por Provincias de CLM';
       this.modos = [
         { name: 'Contagiados', code: 'Contagiados' },
-        { name: 'Hospitalizados', code: 'Hospitalizados'},
+        { name: 'Hospitalizados', code: 'Hospitalizados' },
         { name: 'Fallecidos', code: 'Fallecidos' },
       ];
     }
@@ -113,7 +117,7 @@ export class PoblacionesChartComponent implements OnInit, OnDestroy {
       .subscribe((response: DataComunidad[]) => {
         this.data = response;
 
-        this.selectedTypes = ['ESPAÑA', 'PORTUGAL', 'ITALIA'];
+        this.selectedTypes = ['ESPAÑA', 'PORTUGAL', 'ITALIA', 'ALEMANIA', 'FRANCIA'];
         this.cargarLabels();
         this.cargarData();
       });
@@ -165,6 +169,7 @@ export class PoblacionesChartComponent implements OnInit, OnDestroy {
   }
 
   cargarLabels() {
+    let num = 0;
     for (const row of this.data) {
       this.cargarTypes(row);
 
@@ -183,12 +188,17 @@ export class PoblacionesChartComponent implements OnInit, OnDestroy {
           }
         }
 
-        const idxPoblacion = this.poblaciones.findIndex(
-          (fila) => fila.poblacion == row.poblacion
-        );
-        const color = this.poblaciones[idxPoblacion].color;
-
         if (!encontrado) {
+          // Asignar color
+          let color = '#000000';
+
+          if (row.poblacion === 'ESPAÑA' || row.poblacion === 'Toledo') {
+            color = '#E74C3C';
+          } else {
+            color = this.coloresService.getColor(num);
+            num++;
+          }
+
           // Dar de alta uno nuevo
           const newDataSet: DataSets = {
             label: row.poblacion,
@@ -258,13 +268,19 @@ export class PoblacionesChartComponent implements OnInit, OnDestroy {
   }
 
   rectificaciones() {
-    if (this.typePoblacion === 'provincias' && this.selectedModo.code === 'Hospitalizados') {
+    if (
+      this.typePoblacion === 'provincias' &&
+      this.selectedModo.code === 'Hospitalizados'
+    ) {
       this.dataChart.labels = this.dataChart.labels.slice(22);
       for (const dataset of this.dataChart.datasets) {
         dataset.data = dataset.data.slice(22);
       }
     }
-    if (this.typePoblacion === 'provincias' && this.selectedModo.code === 'Fallecidos') {
+    if (
+      this.typePoblacion === 'provincias' &&
+      this.selectedModo.code === 'Fallecidos'
+    ) {
       this.dataChart.labels = this.dataChart.labels.slice(25);
       for (const dataset of this.dataChart.datasets) {
         dataset.data = dataset.data.slice(25);

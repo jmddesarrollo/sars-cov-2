@@ -1,1514 +1,1640 @@
 [{
-        "fecha": "13/03/2020",
+        "fecha": "12/03/2020",
         "poblacion": "ALEMANIA",
         "contagiados": 2745,
         "fallecidos": 6
     },
     {
-        "fecha": "17/03/2020",
+        "fecha": "16/03/2020",
         "poblacion": "ALEMANIA",
         "contagiados": 7232,
         "fallecidos": 15
     },
     {
-        "fecha": "20/03/2020",
+        "fecha": "19/03/2020",
         "poblacion": "ALEMANIA",
         "contagiados": 18607,
         "fallecidos": 49
     },
     {
-        "fecha": "23/03/2020",
+        "fecha": "22/03/2020",
         "poblacion": "ALEMANIA",
         "contagiados": 24782,
         "fallecidos": 94
     },
     {
-        "fecha": "26/03/2020",
+        "fecha": "25/03/2020",
         "poblacion": "ALEMANIA",
         "contagiados": 37179,
         "fallecidos": 203
     },
     {
-        "fecha": "29/03/2020",
+        "fecha": "28/03/2020",
         "poblacion": "ALEMANIA",
         "contagiados": 58247,
         "fallecidos": 455
     },
     {
-        "fecha": "01/04/2020",
+        "fecha": "31/03/2020",
         "poblacion": "ALEMANIA",
         "contagiados": 76544,
         "fallecidos": 858
     },
     {
-        "fecha": "04/04/2020",
+        "fecha": "03/04/2020",
         "poblacion": "ALEMANIA",
         "contagiados": 92050,
         "fallecidos": 1295
     },
     {
-        "fecha": "07/04/2020",
+        "fecha": "06/04/2020",
         "poblacion": "ALEMANIA",
         "contagiados": 104199,
         "fallecidos": 1842
     },
     {
-        "fecha": "10/04/2020",
+        "fecha": "09/04/2020",
         "poblacion": "ALEMANIA",
         "contagiados": 119624,
         "fallecidos": 2607
     },
     {
-        "fecha": "13/04/2020",
+        "fecha": "12/04/2020",
         "poblacion": "ALEMANIA",
         "contagiados": 128002,
         "fallecidos": 3030
     },
     {
-        "fecha": "13/03/2020",
+        "fecha": "12/03/2020",
         "poblacion": "ARGENTINA",
         "contagiados": 21,
         "fallecidos": 1
     },
     {
-        "fecha": "17/03/2020",
+        "fecha": "16/03/2020",
         "poblacion": "ARGENTINA",
         "contagiados": 65,
         "fallecidos": 2
     },
     {
-        "fecha": "20/03/2020",
+        "fecha": "19/03/2020",
         "poblacion": "ARGENTINA",
         "contagiados": 128,
         "fallecidos": 3
     },
     {
-        "fecha": "23/03/2020",
+        "fecha": "22/03/2020",
         "poblacion": "ARGENTINA",
         "contagiados": 266,
         "fallecidos": 4
     },
     {
-        "fecha": "26/03/2020",
+        "fecha": "25/03/2020",
         "poblacion": "ARGENTINA",
         "contagiados": 502,
         "fallecidos": 8
     },
     {
-        "fecha": "29/03/2020",
+        "fecha": "28/03/2020",
         "poblacion": "ARGENTINA",
         "contagiados": 745,
         "fallecidos": 19
     },
     {
-        "fecha": "01/04/2020",
+        "fecha": "31/03/2020",
         "poblacion": "ARGENTINA",
         "contagiados": 1054,
         "fallecidos": 28
     },
     {
-        "fecha": "04/04/2020",
+        "fecha": "03/04/2020",
         "poblacion": "ARGENTINA",
         "contagiados": 1353,
         "fallecidos": 42
     },
     {
-        "fecha": "07/04/2020",
+        "fecha": "06/04/2020",
         "poblacion": "ARGENTINA",
         "contagiados": 1628,
         "fallecidos": 55
     },
     {
-        "fecha": "10/04/2020",
+        "fecha": "09/04/2020",
         "poblacion": "ARGENTINA",
         "contagiados": 1894,
         "fallecidos": 81
     },
     {
-        "fecha": "13/04/2020",
+        "fecha": "12/04/2020",
         "poblacion": "ARGENTINA",
         "contagiados": 2208,
         "fallecidos": 97
     },
     {
-        "fecha": "13/03/2020",
+        "fecha": "12/03/2020",
         "poblacion": "BELGICA",
         "contagiados": 399,
         "fallecidos": 3
     },
     {
-        "fecha": "17/03/2020",
+        "fecha": "16/03/2020",
         "poblacion": "BELGICA",
         "contagiados": 1058,
         "fallecidos": 5
     },
     {
-        "fecha": "20/03/2020",
+        "fecha": "19/03/2020",
         "poblacion": "BELGICA",
         "contagiados": 2257,
         "fallecidos": 37
     },
     {
-        "fecha": "23/03/2020",
+        "fecha": "22/03/2020",
         "poblacion": "BELGICA",
         "contagiados": 3743,
         "fallecidos": 66
     },
     {
-        "fecha": "26/03/2020",
+        "fecha": "25/03/2020",
         "poblacion": "BELGICA",
         "contagiados": 6235,
         "fallecidos": 220
     },
     {
-        "fecha": "29/03/2020",
+        "fecha": "28/03/2020",
         "poblacion": "BELGICA",
         "contagiados": 10836,
         "fallecidos": 431
     },
     {
-        "fecha": "01/04/2020",
+        "fecha": "31/03/2020",
         "poblacion": "BELGICA",
         "contagiados": 13964,
         "fallecidos": 828
     },
     {
-        "fecha": "04/04/2020",
+        "fecha": "03/04/2020",
         "poblacion": "BELGICA",
         "contagiados": 18431,
         "fallecidos": 1283
     },
     {
-        "fecha": "07/04/2020",
+        "fecha": "06/04/2020",
         "poblacion": "BELGICA",
         "contagiados": 22194,
         "fallecidos": 2035
     },
     {
-        "fecha": "13/04/2020",
+        "fecha": "12/04/2020",
         "poblacion": "BELGICA",
         "contagiados": 30589,
         "fallecidos": 3903
     },
     {
-        "fecha": "10/04/2020",
+        "fecha": "09/04/2020",
         "poblacion": "BELGICA",
         "contagiados": 26667,
         "fallecidos": 3019
     },
     {
-        "fecha": "13/03/2020",
+        "fecha": "12/03/2020",
         "poblacion": "BRASIL",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "17/03/2020",
+        "fecha": "16/03/2020",
         "poblacion": "BRASIL",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "20/03/2020",
+        "fecha": "19/03/2020",
         "poblacion": "BRASIL",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "23/03/2020",
+        "fecha": "22/03/2020",
         "poblacion": "BRASIL",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "26/03/2020",
+        "fecha": "25/03/2020",
         "poblacion": "BRASIL",
         "contagiados": 2433,
         "fallecidos": 57
     },
     {
-        "fecha": "29/03/2020",
+        "fecha": "28/03/2020",
         "poblacion": "BRASIL",
         "contagiados": 3904,
         "fallecidos": 117
     },
     {
-        "fecha": "01/04/2020",
+        "fecha": "31/03/2020",
         "poblacion": "BRASIL",
         "contagiados": 5923,
         "fallecidos": 206
     },
     {
-        "fecha": "04/04/2020",
+        "fecha": "03/04/2020",
         "poblacion": "BRASIL",
         "contagiados": 9216,
         "fallecidos": 365
     },
     {
-        "fecha": "07/04/2020",
+        "fecha": "06/04/2020",
         "poblacion": "BRASIL",
         "contagiados": 12341,
         "fallecidos": 581
     },
     {
-        "fecha": "10/04/2020",
+        "fecha": "09/04/2020",
         "poblacion": "BRASIL",
         "contagiados": 18397,
         "fallecidos": 974
     },
     {
-        "fecha": "13/04/2020",
+        "fecha": "12/04/2020",
         "poblacion": "BRASIL",
         "contagiados": 22720,
         "fallecidos": 1269
     },
     {
-        "fecha": "13/03/2020",
+        "fecha": "12/03/2020",
         "poblacion": "CHINA",
         "contagiados": 80945,
         "fallecidos": 3179
     },
     {
-        "fecha": "17/03/2020",
+        "fecha": "16/03/2020",
         "poblacion": "CHINA",
         "contagiados": 80881,
         "fallecidos": 3226
     },
     {
-        "fecha": "20/03/2020",
+        "fecha": "19/03/2020",
         "poblacion": "CHINA",
         "contagiados": 80967,
         "fallecidos": 3248
     },
     {
-        "fecha": "23/03/2020",
+        "fecha": "22/03/2020",
         "poblacion": "CHINA",
         "contagiados": 81093,
         "fallecidos": 3270
     },
     {
-        "fecha": "26/03/2020",
+        "fecha": "25/03/2020",
         "poblacion": "CHINA",
         "contagiados": 81285,
         "fallecidos": 3287
     },
     {
-        "fecha": "29/03/2020",
+        "fecha": "28/03/2020",
         "poblacion": "CHINA",
         "contagiados": 81439,
         "fallecidos": 3300
     },
     {
-        "fecha": "01/04/2020",
+        "fecha": "31/03/2020",
         "poblacion": "CHINA",
         "contagiados": 81554,
         "fallecidos": 3312
     },
     {
-        "fecha": "04/04/2020",
+        "fecha": "03/04/2020",
         "poblacion": "CHINA",
         "contagiados": 81638,
         "fallecidos": 3326
     },
     {
-        "fecha": "07/04/2020",
+        "fecha": "06/04/2020",
         "poblacion": "CHINA",
         "contagiados": 81739,
         "fallecidos": 3331
     },
     {
-        "fecha": "10/04/2020",
+        "fecha": "09/04/2020",
         "poblacion": "CHINA",
         "contagiados": 81907,
         "fallecidos": 3336
     },
     {
-        "fecha": "13/04/2020",
+        "fecha": "12/04/2020",
         "poblacion": "CHINA",
         "contagiados": 82159,
         "fallecidos": 3341
     },
     {
-        "fecha": "13/03/2020",
+        "fecha": "12/03/2020",
         "poblacion": "COREA SUR",
         "contagiados": 7979,
         "fallecidos": 67
     },
     {
-        "fecha": "17/03/2020",
+        "fecha": "16/03/2020",
         "poblacion": "COREA SUR",
         "contagiados": 8320,
         "fallecidos": 81
     },
     {
-        "fecha": "20/03/2020",
+        "fecha": "19/03/2020",
         "poblacion": "COREA SUR",
         "contagiados": 8565,
         "fallecidos": 91
     },
     {
-        "fecha": "23/03/2020",
+        "fecha": "22/03/2020",
         "poblacion": "COREA SUR",
         "contagiados": 8961,
         "fallecidos": 111
     },
     {
-        "fecha": "26/03/2020",
+        "fecha": "25/03/2020",
         "poblacion": "COREA SUR",
         "contagiados": 9241,
         "fallecidos": 131
     },
     {
-        "fecha": "29/03/2020",
+        "fecha": "28/03/2020",
         "poblacion": "COREA SUR",
         "contagiados": 9583,
         "fallecidos": 152
     },
     {
-        "fecha": "01/04/2020",
+        "fecha": "31/03/2020",
         "poblacion": "COREA SUR",
         "contagiados": 9887,
         "fallecidos": 165
     },
     {
-        "fecha": "04/04/2020",
+        "fecha": "03/04/2020",
         "poblacion": "COREA SUR",
         "contagiados": 10156,
         "fallecidos": 177
     },
     {
-        "fecha": "07/04/2020",
+        "fecha": "06/04/2020",
         "poblacion": "COREA SUR",
         "contagiados": 10331,
         "fallecidos": 192
     },
     {
-        "fecha": "10/04/2020",
+        "fecha": "09/04/2020",
         "poblacion": "COREA SUR",
         "contagiados": 10450,
         "fallecidos": 208
     },
     {
-        "fecha": "13/04/2020",
+        "fecha": "12/04/2020",
         "poblacion": "COREA SUR",
         "contagiados": 10537,
         "fallecidos": 217
     },
     {
-        "fecha": "13/03/2020",
+        "fecha": "12/03/2020",
         "poblacion": "ESPAÑA",
         "contagiados": 3754,
         "fallecidos": 84
     },
     {
-        "fecha": "17/03/2020",
+        "fecha": "16/03/2020",
         "poblacion": "ESPAÑA",
         "contagiados": 11178,
         "fallecidos": 491
     },
     {
-        "fecha": "20/03/2020",
+        "fecha": "19/03/2020",
         "poblacion": "ESPAÑA",
         "contagiados": 19980,
         "fallecidos": 1002
     },
     {
-        "fecha": "23/03/2020",
+        "fecha": "22/03/2020",
         "poblacion": "ESPAÑA",
         "contagiados": 33089,
         "fallecidos": 2182
     },
     {
-        "fecha": "26/03/2020",
+        "fecha": "25/03/2020",
         "poblacion": "ESPAÑA",
         "contagiados": 56188,
         "fallecidos": 4089
     },
     {
-        "fecha": "29/03/2020",
+        "fecha": "28/03/2020",
         "poblacion": "ESPAÑA",
         "contagiados": 78797,
         "fallecidos": 6528
     },
     {
-        "fecha": "01/04/2020",
+        "fecha": "31/03/2020",
         "poblacion": "ESPAÑA",
         "contagiados": 102136,
         "fallecidos": 8269
     },
     {
-        "fecha": "04/04/2020",
+        "fecha": "03/04/2020",
         "poblacion": "ESPAÑA",
         "contagiados": 124736,
         "fallecidos": 11744
     },
     {
-        "fecha": "07/04/2020",
+        "fecha": "06/04/2020",
         "poblacion": "ESPAÑA",
         "contagiados": 140510,
         "fallecidos": 13798
     },
     {
-        "fecha": "10/04/2020",
+        "fecha": "09/04/2020",
         "poblacion": "ESPAÑA",
         "contagiados": 157053,
         "fallecidos": 15970
     },
     {
-        "fecha": "13/04/2020",
+        "fecha": "12/04/2020",
         "poblacion": "ESPAÑA",
         "contagiados": 169496,
         "fallecidos": 17489
     },
     {
-        "fecha": "13/03/2020",
+        "fecha": "12/03/2020",
         "poblacion": "FRANCIA",
         "contagiados": 2876,
         "fallecidos": 61
     },
     {
-        "fecha": "17/03/2020",
+        "fecha": "16/03/2020",
         "poblacion": "FRANCIA",
         "contagiados": 6633,
         "fallecidos": 148
     },
     {
-        "fecha": "20/03/2020",
+        "fecha": "19/03/2020",
         "poblacion": "FRANCIA",
         "contagiados": 10995,
         "fallecidos": 372
     },
     {
-        "fecha": "23/03/2020",
+        "fecha": "22/03/2020",
         "poblacion": "FRANCIA",
         "contagiados": 16689,
         "fallecidos": 674
     },
     {
-        "fecha": "26/03/2020",
+        "fecha": "25/03/2020",
         "poblacion": "FRANCIA",
         "contagiados": 25233,
         "fallecidos": 1331
     },
     {
-        "fecha": "29/03/2020",
+        "fecha": "28/03/2020",
         "poblacion": "FRANCIA",
         "contagiados": 37575,
         "fallecidos": 2314
     },
     {
-        "fecha": "01/04/2020",
+        "fecha": "31/03/2020",
         "poblacion": "FRANCIA",
         "contagiados": 56989,
         "fallecidos": 4032
     },
     {
-        "fecha": "04/04/2020",
+        "fecha": "03/04/2020",
         "poblacion": "FRANCIA",
         "contagiados": 83031,
         "fallecidos": 6521
     },
     {
-        "fecha": "07/04/2020",
+        "fecha": "06/04/2020",
         "poblacion": "FRANCIA",
         "contagiados": 98984,
         "fallecidos": 8926
     },
     {
-        "fecha": "10/04/2020",
+        "fecha": "09/04/2020",
         "poblacion": "FRANCIA",
         "contagiados": 125930,
         "fallecidos": 13215
     },
     {
-        "fecha": "13/04/2020",
+        "fecha": "12/04/2020",
         "poblacion": "FRANCIA",
         "contagiados": 133685,
         "fallecidos": 14412
     },
     {
-        "fecha": "13/03/2020",
+        "fecha": "12/03/2020",
         "poblacion": "REINO UNIDO",
         "contagiados": 596,
         "fallecidos": 10
     },
     {
-        "fecha": "17/03/2020",
+        "fecha": "16/03/2020",
         "poblacion": "REINO UNIDO",
         "contagiados": 1543,
         "fallecidos": 55
     },
     {
-        "fecha": "20/03/2020",
+        "fecha": "19/03/2020",
         "poblacion": "REINO UNIDO",
         "contagiados": 3269,
         "fallecidos": 144
     },
     {
-        "fecha": "23/03/2020",
+        "fecha": "22/03/2020",
         "poblacion": "REINO UNIDO",
         "contagiados": 5683,
         "fallecidos": 281
     },
     {
-        "fecha": "26/03/2020",
+        "fecha": "25/03/2020",
         "poblacion": "REINO UNIDO",
         "contagiados": 9529,
         "fallecidos": 463
     },
     {
-        "fecha": "29/03/2020",
+        "fecha": "28/03/2020",
         "poblacion": "REINO UNIDO",
         "contagiados": 19522,
         "fallecidos": 1228
     },
     {
-        "fecha": "01/04/2020",
+        "fecha": "31/03/2020",
         "poblacion": "REINO UNIDO",
         "contagiados": 29474,
         "fallecidos": 2352
     },
     {
-        "fecha": "04/04/2020",
+        "fecha": "03/04/2020",
         "poblacion": "REINO UNIDO",
         "contagiados": 42433,
         "fallecidos": 4320
     },
     {
-        "fecha": "07/04/2020",
+        "fecha": "06/04/2020",
         "poblacion": "REINO UNIDO",
         "contagiados": 52302,
         "fallecidos": 5385
     },
     {
-        "fecha": "10/04/2020",
+        "fecha": "09/04/2020",
         "poblacion": "REINO UNIDO",
         "contagiados": 74605,
         "fallecidos": 8974
     },
     {
-        "fecha": "13/04/2020",
+        "fecha": "12/04/2020",
         "poblacion": "REINO UNIDO",
         "contagiados": 89564,
         "fallecidos": 11346
     },
     {
-        "fecha": "13/03/2020",
+        "fecha": "12/03/2020",
         "poblacion": "GRECIA",
         "contagiados": 133,
         "fallecidos": 1
     },
     {
-        "fecha": "17/03/2020",
+        "fecha": "16/03/2020",
         "poblacion": "GRECIA",
         "contagiados": 352,
         "fallecidos": 4
     },
     {
-        "fecha": "20/03/2020",
+        "fecha": "19/03/2020",
         "poblacion": "GRECIA",
         "contagiados": 495,
         "fallecidos": 9
     },
     {
-        "fecha": "23/03/2020",
+        "fecha": "22/03/2020",
         "poblacion": "GRECIA",
         "contagiados": 624,
         "fallecidos": 15
     },
     {
-        "fecha": "26/03/2020",
+        "fecha": "25/03/2020",
         "poblacion": "GRECIA",
         "contagiados": 821,
         "fallecidos": 22
     },
     {
-        "fecha": "29/03/2020",
+        "fecha": "28/03/2020",
         "poblacion": "GRECIA",
         "contagiados": 1061,
         "fallecidos": 37
     },
     {
-        "fecha": "01/04/2020",
+        "fecha": "31/03/2020",
         "poblacion": "GRECIA",
         "contagiados": 1415,
         "fallecidos": 50
     },
     {
-        "fecha": "04/04/2020",
+        "fecha": "03/04/2020",
         "poblacion": "GRECIA",
         "contagiados": 1643,
         "fallecidos": 67
     },
     {
-        "fecha": "07/04/2020",
+        "fecha": "06/04/2020",
         "poblacion": "GRECIA",
         "contagiados": 1755,
         "fallecidos": 81
     },
     {
-        "fecha": "10/04/2020",
+        "fecha": "09/04/2020",
         "poblacion": "GRECIA",
         "contagiados": 2011,
         "fallecidos": 91
     },
     {
-        "fecha": "13/04/2020",
+        "fecha": "12/04/2020",
         "poblacion": "GRECIA",
         "contagiados": 2145,
         "fallecidos": 99
     },
     {
-        "fecha": "13/03/2020",
+        "fecha": "12/03/2020",
         "poblacion": "IRAN",
         "contagiados": 11364,
         "fallecidos": 514
     },
     {
-        "fecha": "17/03/2020",
+        "fecha": "16/03/2020",
         "poblacion": "IRAN",
         "contagiados": 16169,
         "fallecidos": 988
     },
     {
-        "fecha": "20/03/2020",
+        "fecha": "19/03/2020",
         "poblacion": "IRAN",
         "contagiados": 18407,
         "fallecidos": 1284
     },
     {
-        "fecha": "23/03/2020",
+        "fecha": "22/03/2020",
         "poblacion": "IRAN",
         "contagiados": 23049,
         "fallecidos": 1812
     },
     {
-        "fecha": "26/03/2020",
+        "fecha": "25/03/2020",
         "poblacion": "IRAN",
         "contagiados": 29406,
         "fallecidos": 2234
     },
     {
-        "fecha": "29/03/2020",
+        "fecha": "28/03/2020",
         "poblacion": "IRAN",
         "contagiados": 38309,
         "fallecidos": 2640
     },
     {
-        "fecha": "01/04/2020",
+        "fecha": "31/03/2020",
         "poblacion": "IRAN",
         "contagiados": 47593,
         "fallecidos": 3036
     },
     {
-        "fecha": "04/04/2020",
+        "fecha": "03/04/2020",
         "poblacion": "IRAN",
         "contagiados": 55743,
         "fallecidos": 3452
     },
     {
-        "fecha": "07/04/2020",
+        "fecha": "06/04/2020",
         "poblacion": "IRAN",
         "contagiados": 62589,
         "fallecidos": 3872
     },
     {
-        "fecha": "10/04/2020",
+        "fecha": "09/04/2020",
         "poblacion": "IRAN",
         "contagiados": 68192,
         "fallecidos": 4232
     },
     {
-        "fecha": "13/04/2020",
+        "fecha": "12/04/2020",
         "poblacion": "IRAN",
         "contagiados": 73303,
         "fallecidos": 4585
     },
     {
-        "fecha": "13/03/2020",
+        "fecha": "12/03/2020",
         "poblacion": "ISRAEL",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "17/03/2020",
+        "fecha": "16/03/2020",
         "poblacion": "ISRAEL",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "20/03/2020",
+        "fecha": "19/03/2020",
         "poblacion": "ISRAEL",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "23/03/2020",
+        "fecha": "22/03/2020",
         "poblacion": "ISRAEL",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "26/03/2020",
+        "fecha": "25/03/2020",
         "poblacion": "ISRAEL",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "29/03/2020",
+        "fecha": "28/03/2020",
         "poblacion": "ISRAEL",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "01/04/2020",
+        "fecha": "31/03/2020",
         "poblacion": "ISRAEL",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "04/04/2020",
+        "fecha": "03/04/2020",
         "poblacion": "ISRAEL",
         "contagiados": 7589,
         "fallecidos": 44
     },
     {
-        "fecha": "07/04/2020",
+        "fecha": "06/04/2020",
         "poblacion": "ISRAEL",
         "contagiados": 9006,
         "fallecidos": 60
     },
     {
-        "fecha": "10/04/2020",
+        "fecha": "09/04/2020",
         "poblacion": "ISRAEL",
         "contagiados": 10095,
         "fallecidos": 95
     },
     {
-        "fecha": "13/04/2020",
+        "fecha": "12/04/2020",
         "poblacion": "ISRAEL",
         "contagiados": 11235,
         "fallecidos": 113
     },
     {
-        "fecha": "13/03/2020",
+        "fecha": "12/03/2020",
         "poblacion": "ITALIA",
         "contagiados": 15113,
         "fallecidos": 1016
     },
     {
-        "fecha": "17/03/2020",
+        "fecha": "16/03/2020",
         "poblacion": "ITALIA",
         "contagiados": 27980,
         "fallecidos": 2158
     },
     {
-        "fecha": "20/03/2020",
+        "fecha": "19/03/2020",
         "poblacion": "ITALIA",
         "contagiados": 41035,
         "fallecidos": 3405
     },
     {
-        "fecha": "23/03/2020",
+        "fecha": "22/03/2020",
         "poblacion": "ITALIA",
         "contagiados": 59138,
         "fallecidos": 5476
     },
     {
-        "fecha": "26/03/2020",
+        "fecha": "25/03/2020",
         "poblacion": "ITALIA",
         "contagiados": 74386,
         "fallecidos": 7503
     },
     {
-        "fecha": "29/03/2020",
+        "fecha": "28/03/2020",
         "poblacion": "ITALIA",
         "contagiados": 92472,
         "fallecidos": 10023
     },
     {
-        "fecha": "01/04/2020",
+        "fecha": "31/03/2020",
         "poblacion": "ITALIA",
         "contagiados": 110574,
         "fallecidos": 13155
     },
     {
-        "fecha": "04/04/2020",
+        "fecha": "03/04/2020",
         "poblacion": "ITALIA",
         "contagiados": 119827,
         "fallecidos": 14681
     },
     {
-        "fecha": "07/04/2020",
+        "fecha": "06/04/2020",
         "poblacion": "ITALIA",
         "contagiados": 132547,
         "fallecidos": 16523
     },
     {
-        "fecha": "10/04/2020",
+        "fecha": "09/04/2020",
         "poblacion": "ITALIA",
         "contagiados": 147577,
         "fallecidos": 18849
     },
     {
-        "fecha": "13/04/2020",
+        "fecha": "12/04/2020",
         "poblacion": "ITALIA",
         "contagiados": 159516,
         "fallecidos": 20465
     },
     {
-        "fecha": "13/03/2020",
+        "fecha": "12/03/2020",
         "poblacion": "JAPON",
         "contagiados": 691,
         "fallecidos": 19
     },
     {
-        "fecha": "17/03/2020",
+        "fecha": "16/03/2020",
         "poblacion": "JAPON",
         "contagiados": 814,
         "fallecidos": 24
     },
     {
-        "fecha": "20/03/2020",
+        "fecha": "19/03/2020",
         "poblacion": "JAPON",
         "contagiados": 950,
         "fallecidos": 33
     },
     {
-        "fecha": "23/03/2020",
+        "fecha": "22/03/2020",
         "poblacion": "JAPON",
         "contagiados": 1089,
         "fallecidos": 41
     },
     {
-        "fecha": "26/03/2020",
+        "fecha": "25/03/2020",
         "poblacion": "JAPON",
         "contagiados": 1193,
         "fallecidos": 43
     },
     {
-        "fecha": "29/03/2020",
+        "fecha": "28/03/2020",
         "poblacion": "JAPON",
         "contagiados": 1693,
         "fallecidos": 52
     },
     {
-        "fecha": "01/04/2020",
+        "fecha": "31/03/2020",
         "poblacion": "JAPON",
         "contagiados": 2178,
         "fallecidos": 57
     },
     {
-        "fecha": "04/04/2020",
+        "fecha": "03/04/2020",
         "poblacion": "JAPON",
         "contagiados": 2935,
         "fallecidos": 69
     },
     {
-        "fecha": "07/04/2020",
+        "fecha": "06/04/2020",
         "poblacion": "JAPON",
         "contagiados": 3906,
         "fallecidos": 92
     },
     {
-        "fecha": "10/04/2020",
+        "fecha": "09/04/2020",
         "poblacion": "JAPON",
         "contagiados": 5530,
         "fallecidos": 99
     },
     {
-        "fecha": "13/04/2020",
+        "fecha": "12/04/2020",
         "poblacion": "JAPON",
         "contagiados": 7370,
         "fallecidos": 123
     },
     {
-        "fecha": "13/03/2020",
+        "fecha": "12/03/2020",
         "poblacion": "MARRUECOS",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "17/03/2020",
+        "fecha": "16/03/2020",
         "poblacion": "MARRUECOS",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "20/03/2020",
+        "fecha": "19/03/2020",
         "poblacion": "MARRUECOS",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "23/03/2020",
+        "fecha": "22/03/2020",
         "poblacion": "MARRUECOS",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "26/03/2020",
+        "fecha": "25/03/2020",
         "poblacion": "MARRUECOS",
         "contagiados": 225,
         "fallecidos": 6
     },
     {
-        "fecha": "29/03/2020",
+        "fecha": "28/03/2020",
         "poblacion": "MARRUECOS",
         "contagiados": 450,
         "fallecidos": 26
     },
     {
-        "fecha": "01/04/2020",
+        "fecha": "31/03/2020",
         "poblacion": "MARRUECOS",
         "contagiados": 638,
         "fallecidos": 37
     },
     {
-        "fecha": "04/04/2020",
+        "fecha": "03/04/2020",
         "poblacion": "MARRUECOS",
         "contagiados": 858,
         "fallecidos": 50
     },
     {
-        "fecha": "07/04/2020",
+        "fecha": "06/04/2020",
         "poblacion": "MARRUECOS",
         "contagiados": 1141,
         "fallecidos": 83
     },
     {
-        "fecha": "10/04/2020",
+        "fecha": "09/04/2020",
         "poblacion": "MARRUECOS",
         "contagiados": 1448,
         "fallecidos": 107
     },
     {
-        "fecha": "13/04/2020",
+        "fecha": "12/04/2020",
         "poblacion": "MARRUECOS",
         "contagiados": 1746,
         "fallecidos": 120
     },
     {
-        "fecha": "13/03/2020",
+        "fecha": "12/03/2020",
         "poblacion": "MEJICO",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "17/03/2020",
+        "fecha": "16/03/2020",
         "poblacion": "MEJICO",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "20/03/2020",
+        "fecha": "19/03/2020",
         "poblacion": "MEJICO",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "23/03/2020",
+        "fecha": "22/03/2020",
         "poblacion": "MEJICO",
         "contagiados": 316,
         "fallecidos": 2
     },
     {
-        "fecha": "26/03/2020",
+        "fecha": "25/03/2020",
         "poblacion": "MEJICO",
         "contagiados": 475,
         "fallecidos": 6
     },
     {
-        "fecha": "29/03/2020",
+        "fecha": "28/03/2020",
         "poblacion": "MEJICO",
         "contagiados": 848,
         "fallecidos": 16
     },
     {
-        "fecha": "01/04/2020",
+        "fecha": "31/03/2020",
         "poblacion": "MEJICO",
         "contagiados": 1215,
         "fallecidos": 29
     },
     {
-        "fecha": "04/04/2020",
+        "fecha": "03/04/2020",
         "poblacion": "MEJICO",
         "contagiados": 1688,
         "fallecidos": 60
     },
     {
-        "fecha": "07/04/2020",
+        "fecha": "06/04/2020",
         "poblacion": "MEJICO",
         "contagiados": 2439,
         "fallecidos": 125
     },
     {
-        "fecha": "10/04/2020",
+        "fecha": "09/04/2020",
         "poblacion": "MEJICO",
         "contagiados": 3441,
         "fallecidos": 194
     },
     {
-        "fecha": "13/04/2020",
+        "fecha": "12/04/2020",
         "poblacion": "MEJICO",
         "contagiados": 4661,
         "fallecidos": 296
     },
     {
-        "fecha": "13/03/2020",
+        "fecha": "12/03/2020",
         "poblacion": "PORTUGAL",
         "contagiados": 78,
         "fallecidos": 0
     },
     {
-        "fecha": "17/03/2020",
+        "fecha": "16/03/2020",
         "poblacion": "PORTUGAL",
         "contagiados": 448,
         "fallecidos": 1
     },
     {
-        "fecha": "20/03/2020",
+        "fecha": "19/03/2020",
         "poblacion": "PORTUGAL",
         "contagiados": 1020,
         "fallecidos": 6
     },
     {
-        "fecha": "23/03/2020",
+        "fecha": "22/03/2020",
         "poblacion": "PORTUGAL",
         "contagiados": 2060,
         "fallecidos": 23
     },
     {
-        "fecha": "26/03/2020",
+        "fecha": "25/03/2020",
         "poblacion": "PORTUGAL",
         "contagiados": 3544,
         "fallecidos": 60
     },
     {
-        "fecha": "29/03/2020",
+        "fecha": "28/03/2020",
         "poblacion": "PORTUGAL",
         "contagiados": 5962,
         "fallecidos": 119
     },
     {
-        "fecha": "01/04/2020",
+        "fecha": "31/03/2020",
         "poblacion": "PORTUGAL",
         "contagiados": 8251,
         "fallecidos": 187
     },
     {
-        "fecha": "04/04/2020",
+        "fecha": "03/04/2020",
         "poblacion": "PORTUGAL",
         "contagiados": 10524,
         "fallecidos": 266
     },
     {
-        "fecha": "07/04/2020",
+        "fecha": "06/04/2020",
         "poblacion": "PORTUGAL",
         "contagiados": 12442,
         "fallecidos": 345
     },
     {
-        "fecha": "10/04/2020",
+        "fecha": "09/04/2020",
         "poblacion": "PORTUGAL",
         "contagiados": 15472,
         "fallecidos": 435
     },
     {
-        "fecha": "13/04/2020",
+        "fecha": "12/04/2020",
         "poblacion": "PORTUGAL",
         "contagiados": 16934,
         "fallecidos": 535
     },
     {
-        "fecha": "13/03/2020",
+        "fecha": "12/03/2020",
         "poblacion": "REP. CHECA",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "17/03/2020",
+        "fecha": "16/03/2020",
         "poblacion": "REP. CHECA",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "20/03/2020",
+        "fecha": "19/03/2020",
         "poblacion": "REP. CHECA",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "23/03/2020",
+        "fecha": "22/03/2020",
         "poblacion": "REP. CHECA",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "26/03/2020",
+        "fecha": "25/03/2020",
         "poblacion": "REP. CHECA",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "29/03/2020",
+        "fecha": "28/03/2020",
         "poblacion": "REP. CHECA",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "01/04/2020",
+        "fecha": "31/03/2020",
         "poblacion": "REP. CHECA",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "04/04/2020",
+        "fecha": "03/04/2020",
         "poblacion": "REP. CHECA",
         "contagiados": 4475,
         "fallecidos": 62
     },
     {
-        "fecha": "07/04/2020",
+        "fecha": "06/04/2020",
         "poblacion": "REP. CHECA",
         "contagiados": 4828,
         "fallecidos": 80
     },
     {
-        "fecha": "10/04/2020",
+        "fecha": "09/04/2020",
         "poblacion": "REP. CHECA",
         "contagiados": 5674,
         "fallecidos": 119
     },
     {
-        "fecha": "13/04/2020",
+        "fecha": "12/04/2020",
         "poblacion": "REP. CHECA",
         "contagiados": 6022,
         "fallecidos": 143
     },
 
     {
-        "fecha": "13/03/2020",
+        "fecha": "12/03/2020",
         "poblacion": "RUSIA",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "17/03/2020",
+        "fecha": "16/03/2020",
         "poblacion": "RUSIA",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "20/03/2020",
+        "fecha": "19/03/2020",
         "poblacion": "RUSIA",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "23/03/2020",
+        "fecha": "22/03/2020",
         "poblacion": "RUSIA",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "26/03/2020",
+        "fecha": "25/03/2020",
         "poblacion": "RUSIA",
         "contagiados": 0,
         "fallecidos": 0
     },
     {
-        "fecha": "29/03/2020",
+        "fecha": "28/03/2020",
         "poblacion": "RUSIA",
         "contagiados": 1534,
         "fallecidos": 8
     },
     {
-        "fecha": "01/04/2020",
+        "fecha": "31/03/2020",
         "poblacion": "RUSIA",
         "contagiados": 2777,
         "fallecidos": 24
     },
     {
-        "fecha": "04/04/2020",
+        "fecha": "03/04/2020",
         "poblacion": "RUSIA",
         "contagiados": 4731,
         "fallecidos": 43
     },
     {
-        "fecha": "07/04/2020",
+        "fecha": "06/04/2020",
         "poblacion": "RUSIA",
         "contagiados": 7497,
         "fallecidos": 58
     },
     {
-        "fecha": "10/04/2020",
+        "fecha": "09/04/2020",
         "poblacion": "RUSIA",
         "contagiados": 11917,
         "fallecidos": 94
     },
     {
-        "fecha": "13/04/2020",
+        "fecha": "12/04/2020",
         "poblacion": "RUSIA",
         "contagiados": 18328,
         "fallecidos": 148
     },
     {
-        "fecha": "13/03/2020",
+        "fecha": "12/03/2020",
         "poblacion": "SUIZA",
         "contagiados": 868,
         "fallecidos": 8
     },
     {
-        "fecha": "17/03/2020",
+        "fecha": "16/03/2020",
         "poblacion": "SUIZA",
         "contagiados": 2269,
         "fallecidos": 19
     },
     {
-        "fecha": "20/03/2020",
+        "fecha": "19/03/2020",
         "poblacion": "SUIZA",
         "contagiados": 4176,
         "fallecidos": 43
     },
     {
-        "fecha": "23/03/2020",
+        "fecha": "22/03/2020",
         "poblacion": "SUIZA",
         "contagiados": 8060,
         "fallecidos": 88
     },
     {
-        "fecha": "26/03/2020",
+        "fecha": "25/03/2020",
         "poblacion": "SUIZA",
         "contagiados": 10714,
         "fallecidos": 161
     },
     {
-        "fecha": "29/03/2020",
+        "fecha": "28/03/2020",
         "poblacion": "SUIZA",
         "contagiados": 14829,
         "fallecidos": 300
     },
     {
-        "fecha": "01/04/2020",
+        "fecha": "31/03/2020",
         "poblacion": "SUIZA",
         "contagiados": 17137,
         "fallecidos": 461
     },
     {
-        "fecha": "04/04/2020",
+        "fecha": "03/04/2020",
         "poblacion": "SUIZA",
         "contagiados": 20278,
         "fallecidos": 620
     },
     {
-        "fecha": "07/04/2020",
+        "fecha": "06/04/2020",
         "poblacion": "SUIZA",
         "contagiados": 22242,
         "fallecidos": 811
     },
     {
-        "fecha": "10/04/2020",
+        "fecha": "09/04/2020",
         "poblacion": "SUIZA",
         "contagiados": 24551,
         "fallecidos": 1001
     },
     {
-        "fecha": "13/04/2020",
+        "fecha": "12/04/2020",
         "poblacion": "SUIZA",
         "contagiados": 25688,
         "fallecidos": 1138
     },
     {
-        "fecha": "13/03/2020",
+        "fecha": "12/03/2020",
         "poblacion": "USA",
         "contagiados": 1701,
         "fallecidos": 40
     },
     {
-        "fecha": "17/03/2020",
+        "fecha": "16/03/2020",
         "poblacion": "USA",
         "contagiados": 4394,
         "fallecidos": 83
     },
     {
-        "fecha": "20/03/2020",
+        "fecha": "19/03/2020",
         "poblacion": "USA",
         "contagiados": 15834,
         "fallecidos": 206
     },
     {
-        "fecha": "23/03/2020",
+        "fecha": "22/03/2020",
         "poblacion": "USA",
         "contagiados": 38951,
         "fallecidos": 460
     },
     {
-        "fecha": "26/03/2020",
+        "fecha": "25/03/2020",
         "poblacion": "USA",
         "contagiados": 69018,
         "fallecidos": 1041
     },
     {
-        "fecha": "29/03/2020",
+        "fecha": "28/03/2020",
         "poblacion": "USA",
         "contagiados": 124665,
         "fallecidos": 2191
     },
     {
-        "fecha": "01/04/2020",
+        "fecha": "31/03/2020",
         "poblacion": "USA",
         "contagiados": 204636,
         "fallecidos": 4484
     },
     {
-        "fecha": "04/04/2020",
+        "fecha": "03/04/2020",
         "poblacion": "USA",
         "contagiados": 278568,
         "fallecidos": 7406
     },
     {
-        "fecha": "07/04/2020",
+        "fecha": "06/04/2020",
         "poblacion": "USA",
         "contagiados": 369069,
         "fallecidos": 11018
     },
     {
-        "fecha": "10/04/2020",
+        "fecha": "09/04/2020",
         "poblacion": "USA",
         "contagiados": 486490,
         "fallecidos": 18002
     },
     {
-        "fecha": "13/04/2020",
+        "fecha": "12/04/2020",
         "poblacion": "USA",
         "contagiados": 560891,
         "fallecidos": 22861
     },
     {
-        "fecha": "16/04/2020",
+        "fecha": "15/04/2020",
         "poblacion": "ALEMANIA",
         "contagiados": 135633,
         "fallecidos": 3856
     },
     {
-        "fecha": "16/04/2020",
+        "fecha": "15/04/2020",
         "poblacion": "ARGENTINA",
         "contagiados": 2571,
         "fallecidos": 115
     },
     {
-        "fecha": "16/04/2020",
+        "fecha": "15/04/2020",
         "poblacion": "BELGICA",
         "contagiados": 34809,
         "fallecidos": 4857
     },
     {
-        "fecha": "16/04/2020",
+        "fecha": "15/04/2020",
         "poblacion": "BRASIL",
         "contagiados": 29165,
         "fallecidos": 1764
     },
     {
-        "fecha": "16/04/2020",
+        "fecha": "15/04/2020",
         "poblacion": "CHINA",
         "contagiados": 82341,
         "fallecidos": 3342
     },
     {
-        "fecha": "16/04/2020",
+        "fecha": "15/04/2020",
         "poblacion": "COREA SUR",
         "contagiados": 10613,
         "fallecidos": 229
     },
     {
-        "fecha": "16/04/2020",
+        "fecha": "15/04/2020",
         "poblacion": "ESPAÑA",
         "contagiados": 182816,
         "fallecidos": 19130
     },
     {
-        "fecha": "16/04/2020",
+        "fecha": "15/04/2020",
         "poblacion": "FRANCIA",
         "contagiados": 147863,
         "fallecidos": 17188
     },
     {
-        "fecha": "16/04/2020",
+        "fecha": "15/04/2020",
         "poblacion": "REINO UNIDO",
         "contagiados": 104133,
         "fallecidos": 13755
     },
     {
-        "fecha": "16/04/2020",
+        "fecha": "15/04/2020",
         "poblacion": "GRECIA",
         "contagiados": 2207,
         "fallecidos": 105
     },
     {
-        "fecha": "16/04/2020",
+        "fecha": "15/04/2020",
         "poblacion": "IRAN",
         "contagiados": 77995,
         "fallecidos": 4869
     },
     {
-        "fecha": "16/04/2020",
+        "fecha": "15/04/2020",
         "poblacion": "ISRAEL",
         "contagiados": 12591,
         "fallecidos": 140
     },
     {
-        "fecha": "16/04/2020",
+        "fecha": "15/04/2020",
         "poblacion": "ITALIA",
         "contagiados": 165155,
         "fallecidos": 21645
     },
     {
-        "fecha": "16/04/2020",
+        "fecha": "15/04/2020",
         "poblacion": "JAPON",
         "contagiados": 8626,
         "fallecidos": 178
     },
     {
-        "fecha": "16/04/2020",
+        "fecha": "15/04/2020",
         "poblacion": "MARRUECOS",
         "contagiados": 2251,
         "fallecidos": 128
     },
     {
-        "fecha": "16/04/2020",
+        "fecha": "15/04/2020",
         "poblacion": "MEJICO",
         "contagiados": 5847,
         "fallecidos": 449
     },
     {
-        "fecha": "16/04/2020",
+        "fecha": "15/04/2020",
         "poblacion": "PORTUGAL",
         "contagiados": 18841,
         "fallecidos": 629
     },
     {
-        "fecha": "16/04/2020",
+        "fecha": "15/04/2020",
         "poblacion": "REP. CHECA",
         "contagiados": 6303,
         "fallecidos": 166
     },
     {
-        "fecha": "16/04/2020",
+        "fecha": "15/04/2020",
         "poblacion": "RUSIA",
         "contagiados": 27938,
         "fallecidos": 232
     },
     {
-        "fecha": "16/04/2020",
+        "fecha": "15/04/2020",
         "poblacion": "SUIZA",
         "contagiados": 26732,
         "fallecidos": 1269
     },
     {
-        "fecha": "16/04/2020",
+        "fecha": "15/04/2020",
         "poblacion": "USA",
         "contagiados": 640291,
         "fallecidos": 31015
+    },
+    {
+        "fecha": "18/04/2020",
+        "poblacion": "ALEMANIA",
+        "contagiados": 144348,
+        "fallecidos": 4547
+    },
+    {
+        "fecha": "18/04/2020",
+        "poblacion": "ARGENTINA",
+        "contagiados": 2839,
+        "fallecidos": 132
+    },
+    {
+        "fecha": "18/04/2020",
+        "poblacion": "BELGICA",
+        "contagiados": 38496,
+        "fallecidos": 5683
+    },
+    {
+        "fecha": "18/04/2020",
+        "poblacion": "BRASIL",
+        "contagiados": 36925,
+        "fallecidos": 2372
+    },
+    {
+        "fecha": "18/04/2020",
+        "poblacion": "CHINA",
+        "contagiados": 82735,
+        "fallecidos": 4632
+    },
+    {
+        "fecha": "18/04/2020",
+        "poblacion": "COREA SUR",
+        "contagiados": 10661,
+        "fallecidos": 234
+    },
+    {
+        "fecha": "18/04/2020",
+        "poblacion": "ESPAÑA",
+        "contagiados": 195944,
+        "fallecidos": 20639
+    },
+    {
+        "fecha": "18/04/2020",
+        "poblacion": "FRANCIA",
+        "contagiados": 173956,
+        "fallecidos": 19349
+    },
+    {
+        "fecha": "18/04/2020",
+        "poblacion": "REINO UNIDO",
+        "contagiados": 121168,
+        "fallecidos": 16095
+    },
+    {
+        "fecha": "18/04/2020",
+        "poblacion": "GRECIA",
+        "contagiados": 2235,
+        "fallecidos": 110
+    },
+    {
+        "fecha": "18/04/2020",
+        "poblacion": "IRAN",
+        "contagiados": 82211,
+        "fallecidos": 5118
+    },
+    {
+        "fecha": "18/04/2020",
+        "poblacion": "ISRAEL",
+        "contagiados": 13362,
+        "fallecidos": 171
+    },
+    {
+        "fecha": "18/04/2020",
+        "poblacion": "ITALIA",
+        "contagiados": 175925,
+        "fallecidos": 23227
+    },
+    {
+        "fecha": "18/04/2020",
+        "poblacion": "JAPON",
+        "contagiados": 10296,
+        "fallecidos": 222
+    },
+    {
+        "fecha": "18/04/2020",
+        "poblacion": "MARRUECOS",
+        "contagiados": 2820,
+        "fallecidos": 138
+    },
+    {
+        "fecha": "18/04/2020",
+        "poblacion": "MEJICO",
+        "contagiados": 7497,
+        "fallecidos": 650
+    },
+    {
+        "fecha": "18/04/2020",
+        "poblacion": "PORTUGAL",
+        "contagiados": 20206,
+        "fallecidos": 714
+    },
+    {
+        "fecha": "18/04/2020",
+        "poblacion": "REP. CHECA",
+        "contagiados": 6657,
+        "fallecidos": 181
+    },
+    {
+        "fecha": "18/04/2020",
+        "poblacion": "RUSIA",
+        "contagiados": 42853,
+        "fallecidos": 361
+    },
+    {
+        "fecha": "18/04/2020",
+        "poblacion": "SUIZA",
+        "contagiados": 27740,
+        "fallecidos": 1381
+    },
+    {
+        "fecha": "18/04/2020",
+        "poblacion": "USA",
+        "contagiados": 735366,
+        "fallecidos": 39095
     }
 ]
