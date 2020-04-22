@@ -1712,5 +1712,110 @@
         "contagiados": 3908,
         "hospitalizados": 420,
         "fallecidos": 493
+    },
+    {
+        "fecha": "19/04/2020",
+        "poblacion": "Albacete",
+        "contagiados": 3754,
+        "hospitalizados": 317,
+        "fallecidos": 373
+    },
+    {
+        "fecha": "19/04/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 6358,
+        "hospitalizados": 487,
+        "fallecidos": 802
+    },
+    {
+        "fecha": "19/04/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 1315,
+        "hospitalizados": 75,
+        "fallecidos": 156
+    },
+    {
+        "fecha": "19/04/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 1431,
+        "hospitalizados": 134,
+        "fallecidos": 186
+    },
+    {
+        "fecha": "19/04/2020",
+        "poblacion": "Toledo",
+        "contagiados": 3938,
+        "hospitalizados": 417,
+        "fallecidos": 504
+    },
+    {
+        "fecha": "20/04/2020",
+        "poblacion": "Albacete",
+        "contagiados": 3771,
+        "hospitalizados": 318,
+        "fallecidos": 377
+    },
+    {
+        "fecha": "20/04/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 6527,
+        "hospitalizados": 478,
+        "fallecidos": 835
+    },
+    {
+        "fecha": "20/04/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 1340,
+        "hospitalizados": 80,
+        "fallecidos": 158
+    },
+    {
+        "fecha": "20/04/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 1450,
+        "hospitalizados": 130,
+        "fallecidos": 187
+    },
+    {
+        "fecha": "20/04/2020",
+        "poblacion": "Toledo",
+        "contagiados": 3957,
+        "hospitalizados": 416,
+        "fallecidos": 518
+    },
+    {
+        "fecha": "21/04/2020",
+        "poblacion": "Albacete",
+        "contagiados": 3815,
+        "hospitalizados": 303,
+        "fallecidos": 393
+    },
+    {
+        "fecha": "21/04/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 6642,
+        "hospitalizados": 448,
+        "fallecidos": 863
+    },
+    {
+        "fecha": "21/04/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 1353,
+        "hospitalizados": 70,
+        "fallecidos": 165
+    },
+    {
+        "fecha": "21/04/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 1483,
+        "hospitalizados": 130,
+        "fallecidos": 189
+    },
+    {
+        "fecha": "21/04/2020",
+        "poblacion": "Toledo",
+        "contagiados": 4028,
+        "hospitalizados": 385,
+        "fallecidos": 530
     }
 ]

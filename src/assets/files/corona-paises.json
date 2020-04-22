@@ -185,16 +185,16 @@
         "fallecidos": 2035
     },
     {
-        "fecha": "12/04/2020",
-        "poblacion": "BELGICA",
-        "contagiados": 30589,
-        "fallecidos": 3903
-    },
-    {
         "fecha": "09/04/2020",
         "poblacion": "BELGICA",
         "contagiados": 26667,
         "fallecidos": 3019
+    },
+    {
+        "fecha": "12/04/2020",
+        "poblacion": "BELGICA",
+        "contagiados": 30589,
+        "fallecidos": 3903
     },
     {
         "fecha": "12/03/2020",
@@ -1636,5 +1636,131 @@
         "poblacion": "USA",
         "contagiados": 735366,
         "fallecidos": 39095
+    },
+    {
+        "fecha": "21/04/2020",
+        "poblacion": "ALEMANIA",
+        "contagiados": 149044,
+        "fallecidos": 5127
+    },
+    {
+        "fecha": "21/04/2020",
+        "poblacion": "ARGENTINA",
+        "contagiados": 3144,
+        "fallecidos": 152
+    },
+    {
+        "fecha": "21/04/2020",
+        "poblacion": "BELGICA",
+        "contagiados": 41889,
+        "fallecidos": 6262
+    },
+    {
+        "fecha": "21/04/2020",
+        "poblacion": "BRASIL",
+        "contagiados": 43592,
+        "fallecidos": 2845
+    },
+    {
+        "fecha": "21/04/2020",
+        "poblacion": "CHINA",
+        "contagiados": 82790,
+        "fallecidos": 4632
+    },
+    {
+        "fecha": "21/04/2020",
+        "poblacion": "COREA SUR",
+        "contagiados": 10694,
+        "fallecidos": 238
+    },
+    {
+        "fecha": "21/04/2020",
+        "poblacion": "ESPAÑA",
+        "contagiados": 208389,
+        "fallecidos": 21717
+    },
+    {
+        "fecha": "21/04/2020",
+        "poblacion": "FRANCIA",
+        "contagiados": 178774,
+        "fallecidos": 20829
+    },
+    {
+        "fecha": "21/04/2020",
+        "poblacion": "REINO UNIDO",
+        "contagiados": 134635,
+        "fallecidos": 18141
+    },
+    {
+        "fecha": "21/04/2020",
+        "poblacion": "GRECIA",
+        "contagiados": 2408,
+        "fallecidos": 121
+    },
+    {
+        "fecha": "21/04/2020",
+        "poblacion": "IRAN",
+        "contagiados": 85996,
+        "fallecidos": 5391
+    },
+    {
+        "fecha": "21/04/2020",
+        "poblacion": "ISRAEL",
+        "contagiados": 14326,
+        "fallecidos": 187
+    },
+    {
+        "fecha": "21/04/2020",
+        "poblacion": "ITALIA",
+        "contagiados": 183957,
+        "fallecidos": 24648
+    },
+    {
+        "fecha": "21/04/2020",
+        "poblacion": "JAPON",
+        "contagiados": 11512,
+        "fallecidos": 281
+    },
+    {
+        "fecha": "21/04/2020",
+        "poblacion": "MARRUECOS",
+        "contagiados": 3377,
+        "fallecidos": 149
+    },
+    {
+        "fecha": "21/04/2020",
+        "poblacion": "MEJICO",
+        "contagiados": 9501,
+        "fallecidos": 857
+    },
+    {
+        "fecha": "21/04/2020",
+        "poblacion": "PORTUGAL",
+        "contagiados": 21982,
+        "fallecidos": 785
+    },
+    {
+        "fecha": "21/04/2020",
+        "poblacion": "REP. CHECA",
+        "contagiados": 7041,
+        "fallecidos": 204
+    },
+    {
+        "fecha": "21/04/2020",
+        "poblacion": "RUSIA",
+        "contagiados": 57999,
+        "fallecidos": 513
+    },
+    {
+        "fecha": "21/04/2020",
+        "poblacion": "SUIZA",
+        "contagiados": 28268,
+        "fallecidos": 1478
+    },
+    {
+        "fecha": "21/04/2020",
+        "poblacion": "USA",
+        "contagiados": 826248,
+        "fallecidos": 45153
     }
 ]
