@@ -26,11 +26,13 @@ import { SelectButtonModule } from 'primeng/selectbutton';
 import { DropdownModule } from 'primeng/dropdown';
 import { MenuModule } from 'primeng/menu';
 import { InputSwitchModule } from 'primeng/inputswitch';
+import { TableModule } from 'primeng/table';
 
 import { BarChartComponent } from './components/bar-chart/bar-chart.component';
 import { PoblacionesChartComponent } from './components/poblaciones-chart/poblaciones-chart.component';
 import { PaisesViewComponent } from './views/paises-view/paises-view.component';
 import { ProvinciasViewComponent } from './views/provincias-view/provincias-view.component';
+import { PoblacionesTableComponent } from './components/poblaciones-table/poblaciones-table.component';
 
 
 @NgModule({
@@ -40,7 +42,8 @@ import { ProvinciasViewComponent } from './views/provincias-view/provincias-view
     BarChartComponent,
     PaisesViewComponent,
     ProvinciasViewComponent,
-    PoblacionesChartComponent
+    PoblacionesChartComponent,
+    PoblacionesTableComponent
   ],
   imports: [
     BrowserModule,
@@ -51,6 +54,7 @@ import { ProvinciasViewComponent } from './views/provincias-view/provincias-view
     FormsModule,
     HttpClientModule,
     InputSwitchModule,
+    TableModule,
     MenuModule,
     routing,
     SelectButtonModule

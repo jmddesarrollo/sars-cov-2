@@ -62,7 +62,7 @@ export class PoblacionesChartComponent implements OnInit, OnDestroy {
 
     this.selectedModo = this.modos[0];
 
-    this.checked = false;
+    this.checked = true;
 
     this.loadingData = true;
   }
@@ -117,7 +117,8 @@ export class PoblacionesChartComponent implements OnInit, OnDestroy {
       .subscribe((response: DataComunidad[]) => {
         this.data = response;
 
-        this.selectedTypes = ['ESPAÑA', 'PORTUGAL', 'ITALIA', 'ALEMANIA', 'FRANCIA'];
+        this.selectedTypes = ['ESPAÑA', 'PORTUGAL', 'ITALIA', 'ALEMANIA', 'FRANCIA', 'REINO UNIDO', 'BRASIL',
+      'BELGICA', 'ISRAEL', 'REP. CHECHA', 'RUSIA', 'SUIZA', 'USA'];
         this.cargarLabels();
         this.cargarData();
       });
@@ -272,18 +273,18 @@ export class PoblacionesChartComponent implements OnInit, OnDestroy {
       this.typePoblacion === 'provincias' &&
       this.selectedModo.code === 'Hospitalizados'
     ) {
-      this.dataChart.labels = this.dataChart.labels.slice(22);
+      this.dataChart.labels = this.dataChart.labels.slice(7);
       for (const dataset of this.dataChart.datasets) {
-        dataset.data = dataset.data.slice(22);
+        dataset.data = dataset.data.slice(7);
       }
     }
     if (
       this.typePoblacion === 'provincias' &&
       this.selectedModo.code === 'Fallecidos'
     ) {
-      this.dataChart.labels = this.dataChart.labels.slice(25);
+      this.dataChart.labels = this.dataChart.labels.slice(8);
       for (const dataset of this.dataChart.datasets) {
-        dataset.data = dataset.data.slice(25);
+        dataset.data = dataset.data.slice(8);
       }
     }
   }

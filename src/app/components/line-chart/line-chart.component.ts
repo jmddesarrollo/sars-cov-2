@@ -25,7 +25,8 @@ export class LineChartComponent implements OnInit, OnDestroy {
   public checked: boolean;
 
   types: SelectItem[];
-  selectedTypes: string[] = ['La Mancha', 'C. Madrid', 'C. Valenciana'];
+  selectedTypes: string[] = ['La Mancha', 'C. Madrid', 'C. Valenciana', 'Castilla y León', 'Cataluña', 'Navarra',
+'País Vasco', 'La Rioja', 'España'];
 
   public loadingData: boolean;
 
@@ -83,7 +84,7 @@ export class LineChartComponent implements OnInit, OnDestroy {
     ];
     this.selectedModo = this.modos[0];
 
-    this.checked = false;
+    this.checked = true;
 
     this.loadingData = true;
   }
@@ -376,6 +377,9 @@ export class LineChartComponent implements OnInit, OnDestroy {
   tratarNulos(row: DataComunidad) {
     if (!row.CASOS) {
       row.CASOS = 0;
+      if (row.PCR) {
+        row.CASOS = row.PCR + row.TestAc;
+      }
     }
     if (!row.Hospitalizados) {
       row.Hospitalizados = 0;
@@ -398,6 +402,8 @@ interface DataComunidad {
   CCAA: string;
   FECHA: string;
   CASOS: number;
+  PCR: number;
+  TestAc: number;
   Hospitalizados: number;
   UCI: number;
   Fallecidos: number;

@@ -6,35 +6,7 @@
         "fallecidos": 0
     },
     {
-        "fecha": "02/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 2,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "03/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 2,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
         "fecha": "04/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 2,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "05/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 2,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "06/03/2020",
         "poblacion": "Albacete",
         "contagiados": 2,
         "hospitalizados": 0,
@@ -48,20 +20,6 @@
         "fallecidos": 0
     },
     {
-        "fecha": "08/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 2,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "09/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 3,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
         "fecha": "10/03/2020",
         "poblacion": "Albacete",
         "contagiados": 6,
@@ -69,37 +27,9 @@
         "fallecidos": 0
     },
     {
-        "fecha": "11/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 22,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "12/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 38,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
         "fecha": "13/03/2020",
         "poblacion": "Albacete",
         "contagiados": 70,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "14/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 79,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "15/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 126,
         "hospitalizados": 0,
         "fallecidos": 0
     },
@@ -111,37 +41,9 @@
         "fallecidos": 0
     },
     {
-        "fecha": "17/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 216,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "18/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 258,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
         "fecha": "19/03/2020",
         "poblacion": "Albacete",
         "contagiados": 322,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "20/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 430,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "21/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 464,
         "hospitalizados": 0,
         "fallecidos": 0
     },
@@ -153,39 +55,11 @@
         "fallecidos": 0
     },
     {
-        "fecha": "23/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 532,
-        "hospitalizados": 404,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "24/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 567,
-        "hospitalizados": 457,
-        "fallecidos": 0
-    },
-    {
         "fecha": "25/03/2020",
         "poblacion": "Albacete",
         "contagiados": 666,
         "hospitalizados": 541,
         "fallecidos": 66
-    },
-    {
-        "fecha": "26/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 780,
-        "hospitalizados": 684,
-        "fallecidos": 83
-    },
-    {
-        "fecha": "27/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 1114,
-        "hospitalizados": 763,
-        "fallecidos": 101
     },
     {
         "fecha": "28/03/2020",
@@ -195,39 +69,11 @@
         "fallecidos": 122
     },
     {
-        "fecha": "29/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 1537,
-        "hospitalizados": 799,
-        "fallecidos": 133
-    },
-    {
-        "fecha": "30/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 1707,
-        "hospitalizados": 873,
-        "fallecidos": 148
-    },
-    {
         "fecha": "31/03/2020",
         "poblacion": "Albacete",
         "contagiados": 1933,
         "hospitalizados": 789,
         "fallecidos": 156
-    },
-    {
-        "fecha": "01/04/2020",
-        "poblacion": "Albacete",
-        "contagiados": 2098,
-        "hospitalizados": 807,
-        "fallecidos": 170
-    },
-    {
-        "fecha": "02/04/2020",
-        "poblacion": "Albacete",
-        "contagiados": 2386,
-        "hospitalizados": 799,
-        "fallecidos": 183
     },
     {
         "fecha": "03/04/2020",
@@ -237,39 +83,11 @@
         "fallecidos": 194
     },
     {
-        "fecha": "04/04/2020",
-        "poblacion": "Albacete",
-        "contagiados": 2653,
-        "hospitalizados": 836,
-        "fallecidos": 208
-    },
-    {
-        "fecha": "05/04/2020",
-        "poblacion": "Albacete",
-        "contagiados": 2751,
-        "hospitalizados": 829,
-        "fallecidos": 241
-    },
-    {
         "fecha": "06/04/2020",
         "poblacion": "Albacete",
         "contagiados": 2832,
         "hospitalizados": 756,
         "fallecidos": 252
-    },
-    {
-        "fecha": "07/04/2020",
-        "poblacion": "Albacete",
-        "contagiados": 3087,
-        "hospitalizados": 703,
-        "fallecidos": 263
-    },
-    {
-        "fecha": "08/04/2020",
-        "poblacion": "Albacete",
-        "contagiados": 3212,
-        "hospitalizados": 650,
-        "fallecidos": 280
     },
     {
         "fecha": "09/04/2020",
@@ -279,39 +97,11 @@
         "fallecidos": 299
     },
     {
-        "fecha": "10/04/2020",
-        "poblacion": "Albacete",
-        "contagiados": 3404,
-        "hospitalizados": 562,
-        "fallecidos": 309
-    },
-    {
-        "fecha": "11/04/2020",
-        "poblacion": "Albacete",
-        "contagiados": 3450,
-        "hospitalizados": 517,
-        "fallecidos": 315
-    },
-    {
         "fecha": "12/04/2020",
         "poblacion": "Albacete",
         "contagiados": 3506,
         "hospitalizados": 487,
         "fallecidos": 322
-    },
-    {
-        "fecha": "13/04/2020",
-        "poblacion": "Albacete",
-        "contagiados": 3543,
-        "hospitalizados": 454,
-        "fallecidos": 331
-    },
-    {
-        "fecha": "14/04/2020",
-        "poblacion": "Albacete",
-        "contagiados": 3575,
-        "hospitalizados": 425,
-        "fallecidos": 338
     },
     {
         "fecha": "01/03/2020",
@@ -321,35 +111,7 @@
         "fallecidos": 0
     },
     {
-        "fecha": "02/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 0,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "03/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 1,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
         "fecha": "04/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 1,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "05/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 1,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "06/03/2020",
         "poblacion": "Ciudad Real",
         "contagiados": 1,
         "hospitalizados": 0,
@@ -363,37 +125,9 @@
         "fallecidos": 0
     },
     {
-        "fecha": "08/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 3,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "09/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 8,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
         "fecha": "10/03/2020",
         "poblacion": "Ciudad Real",
         "contagiados": 22,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "11/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 27,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "12/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 44,
         "hospitalizados": 0,
         "fallecidos": 0
     },
@@ -405,37 +139,9 @@
         "fallecidos": 0
     },
     {
-        "fecha": "14/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 85,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "15/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 127,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
         "fecha": "16/03/2020",
         "poblacion": "Ciudad Real",
         "contagiados": 139,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "17/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 164,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "18/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 216,
         "hospitalizados": 0,
         "fallecidos": 0
     },
@@ -447,38 +153,10 @@
         "fallecidos": 0
     },
     {
-        "fecha": "20/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 505,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "21/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 600,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
         "fecha": "22/03/2020",
         "poblacion": "Ciudad Real",
         "contagiados": 695,
         "hospitalizados": 455,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "23/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 790,
-        "hospitalizados": 548,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "24/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 885,
-        "hospitalizados": 587,
         "fallecidos": 0
     },
     {
@@ -489,39 +167,11 @@
         "fallecidos": 89
     },
     {
-        "fecha": "26/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 1422,
-        "hospitalizados": 873,
-        "fallecidos": 89
-    },
-    {
-        "fecha": "27/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 1543,
-        "hospitalizados": 961,
-        "fallecidos": 117
-    },
-    {
         "fecha": "28/03/2020",
         "poblacion": "Ciudad Real",
         "contagiados": 1755,
         "hospitalizados": 1049,
         "fallecidos": 145
-    },
-    {
-        "fecha": "29/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 2041,
-        "hospitalizados": 1130,
-        "fallecidos": 179
-    },
-    {
-        "fecha": "30/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 2297,
-        "hospitalizados": 1082,
-        "fallecidos": 218
     },
     {
         "fecha": "31/03/2020",
@@ -531,39 +181,11 @@
         "fallecidos": 245
     },
     {
-        "fecha": "01/04/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 2807,
-        "hospitalizados": 1170,
-        "fallecidos": 272
-    },
-    {
-        "fecha": "02/04/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 3098,
-        "hospitalizados": 1182,
-        "fallecidos": 291
-    },
-    {
         "fecha": "03/04/2020",
         "poblacion": "Ciudad Real",
         "contagiados": 3496,
         "hospitalizados": 1169,
         "fallecidos": 312
-    },
-    {
-        "fecha": "04/04/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 3854,
-        "hospitalizados": 1017,
-        "fallecidos": 346
-    },
-    {
-        "fecha": "05/04/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 4125,
-        "hospitalizados": 965,
-        "fallecidos": 364
     },
     {
         "fecha": "06/04/2020",
@@ -573,39 +195,11 @@
         "fallecidos": 370
     },
     {
-        "fecha": "07/04/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 4449,
-        "hospitalizados": 977,
-        "fallecidos": 400
-    },
-    {
-        "fecha": "08/04/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 4720,
-        "hospitalizados": 907,
-        "fallecidos": 428
-    },
-    {
         "fecha": "09/04/2020",
         "poblacion": "Ciudad Real",
         "contagiados": 4917,
         "hospitalizados": 804,
         "fallecidos": 479
-    },
-    {
-        "fecha": "10/04/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 5138,
-        "hospitalizados": 736,
-        "fallecidos": 503
-    },
-    {
-        "fecha": "11/04/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 5267,
-        "hospitalizados": 680,
-        "fallecidos": 533
     },
     {
         "fecha": "12/04/2020",
@@ -615,35 +209,7 @@
         "fallecidos": 585
     },
     {
-        "fecha": "13/04/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 5563,
-        "hospitalizados": 663,
-        "fallecidos": 647
-    },
-    {
-        "fecha": "14/04/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 5717,
-        "hospitalizados": 630,
-        "fallecidos": 659
-    },
-    {
         "fecha": "01/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 0,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "02/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 0,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "03/03/2020",
         "poblacion": "Cuenca",
         "contagiados": 0,
         "hospitalizados": 0,
@@ -657,35 +223,7 @@
         "fallecidos": 0
     },
     {
-        "fecha": "05/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 0,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "06/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 0,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
         "fecha": "07/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 0,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "08/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 0,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "09/03/2020",
         "poblacion": "Cuenca",
         "contagiados": 0,
         "hospitalizados": 0,
@@ -695,20 +233,6 @@
         "fecha": "10/03/2020",
         "poblacion": "Cuenca",
         "contagiados": 0,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "11/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 0,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "12/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 11,
         "hospitalizados": 0,
         "fallecidos": 0
     },
@@ -720,37 +244,9 @@
         "fallecidos": 0
     },
     {
-        "fecha": "14/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 30,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "15/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 44,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
         "fecha": "16/03/2020",
         "poblacion": "Cuenca",
         "contagiados": 51,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "17/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 62,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "18/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 72,
         "hospitalizados": 0,
         "fallecidos": 0
     },
@@ -762,38 +258,10 @@
         "fallecidos": 0
     },
     {
-        "fecha": "20/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 120,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "21/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 133,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
         "fecha": "22/03/2020",
         "poblacion": "Cuenca",
         "contagiados": 146,
         "hospitalizados": 118,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "23/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 159,
-        "hospitalizados": 124,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "24/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 172,
-        "hospitalizados": 146,
         "fallecidos": 0
     },
     {
@@ -804,39 +272,11 @@
         "fallecidos": 27
     },
     {
-        "fecha": "26/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 180,
-        "hospitalizados": 181,
-        "fallecidos": 40
-    },
-    {
-        "fecha": "27/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 222,
-        "hospitalizados": 191,
-        "fallecidos": 53
-    },
-    {
         "fecha": "28/03/2020",
         "poblacion": "Cuenca",
         "contagiados": 253,
         "hospitalizados": 184,
         "fallecidos": 55
-    },
-    {
-        "fecha": "29/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 268,
-        "hospitalizados": 181,
-        "fallecidos": 62
-    },
-    {
-        "fecha": "30/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 293,
-        "hospitalizados": 189,
-        "fallecidos": 64
     },
     {
         "fecha": "31/03/2020",
@@ -846,39 +286,11 @@
         "fallecidos": 68
     },
     {
-        "fecha": "01/04/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 308,
-        "hospitalizados": 181,
-        "fallecidos": 73
-    },
-    {
-        "fecha": "02/04/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 367,
-        "hospitalizados": 177,
-        "fallecidos": 79
-    },
-    {
         "fecha": "03/04/2020",
         "poblacion": "Cuenca",
         "contagiados": 449,
         "hospitalizados": 158,
         "fallecidos": 89
-    },
-    {
-        "fecha": "04/04/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 497,
-        "hospitalizados": 155,
-        "fallecidos": 93
-    },
-    {
-        "fecha": "05/04/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 570,
-        "hospitalizados": 156,
-        "fallecidos": 96
     },
     {
         "fecha": "06/04/2020",
@@ -888,39 +300,11 @@
         "fallecidos": 96
     },
     {
-        "fecha": "07/04/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 682,
-        "hospitalizados": 141,
-        "fallecidos": 107
-    },
-    {
-        "fecha": "08/04/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 800,
-        "hospitalizados": 136,
-        "fallecidos": 110
-    },
-    {
         "fecha": "09/04/2020",
         "poblacion": "Cuenca",
         "contagiados": 845,
         "hospitalizados": 134,
         "fallecidos": 123
-    },
-    {
-        "fecha": "10/04/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 874,
-        "hospitalizados": 120,
-        "fallecidos": 129
-    },
-    {
-        "fecha": "11/04/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 884,
-        "hospitalizados": 118,
-        "fallecidos": 133
     },
     {
         "fecha": "12/04/2020",
@@ -930,37 +314,9 @@
         "fallecidos": 135
     },
     {
-        "fecha": "13/04/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 930,
-        "hospitalizados": 107,
-        "fallecidos": 140
-    },
-    {
-        "fecha": "14/04/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 969,
-        "hospitalizados": 100,
-        "fallecidos": 147
-    },
-    {
         "fecha": "01/03/2020",
         "poblacion": "Guadalajara",
         "contagiados": 1,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "02/03/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 3,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "03/03/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 7,
         "hospitalizados": 0,
         "fallecidos": 0
     },
@@ -972,37 +328,9 @@
         "fallecidos": 0
     },
     {
-        "fecha": "05/03/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 10,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "06/03/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 11,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
         "fecha": "07/03/2020",
         "poblacion": "Guadalajara",
         "contagiados": 14,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "08/03/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 18,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "09/03/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 22,
         "hospitalizados": 0,
         "fallecidos": 0
     },
@@ -1014,37 +342,9 @@
         "fallecidos": 0
     },
     {
-        "fecha": "11/03/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 45,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "12/03/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 70,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
         "fecha": "13/03/2020",
         "poblacion": "Guadalajara",
         "contagiados": 88,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "14/03/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 109,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "15/03/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 137,
         "hospitalizados": 0,
         "fallecidos": 0
     },
@@ -1056,37 +356,9 @@
         "fallecidos": 0
     },
     {
-        "fecha": "17/03/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 151,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "18/03/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 205,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
         "fecha": "19/03/2020",
         "poblacion": "Guadalajara",
         "contagiados": 237,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "20/03/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 263,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "21/03/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 298,
         "hospitalizados": 0,
         "fallecidos": 0
     },
@@ -1098,39 +370,11 @@
         "fallecidos": 0
     },
     {
-        "fecha": "23/03/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 368,
-        "hospitalizados": 179,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "24/03/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 404,
-        "hospitalizados": 149,
-        "fallecidos": 0
-    },
-    {
         "fecha": "25/03/2020",
         "poblacion": "Guadalajara",
         "contagiados": 428,
         "hospitalizados": 133,
         "fallecidos": 56
-    },
-    {
-        "fecha": "26/03/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 440,
-        "hospitalizados": 320,
-        "fallecidos": 75
-    },
-    {
-        "fecha": "27/03/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 441,
-        "hospitalizados": 341,
-        "fallecidos": 79
     },
     {
         "fecha": "28/03/2020",
@@ -1140,39 +384,11 @@
         "fallecidos": 86
     },
     {
-        "fecha": "29/03/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 586,
-        "hospitalizados": 315,
-        "fallecidos": 93
-    },
-    {
-        "fecha": "30/03/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 643,
-        "hospitalizados": 312,
-        "fallecidos": 97
-    },
-    {
         "fecha": "31/03/2020",
         "poblacion": "Guadalajara",
         "contagiados": 753,
         "hospitalizados": 310,
         "fallecidos": 100
-    },
-    {
-        "fecha": "01/04/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 796,
-        "hospitalizados": 295,
-        "fallecidos": 105
-    },
-    {
-        "fecha": "02/04/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 824,
-        "hospitalizados": 283,
-        "fallecidos": 109
     },
     {
         "fecha": "03/04/2020",
@@ -1182,39 +398,11 @@
         "fallecidos": 118
     },
     {
-        "fecha": "04/04/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 858,
-        "hospitalizados": 260,
-        "fallecidos": 121
-    },
-    {
-        "fecha": "05/04/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 873,
-        "hospitalizados": 250,
-        "fallecidos": 124
-    },
-    {
         "fecha": "06/04/2020",
         "poblacion": "Guadalajara",
         "contagiados": 897,
         "hospitalizados": 270,
         "fallecidos": 128
-    },
-    {
-        "fecha": "07/04/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 973,
-        "hospitalizados": 248,
-        "fallecidos": 133
-    },
-    {
-        "fecha": "08/04/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 994,
-        "hospitalizados": 246,
-        "fallecidos": 134
     },
     {
         "fecha": "09/04/2020",
@@ -1224,39 +412,11 @@
         "fallecidos": 137
     },
     {
-        "fecha": "10/04/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 1056,
-        "hospitalizados": 200,
-        "fallecidos": 139
-    },
-    {
-        "fecha": "11/04/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 1077,
-        "hospitalizados": 177,
-        "fallecidos": 148
-    },
-    {
         "fecha": "12/04/2020",
         "poblacion": "Guadalajara",
         "contagiados": 1134,
         "hospitalizados": 185,
         "fallecidos": 153
-    },
-    {
-        "fecha": "13/04/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 1195,
-        "hospitalizados": 184,
-        "fallecidos": 154
-    },
-    {
-        "fecha": "14/04/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 1226,
-        "hospitalizados": 186,
-        "fallecidos": 157
     },
     {
         "fecha": "01/03/2020",
@@ -1266,35 +426,7 @@
         "fallecidos": 0
     },
     {
-        "fecha": "02/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 2,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "03/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 2,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
         "fecha": "04/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 2,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "05/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 2,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "06/03/2020",
         "poblacion": "Toledo",
         "contagiados": 2,
         "hospitalizados": 0,
@@ -1308,37 +440,9 @@
         "fallecidos": 0
     },
     {
-        "fecha": "08/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 3,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "09/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 6,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
         "fecha": "10/03/2020",
         "poblacion": "Toledo",
         "contagiados": 12,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "11/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 21,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "12/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 31,
         "hospitalizados": 0,
         "fallecidos": 0
     },
@@ -1350,37 +454,9 @@
         "fallecidos": 0
     },
     {
-        "fecha": "14/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 98,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "15/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 133,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
         "fecha": "16/03/2020",
         "poblacion": "Toledo",
         "contagiados": 179,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "17/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 208,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "18/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 293,
         "hospitalizados": 0,
         "fallecidos": 0
     },
@@ -1392,38 +468,10 @@
         "fallecidos": 0
     },
     {
-        "fecha": "20/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 501,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "21/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 563,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
         "fecha": "22/03/2020",
         "poblacion": "Toledo",
         "contagiados": 625,
         "hospitalizados": 485,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "23/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 687,
-        "hospitalizados": 571,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "24/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 752,
-        "hospitalizados": 613,
         "fallecidos": 0
     },
     {
@@ -1434,39 +482,11 @@
         "fallecidos": 78
     },
     {
-        "fecha": "26/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 1112,
-        "hospitalizados": 649,
-        "fallecidos": 90
-    },
-    {
-        "fecha": "27/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 1192,
-        "hospitalizados": 721,
-        "fallecidos": 98
-    },
-    {
         "fecha": "28/03/2020",
         "poblacion": "Toledo",
         "contagiados": 1317,
         "hospitalizados": 718,
         "fallecidos": 131
-    },
-    {
-        "fecha": "29/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 1426,
-        "hospitalizados": 709,
-        "fallecidos": 155
-    },
-    {
-        "fecha": "30/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 1484,
-        "hospitalizados": 742,
-        "fallecidos": 181
     },
     {
         "fecha": "31/03/2020",
@@ -1476,39 +496,11 @@
         "fallecidos": 205
     },
     {
-        "fecha": "01/04/2020",
-        "poblacion": "Toledo",
-        "contagiados": 1673,
-        "hospitalizados": 731,
-        "fallecidos": 234
-    },
-    {
-        "fecha": "02/04/2020",
-        "poblacion": "Toledo",
-        "contagiados": 1848,
-        "hospitalizados": 727,
-        "fallecidos": 254
-    },
-    {
         "fecha": "03/04/2020",
         "poblacion": "Toledo",
         "contagiados": 1994,
         "hospitalizados": 718,
         "fallecidos": 276
-    },
-    {
-        "fecha": "04/04/2020",
-        "poblacion": "Toledo",
-        "contagiados": 2169,
-        "hospitalizados": 682,
-        "fallecidos": 287
-    },
-    {
-        "fecha": "05/04/2020",
-        "poblacion": "Toledo",
-        "contagiados": 2283,
-        "hospitalizados": 698,
-        "fallecidos": 307
     },
     {
         "fecha": "06/04/2020",
@@ -1518,20 +510,6 @@
         "fallecidos": 331
     },
     {
-        "fecha": "07/04/2020",
-        "poblacion": "Toledo",
-        "contagiados": 2597,
-        "hospitalizados": 662,
-        "fallecidos": 352
-    },
-    {
-        "fecha": "08/04/2020",
-        "poblacion": "Toledo",
-        "contagiados": 2763,
-        "hospitalizados": 636,
-        "fallecidos": 370
-    },
-    {
         "fecha": "09/04/2020",
         "poblacion": "Toledo",
         "contagiados": 2922,
@@ -1539,39 +517,11 @@
         "fallecidos": 393
     },
     {
-        "fecha": "10/04/2020",
-        "poblacion": "Toledo",
-        "contagiados": 2984,
-        "hospitalizados": 580,
-        "fallecidos": 403
-    },
-    {
-        "fecha": "11/04/2020",
-        "poblacion": "Toledo",
-        "contagiados": 3020,
-        "hospitalizados": 575,
-        "fallecidos": 414
-    },
-    {
         "fecha": "12/04/2020",
         "poblacion": "Toledo",
         "contagiados": 3052,
         "hospitalizados": 569,
         "fallecidos": 431
-    },
-    {
-        "fecha": "13/04/2020",
-        "poblacion": "Toledo",
-        "contagiados": 3098,
-        "hospitalizados": 565,
-        "fallecidos": 442
-    },
-    {
-        "fecha": "14/04/2020",
-        "poblacion": "Toledo",
-        "contagiados": 3193,
-        "hospitalizados": 540,
-        "fallecidos": 454
     },
     {
         "fecha": "15/04/2020",
@@ -1609,76 +559,6 @@
         "fallecidos": 463
     },
     {
-        "fecha": "16/04/2020",
-        "poblacion": "Albacete",
-        "contagiados": 3673,
-        "hospitalizados": 397,
-        "fallecidos": 347
-    },
-    {
-        "fecha": "16/04/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 6116,
-        "hospitalizados": 549,
-        "fallecidos": 708
-    },
-    {
-        "fecha": "16/04/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 1145,
-        "hospitalizados": 82,
-        "fallecidos": 149
-    },
-    {
-        "fecha": "16/04/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 1312,
-        "hospitalizados": 142,
-        "fallecidos": 176
-    },
-    {
-        "fecha": "16/04/2020",
-        "poblacion": "Toledo",
-        "contagiados": 3751,
-        "hospitalizados": 466,
-        "fallecidos": 472
-    },
-    {
-        "fecha": "17/04/2020",
-        "poblacion": "Albacete",
-        "contagiados": 3709,
-        "hospitalizados": 385,
-        "fallecidos": 354
-    },
-    {
-        "fecha": "17/04/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 6212,
-        "hospitalizados": 535,
-        "fallecidos": 743
-    },
-    {
-        "fecha": "17/04/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 1252,
-        "hospitalizados": 82,
-        "fallecidos": 152
-    },
-    {
-        "fecha": "17/04/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 1345,
-        "hospitalizados": 166,
-        "fallecidos": 180
-    },
-    {
-        "fecha": "17/04/2020",
-        "poblacion": "Toledo",
-        "contagiados": 3831,
-        "hospitalizados": 457,
-        "fallecidos": 484
-    },
-    {
         "fecha": "18/04/2020",
         "poblacion": "Albacete",
         "contagiados": 3732,
@@ -1714,76 +594,6 @@
         "fallecidos": 493
     },
     {
-        "fecha": "19/04/2020",
-        "poblacion": "Albacete",
-        "contagiados": 3754,
-        "hospitalizados": 317,
-        "fallecidos": 373
-    },
-    {
-        "fecha": "19/04/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 6358,
-        "hospitalizados": 487,
-        "fallecidos": 802
-    },
-    {
-        "fecha": "19/04/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 1315,
-        "hospitalizados": 75,
-        "fallecidos": 156
-    },
-    {
-        "fecha": "19/04/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 1431,
-        "hospitalizados": 134,
-        "fallecidos": 186
-    },
-    {
-        "fecha": "19/04/2020",
-        "poblacion": "Toledo",
-        "contagiados": 3938,
-        "hospitalizados": 417,
-        "fallecidos": 504
-    },
-    {
-        "fecha": "20/04/2020",
-        "poblacion": "Albacete",
-        "contagiados": 3771,
-        "hospitalizados": 318,
-        "fallecidos": 377
-    },
-    {
-        "fecha": "20/04/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 6527,
-        "hospitalizados": 478,
-        "fallecidos": 835
-    },
-    {
-        "fecha": "20/04/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 1340,
-        "hospitalizados": 80,
-        "fallecidos": 158
-    },
-    {
-        "fecha": "20/04/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 1450,
-        "hospitalizados": 130,
-        "fallecidos": 187
-    },
-    {
-        "fecha": "20/04/2020",
-        "poblacion": "Toledo",
-        "contagiados": 3957,
-        "hospitalizados": 416,
-        "fallecidos": 518
-    },
-    {
         "fecha": "21/04/2020",
         "poblacion": "Albacete",
         "contagiados": 3815,
@@ -1817,5 +627,145 @@
         "contagiados": 4028,
         "hospitalizados": 385,
         "fallecidos": 530
+    },
+    {
+        "fecha": "24/04/2020",
+        "poblacion": "Albacete",
+        "contagiados": 3990,
+        "hospitalizados": 262,
+        "fallecidos": 409
+    },
+    {
+        "fecha": "24/04/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 7077,
+        "hospitalizados": 387,
+        "fallecidos": 921
+    },
+    {
+        "fecha": "24/04/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 1508,
+        "hospitalizados": 46,
+        "fallecidos": 191
+    },
+    {
+        "fecha": "24/04/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 1641,
+        "hospitalizados": 111,
+        "fallecidos": 202
+    },
+    {
+        "fecha": "24/04/2020",
+        "poblacion": "Toledo",
+        "contagiados": 4309,
+        "hospitalizados": 305,
+        "fallecidos": 569
+    },
+    {
+        "fecha": "28/04/2020",
+        "poblacion": "Albacete",
+        "contagiados": 4228,
+        "hospitalizados": 206,
+        "fallecidos": 436
+    },
+    {
+        "fecha": "28/04/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 7500,
+        "hospitalizados": 324,
+        "fallecidos": 963
+    },
+    {
+        "fecha": "28/04/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 1739,
+        "hospitalizados": 41,
+        "fallecidos": 227
+    },
+    {
+        "fecha": "28/04/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 1758,
+        "hospitalizados": 104,
+        "fallecidos": 215
+    },
+    {
+        "fecha": "28/04/2020",
+        "poblacion": "Toledo",
+        "contagiados": 4570,
+        "hospitalizados": 275,
+        "fallecidos": 595
+    },
+    {
+        "fecha": "01/05/2020",
+        "poblacion": "Albacete",
+        "contagiados": 4508,
+        "hospitalizados": 155,
+        "fallecidos": 454
+    },
+    {
+        "fecha": "01/05/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 7705,
+        "hospitalizados": 251,
+        "fallecidos": 990
+    },
+    {
+        "fecha": "01/05/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 2061,
+        "hospitalizados": 28,
+        "fallecidos": 253
+    },
+    {
+        "fecha": "01/05/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 1866,
+        "hospitalizados": 74,
+        "fallecidos": 223
+    },
+    {
+        "fecha": "01/05/2020",
+        "poblacion": "Toledo",
+        "contagiados": 4883,
+        "hospitalizados": 205,
+        "fallecidos": 614
+    },
+    {
+        "fecha": "04/05/2020",
+        "poblacion": "Albacete",
+        "contagiados": 4578,
+        "hospitalizados": 149,
+        "fallecidos": 464
+    },
+    {
+        "fecha": "04/05/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 7831,
+        "hospitalizados": 238,
+        "fallecidos": 1000
+    },
+    {
+        "fecha": "04/05/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 2262,
+        "hospitalizados": 28,
+        "fallecidos": 274
+    },
+    {
+        "fecha": "04/05/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 2006,
+        "hospitalizados": 70,
+        "fallecidos": 227
+    },
+    {
+        "fecha": "04/05/2020",
+        "poblacion": "Toledo",
+        "contagiados": 4979,
+        "hospitalizados": 203,
+        "fallecidos": 651
     }
 ]

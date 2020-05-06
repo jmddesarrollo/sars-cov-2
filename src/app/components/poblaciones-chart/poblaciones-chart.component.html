@@ -1,15 +1,10 @@
 <div class="w3-container w3-margin-top">
     <p-selectButton [options]="types" [(ngModel)]="selectedTypes" multiple="multiple" (onChange)="aplicarCambio()"></p-selectButton>
-    <!-- <p>Comunidades seleccionadas: <span style="font-weight: bold" *ngFor="let type of selectedTypes">{{type}} </span></p> -->
     <div class="w3-clear"></div>
     <div class="w3-margin-bottom">
         <p-dropdown class="w3-margin-right" [options]="modos" [(ngModel)]="selectedModo" placeholder="Seleccionar modo" optionLabel="name" [showClear]="false" (onChange)="cambiarModo()"></p-dropdown>
         <p-inputSwitch class="w3-margin-right w3-margin-left" [(ngModel)]="checked" (onChange)="cambiarModo()"></p-inputSwitch><label>Cantidad por cada 100.000 habitantes</label>
     </div>
-    <!-- <div>
-        <button type="button" (click)="aplicarCambio()" pButton icon="pi pi-times" label="Aplicar cambio" class="w3-btn w3-blue w3-margin-right">Aplicar</button>
-        <button type="button" (click)="clear()" pButton icon="pi pi-times" label="Clear" class="w3-btn w3-orange">Limpiar</button>
-    </div> -->
 </div>
 
 <div class="w3-container">
@@ -18,7 +13,7 @@
     </div>
     <div *ngIf="typePoblacion === 'paises'">
         <div>
-            <label>Fuente: <a href="https://www.bloomberg.com/graphics/2020-coronavirus-cases-world-map/" target="_blank">Bloomberg - Nº de contagios y fallecidos (Datos recogidos a mano a partir del 13/03/2020. Algunos paises se ha empezado a recoger más tarde)</a></label>
+            <label>Fuente: <a href="https://www.bloomberg.com/graphics/2020-coronavirus-cases-world-map/" target="_blank">Bloomberg - Nº de contagios y fallecidos (Datos recogidos a mano a partir del 13/03/2020. Algunos paises se ha empezado a recoger más tarde)</a>. España y Francia desde el día 01/05/2020, contabilizan contagios oficiales solo por test PCR.</label>
         </div>
         <div>
             <label>Fuente: <a href="https://es.wikipedia.org/wiki/Anexo:Pa%C3%ADses_y_territorios_dependientes_por_poblaci%C3%B3n" target="_blank">Wikipedia - Tabla de Población Mundial proyectada para el 01/07/2020</a></label>
