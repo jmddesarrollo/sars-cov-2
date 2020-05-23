@@ -242,7 +242,7 @@ export class PoblacionesChartComponent implements OnInit, OnDestroy {
             }
 
             if (this.checked) {
-              cantidad = (cantidad * 100000) / poblacionTotal;
+              cantidad = (cantidad * 1000000) / poblacionTotal;
             }
 
             dataset.data.push(cantidad);

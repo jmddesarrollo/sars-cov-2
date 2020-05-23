@@ -4,7 +4,7 @@
     <div class="w3-clear"></div>
     <div class="w3-margin-bottom">
         <p-dropdown class="w3-margin-right" [options]="modos" [(ngModel)]="selectedModo" placeholder="Seleccionar modo" optionLabel="name" [showClear]="false" (onChange)="cambiarModo()"></p-dropdown>
-        <p-inputSwitch class="w3-margin-right w3-margin-left" [(ngModel)]="checked" (onChange)="cambiarModo()"></p-inputSwitch><label>Cantidad por cada 100.000 habitantes</label>
+        <p-inputSwitch class="w3-margin-right w3-margin-left" [(ngModel)]="checked" (onChange)="cambiarModo()"></p-inputSwitch><label>Cantidad por cada millón de habitantes</label>
     </div>
     <!-- <div>
         <button type="button" (click)="aplicarCambio()" pButton icon="pi pi-times" label="Aplicar cambio" class="w3-btn w3-blue w3-margin-right">Aplicar</button>

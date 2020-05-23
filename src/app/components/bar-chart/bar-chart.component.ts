@@ -18,6 +18,11 @@ export class BarChartComponent implements OnInit, OnDestroy {
   public dataChart: DataChart;
   public options: any;
 
+  // Previos
+  private prevContagios: number;
+  private prevHospitalizados: number;
+  private prevFallecidos: number;
+
   // Botón
   public types: SelectItem[];
   public selectedType: string;
@@ -36,7 +41,7 @@ export class BarChartComponent implements OnInit, OnDestroy {
     this.options = {
       title: {
         display: true,
-        text: 'SARS-COV-2: Por Comunidad Autonómica',
+        text: 'SARS-COV-2: Por Comunidad Autonómica - Variación con respecto a las estadísticas previas',
         fontSize: 16,
       },
       legend: {
@@ -63,12 +68,15 @@ export class BarChartComponent implements OnInit, OnDestroy {
       { label: 'Murcia', value: 'Murcia' },
       { label: 'Navarra', value: 'Navarra' },
       { label: 'País Vasco', value: 'País Vasco' },
-      { label: 'La Rioja', value: 'La Rioja' },
-      { label: 'España', value: 'España' }
+      { label: 'La Rioja', value: 'La Rioja' }
     ];
 
     this.loadingData = false;
     this.selectedType = 'La Mancha';
+
+    this.prevContagios = 0;
+    this.prevHospitalizados = 0;
+    this.prevFallecidos = 0;
   }
 
   ngOnInit(): void {
@@ -97,6 +105,10 @@ export class BarChartComponent implements OnInit, OnDestroy {
   aplicarCambio() {
     this.loadingData = true;
 
+    this.prevContagios = 0;
+    this.prevHospitalizados = 0;
+    this.prevFallecidos = 0;
+
     this.dataChart = {
       labels: [],
       datasets: [],
@@ -122,12 +134,6 @@ export class BarChartComponent implements OnInit, OnDestroy {
           data: [],
         },
         {
-          label: 'Recuperados',
-          backgroundColor: '#9CCC65',
-          borderColor: '#1E88E5',
-          data: [],
-        },
-        {
           label: 'Fallecidos',
           backgroundColor: '#000',
           borderColor: '#000',
@@ -135,13 +141,31 @@ export class BarChartComponent implements OnInit, OnDestroy {
         }
       ],
     };
+
     for (let row of this.data) {
       if (row.CCAA === this.selectedType) {
+        this.exceptionCCAA(row);
+
         this.dataChart.labels.push(row.FECHA);
-        this.dataChart.datasets[0].data.push(row.CASOS);
-        this.dataChart.datasets[1].data.push(row.Hospitalizados);
-        this.dataChart.datasets[2].data.push(row.Recuperados);
-        this.dataChart.datasets[3].data.push(row.Fallecidos);
+
+        const casos = row.CASOS - this.prevContagios;
+        let hospitalizados = row.Hospitalizados - this.prevHospitalizados;
+        let fallecidos = row.Fallecidos - this.prevFallecidos;
+
+        if (hospitalizados < 0) {
+          hospitalizados = 0;
+        }
+        if (fallecidos < 0) {
+          fallecidos = 0;
+        }
+
+        this.dataChart.datasets[0].data.push(casos);
+        this.dataChart.datasets[1].data.push(hospitalizados);
+        this.dataChart.datasets[2].data.push(fallecidos);
+
+        this.prevContagios = row.CASOS;
+        this.prevHospitalizados = row.Hospitalizados;
+        this.prevFallecidos = row.Fallecidos;
       }
     }
     if (this.selectedType === 'España') {
@@ -151,11 +175,17 @@ export class BarChartComponent implements OnInit, OnDestroy {
     this.loadingData = false;
   }
 
+  exceptionCCAA(row) {
+    if ((row.CCAA === 'La Mancha' || row.CCAA === 'C. Madrid') && row.FECHA === '28/4/2020') {
+      this.prevHospitalizados = row.Hospitalizados;
+    }
+
+  }
+
   calcularEspaña() {
     let fechaDefault = null;
     let sumatorioContagiados = 0;
     let sumatorioHospitalizados = 0;
-    let sumatorioRecuperados = 0;
     let sumatorioFallecidos = 0;
 
     for (let row of this.data) {
@@ -164,27 +194,23 @@ export class BarChartComponent implements OnInit, OnDestroy {
           this.dataChart.labels.push(fechaDefault);
           this.dataChart.datasets[0].data.push(sumatorioContagiados);
           this.dataChart.datasets[1].data.push(sumatorioHospitalizados);
-          this.dataChart.datasets[2].data.push(sumatorioRecuperados);
-          this.dataChart.datasets[3].data.push(sumatorioFallecidos);
+          this.dataChart.datasets[2].data.push(sumatorioFallecidos);
         }
         fechaDefault = row.FECHA;
         sumatorioContagiados = 0;
         sumatorioHospitalizados = 0;
-        sumatorioRecuperados = 0;
         sumatorioFallecidos = 0;
       }
 
       sumatorioContagiados    += row.CASOS;
       sumatorioHospitalizados += row.Hospitalizados;
-      sumatorioRecuperados    += row.Recuperados;
       sumatorioFallecidos     += row.Fallecidos;
     }
 
     this.dataChart.labels.push(fechaDefault);
     this.dataChart.datasets[0].data.push(sumatorioContagiados);
     this.dataChart.datasets[1].data.push(sumatorioHospitalizados);
-    this.dataChart.datasets[2].data.push(sumatorioRecuperados);
-    this.dataChart.datasets[3].data.push(sumatorioFallecidos);
+    this.dataChart.datasets[2].data.push(sumatorioFallecidos);
   }
 
   adaptarComunidad(): void {
@@ -286,9 +312,6 @@ export class BarChartComponent implements OnInit, OnDestroy {
     }
     if (!row.UCI) {
       row.UCI = 0;
-    }
-    if (!row.Recuperados) {
-      row.Recuperados = 0;
     }
     if (!row.Fallecidos) {
       row.Fallecidos = 0;

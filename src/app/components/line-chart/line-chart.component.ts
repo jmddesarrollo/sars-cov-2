@@ -174,7 +174,7 @@ export class LineChartComponent implements OnInit, OnDestroy {
             }
 
             if (this.checked) {
-              cantidad = ( (cantidad * 100000) / poblacionTotal);
+              cantidad = ( (cantidad * 1000000) / poblacionTotal);
             }
 
             dataset.data.push(cantidad);
@@ -218,7 +218,7 @@ export class LineChartComponent implements OnInit, OnDestroy {
           }
 
           if (this.checked) {
-            newCantidad = ( (newCantidad * 100000) / poblacionTotal);
+            newCantidad = ( (newCantidad * 1000000) / poblacionTotal);
           }
           newDataSet.data.push(newCantidad);
 
@@ -262,7 +262,7 @@ export class LineChartComponent implements OnInit, OnDestroy {
             this.dataChart.labels.push(fechaDefault);
           }
           if (this.checked) {
-            sumatorio = ( (sumatorio * 100000) / poblacionTotal);
+            sumatorio = ( (sumatorio * 1000000) / poblacionTotal);
           }
           this.dataChart.datasets[idxEspaña].data.push(sumatorio);
         }
@@ -290,7 +290,7 @@ export class LineChartComponent implements OnInit, OnDestroy {
       this.dataChart.labels.push(fechaDefault);
     }
     if (this.checked) {
-      sumatorio = ( (sumatorio * 100000) / poblacionTotal);
+      sumatorio = ( (sumatorio * 1000000) / poblacionTotal);
     }
     this.dataChart.datasets[idxEspaña].data.push(sumatorio);
   }

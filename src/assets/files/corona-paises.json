@@ -2266,5 +2266,761 @@
         "poblacion": "USA",
         "contagiados": 1204479,
         "fallecidos": 71070
+    },
+    {
+        "fecha": "07/05/2020",
+        "poblacion": "ALEMANIA",
+        "contagiados": 169430,
+        "fallecidos": 7392
+    },
+    {
+        "fecha": "07/05/2020",
+        "poblacion": "ARGENTINA",
+        "contagiados": 5371,
+        "fallecidos": 282
+    },
+    {
+        "fecha": "07/05/2020",
+        "poblacion": "BELGICA",
+        "contagiados": 52011,
+        "fallecidos": 8521
+    },
+    {
+        "fecha": "07/05/2020",
+        "poblacion": "BRASIL",
+        "contagiados": 138121,
+        "fallecidos": 9390
+    },
+    {
+        "fecha": "07/05/2020",
+        "poblacion": "CHINA",
+        "contagiados": 82887,
+        "fallecidos": 4633
+    },
+    {
+        "fecha": "07/05/2020",
+        "poblacion": "COREA SUR",
+        "contagiados": 10822,
+        "fallecidos": 256
+    },
+    {
+        "fecha": "07/05/2020",
+        "poblacion": "ESPAÑA",
+        "contagiados": 221447,
+        "fallecidos": 26070
+    },
+    {
+        "fecha": "07/05/2020",
+        "poblacion": "FRANCIA",
+        "contagiados": 173040,
+        "fallecidos": 25949
+    },
+    {
+        "fecha": "07/05/2020",
+        "poblacion": "REINO UNIDO",
+        "contagiados": 211364,
+        "fallecidos": 31241
+    },
+    {
+        "fecha": "07/05/2020",
+        "poblacion": "GRECIA",
+        "contagiados": 2691,
+        "fallecidos": 150
+    },
+    {
+        "fecha": "07/05/2020",
+        "poblacion": "IRAN",
+        "contagiados": 104691,
+        "fallecidos": 6541
+    },
+    {
+        "fecha": "07/05/2020",
+        "poblacion": "ISRAEL",
+        "contagiados": 16409,
+        "fallecidos": 245
+    },
+    {
+        "fecha": "07/05/2020",
+        "poblacion": "ITALIA",
+        "contagiados": 217185,
+        "fallecidos": 30201
+    },
+    {
+        "fecha": "07/05/2020",
+        "poblacion": "JAPON",
+        "contagiados": 15477,
+        "fallecidos": 577
+    },
+    {
+        "fecha": "07/05/2020",
+        "poblacion": "MARRUECOS",
+        "contagiados": 5711,
+        "fallecidos": 186
+    },
+    {
+        "fecha": "07/05/2020",
+        "poblacion": "MEJICO",
+        "contagiados": 29616,
+        "fallecidos": 2961
+    },
+    {
+        "fecha": "07/05/2020",
+        "poblacion": "PORTUGAL",
+        "contagiados": 27268,
+        "fallecidos": 1114
+    },
+    {
+        "fecha": "07/05/2020",
+        "poblacion": "REP. CHECA",
+        "contagiados": 8065,
+        "fallecidos": 271
+    },
+    {
+        "fecha": "07/05/2020",
+        "poblacion": "RUSIA",
+        "contagiados": 187859,
+        "fallecidos": 1723
+    },
+    {
+        "fecha": "07/05/2020",
+        "poblacion": "SUIZA",
+        "contagiados": 30207,
+        "fallecidos": 1810
+    },
+    {
+        "fecha": "07/05/2020",
+        "poblacion": "USA",
+        "contagiados": 1263052,
+        "fallecidos": 76032
+    },
+    {
+        "fecha": "10/05/2020",
+        "poblacion": "ALEMANIA",
+        "contagiados": 171999,
+        "fallecidos": 7569
+    },
+    {
+        "fecha": "10/05/2020",
+        "poblacion": "ARGENTINA",
+        "contagiados": 6034,
+        "fallecidos": 305
+    },
+    {
+        "fecha": "10/05/2020",
+        "poblacion": "BELGICA",
+        "contagiados": 53449,
+        "fallecidos": 8707
+    },
+    {
+        "fecha": "10/05/2020",
+        "poblacion": "BRASIL",
+        "contagiados": 163510,
+        "fallecidos": 11207
+    },
+    {
+        "fecha": "10/05/2020",
+        "poblacion": "CHINA",
+        "contagiados": 82918,
+        "fallecidos": 4633
+    },
+    {
+        "fecha": "10/05/2020",
+        "poblacion": "COREA SUR",
+        "contagiados": 10909,
+        "fallecidos": 256
+    },
+    {
+        "fecha": "10/05/2020",
+        "poblacion": "ESPAÑA",
+        "contagiados": 224350,
+        "fallecidos": 26621
+    },
+    {
+        "fecha": "10/05/2020",
+        "poblacion": "FRANCIA",
+        "contagiados": 177094,
+        "fallecidos": 26383
+    },
+    {
+        "fecha": "10/05/2020",
+        "poblacion": "REINO UNIDO",
+        "contagiados": 224327,
+        "fallecidos": 32140
+    },
+    {
+        "fecha": "10/05/2020",
+        "poblacion": "GRECIA",
+        "contagiados": 2716,
+        "fallecidos": 151
+    },
+    {
+        "fecha": "10/05/2020",
+        "poblacion": "IRAN",
+        "contagiados": 109286,
+        "fallecidos": 6685
+    },
+    {
+        "fecha": "10/05/2020",
+        "poblacion": "ISRAEL",
+        "contagiados": 16492,
+        "fallecidos": 254
+    },
+    {
+        "fecha": "10/05/2020",
+        "poblacion": "ITALIA",
+        "contagiados": 219070,
+        "fallecidos": 30560
+    },
+    {
+        "fecha": "10/05/2020",
+        "poblacion": "JAPON",
+        "contagiados": 15777,
+        "fallecidos": 624
+    },
+    {
+        "fecha": "10/05/2020",
+        "poblacion": "MARRUECOS",
+        "contagiados": 6226,
+        "fallecidos": 188
+    },
+    {
+        "fecha": "10/05/2020",
+        "poblacion": "MEJICO",
+        "contagiados": 35022,
+        "fallecidos": 3465
+    },
+    {
+        "fecha": "10/05/2020",
+        "poblacion": "PORTUGAL",
+        "contagiados": 27679,
+        "fallecidos": 1144
+    },
+    {
+        "fecha": "10/05/2020",
+        "poblacion": "REP. CHECA",
+        "contagiados": 8123,
+        "fallecidos": 280
+    },
+    {
+        "fecha": "10/05/2020",
+        "poblacion": "RUSIA",
+        "contagiados": 221344,
+        "fallecidos": 2009
+    },
+    {
+        "fecha": "10/05/2020",
+        "poblacion": "SUIZA",
+        "contagiados": 30344,
+        "fallecidos": 1834
+    },
+    {
+        "fecha": "10/05/2020",
+        "poblacion": "USA",
+        "contagiados": 1332411,
+        "fallecidos": 79606
+    },
+    {
+        "fecha": "13/05/2020",
+        "poblacion": "ALEMANIA",
+        "contagiados": 174098,
+        "fallecidos": 7861
+    },
+    {
+        "fecha": "13/05/2020",
+        "poblacion": "ARGENTINA",
+        "contagiados": 6879,
+        "fallecidos": 344
+    },
+    {
+        "fecha": "13/05/2020",
+        "poblacion": "BELGICA",
+        "contagiados": 54288,
+        "fallecidos": 8903
+    },
+    {
+        "fecha": "13/05/2020",
+        "poblacion": "BRASIL",
+        "contagiados": 192081,
+        "fallecidos": 13276
+    },
+    {
+        "fecha": "13/05/2020",
+        "poblacion": "CHINA",
+        "contagiados": 82929,
+        "fallecidos": 4633
+    },
+    {
+        "fecha": "13/05/2020",
+        "poblacion": "COREA SUR",
+        "contagiados": 10991,
+        "fallecidos": 260
+    },
+    {
+        "fecha": "13/05/2020",
+        "poblacion": "ESPAÑA",
+        "contagiados": 228691,
+        "fallecidos": 27104
+    },
+    {
+        "fecha": "13/05/2020",
+        "poblacion": "FRANCIA",
+        "contagiados": 213664,
+        "fallecidos": 27077
+    },
+    {
+        "fecha": "13/05/2020",
+        "poblacion": "REINO UNIDO",
+        "contagiados": 234431,
+        "fallecidos": 33692
+    },
+    {
+        "fecha": "13/05/2020",
+        "poblacion": "GRECIA",
+        "contagiados": 2760,
+        "fallecidos": 155
+    },
+    {
+        "fecha": "13/05/2020",
+        "poblacion": "IRAN",
+        "contagiados": 114533,
+        "fallecidos": 6854
+    },
+    {
+        "fecha": "13/05/2020",
+        "poblacion": "ISRAEL",
+        "contagiados": 16567,
+        "fallecidos": 264
+    },
+    {
+        "fecha": "13/05/2020",
+        "poblacion": "ITALIA",
+        "contagiados": 222104,
+        "fallecidos": 31106
+    },
+    {
+        "fecha": "13/05/2020",
+        "poblacion": "JAPON",
+        "contagiados": 16049,
+        "fallecidos": 678
+    },
+    {
+        "fecha": "13/05/2020",
+        "poblacion": "MARRUECOS",
+        "contagiados": 6593,
+        "fallecidos": 189
+    },
+    {
+        "fecha": "13/05/2020",
+        "poblacion": "MEJICO",
+        "contagiados": 40186,
+        "fallecidos": 4220
+    },
+    {
+        "fecha": "13/05/2020",
+        "poblacion": "PORTUGAL",
+        "contagiados": 28319,
+        "fallecidos": 1184
+    },
+    {
+        "fecha": "13/05/2020",
+        "poblacion": "REP. CHECA",
+        "contagiados": 8275,
+        "fallecidos": 290
+    },
+    {
+        "fecha": "13/05/2020",
+        "poblacion": "RUSIA",
+        "contagiados": 252245,
+        "fallecidos": 2305
+    },
+    {
+        "fecha": "13/05/2020",
+        "poblacion": "SUIZA",
+        "contagiados": 30463,
+        "fallecidos": 1870
+    },
+    {
+        "fecha": "13/05/2020",
+        "poblacion": "USA",
+        "contagiados": 1393890,
+        "fallecidos": 84239
+    },
+    {
+        "fecha": "16/05/2020",
+        "poblacion": "ALEMANIA",
+        "contagiados": 176369,
+        "fallecidos": 7958
+    },
+    {
+        "fecha": "16/05/2020",
+        "poblacion": "ARGENTINA",
+        "contagiados": 7805,
+        "fallecidos": 363
+    },
+    {
+        "fecha": "16/05/2020",
+        "poblacion": "BELGICA",
+        "contagiados": 55280,
+        "fallecidos": 9052
+    },
+    {
+        "fecha": "16/05/2020",
+        "poblacion": "BRASIL",
+        "contagiados": 233511,
+        "fallecidos": 15662
+    },
+    {
+        "fecha": "16/05/2020",
+        "poblacion": "CHINA",
+        "contagiados": 82947,
+        "fallecidos": 4634
+    },
+    {
+        "fecha": "16/05/2020",
+        "poblacion": "COREA SUR",
+        "contagiados": 11050,
+        "fallecidos": 262
+    },
+    {
+        "fecha": "16/05/2020",
+        "poblacion": "ESPAÑA",
+        "contagiados": 230698,
+        "fallecidos": 27563
+    },
+    {
+        "fecha": "16/05/2020",
+        "poblacion": "FRANCIA",
+        "contagiados": 215632,
+        "fallecidos": 27483
+    },
+    {
+        "fecha": "16/05/2020",
+        "poblacion": "REINO UNIDO",
+        "contagiados": 240161,
+        "fallecidos": 34466
+    },
+    {
+        "fecha": "16/05/2020",
+        "poblacion": "GRECIA",
+        "contagiados": 2819,
+        "fallecidos": 162
+    },
+    {
+        "fecha": "16/05/2020",
+        "poblacion": "IRAN",
+        "contagiados": 120198,
+        "fallecidos": 6988
+    },
+    {
+        "fecha": "16/05/2020",
+        "poblacion": "ISRAEL",
+        "contagiados": 16607,
+        "fallecidos": 271
+    },
+    {
+        "fecha": "16/05/2020",
+        "poblacion": "ITALIA",
+        "contagiados": 224760,
+        "fallecidos": 31763
+    },
+    {
+        "fecha": "16/05/2020",
+        "poblacion": "JAPON",
+        "contagiados": 16237,
+        "fallecidos": 725
+    },
+    {
+        "fecha": "16/05/2020",
+        "poblacion": "MARRUECOS",
+        "contagiados": 6798,
+        "fallecidos": 192
+    },
+    {
+        "fecha": "16/05/2020",
+        "poblacion": "MEJICO",
+        "contagiados": 47144,
+        "fallecidos": 5045
+    },
+    {
+        "fecha": "16/05/2020",
+        "poblacion": "PORTUGAL",
+        "contagiados": 29036,
+        "fallecidos": 1218
+    },
+    {
+        "fecha": "16/05/2020",
+        "poblacion": "REP. CHECA",
+        "contagiados": 8457,
+        "fallecidos": 297
+    },
+    {
+        "fecha": "16/05/2020",
+        "poblacion": "RUSIA",
+        "contagiados": 281752,
+        "fallecidos": 2631
+    },
+    {
+        "fecha": "16/05/2020",
+        "poblacion": "SUIZA",
+        "contagiados": 30587,
+        "fallecidos": 1881
+    },
+    {
+        "fecha": "16/05/2020",
+        "poblacion": "USA",
+        "contagiados": 1470199,
+        "fallecidos": 88811
+    },
+    {
+        "fecha": "19/05/2020",
+        "poblacion": "ALEMANIA",
+        "contagiados": 178170,
+        "fallecidos": 8144
+    },
+    {
+        "fecha": "19/05/2020",
+        "poblacion": "ARGENTINA",
+        "contagiados": 8809,
+        "fallecidos": 394
+    },
+    {
+        "fecha": "19/05/2020",
+        "poblacion": "BELGICA",
+        "contagiados": 55983,
+        "fallecidos": 9150
+    },
+    {
+        "fecha": "19/05/2020",
+        "poblacion": "BRASIL",
+        "contagiados": 271628,
+        "fallecidos": 17971
+    },
+    {
+        "fecha": "19/05/2020",
+        "poblacion": "CHINA",
+        "contagiados": 82963,
+        "fallecidos": 4634
+    },
+    {
+        "fecha": "19/05/2020",
+        "poblacion": "COREA SUR",
+        "contagiados": 11110,
+        "fallecidos": 263
+    },
+    {
+        "fecha": "19/05/2020",
+        "poblacion": "ESPAÑA",
+        "contagiados": 232555,
+        "fallecidos": 27888
+    },
+    {
+        "fecha": "19/05/2020",
+        "poblacion": "FRANCIA",
+        "contagiados": 181700,
+        "fallecidos": 28135
+    },
+    {
+        "fecha": "19/05/2020",
+        "poblacion": "REINO UNIDO",
+        "contagiados": 250141,
+        "fallecidos": 35785
+    },
+    {
+        "fecha": "19/05/2020",
+        "poblacion": "GRECIA",
+        "contagiados": 2850,
+        "fallecidos": 166
+    },
+    {
+        "fecha": "19/05/2020",
+        "poblacion": "IRAN",
+        "contagiados": 126949,
+        "fallecidos": 7183
+    },
+    {
+        "fecha": "19/05/2020",
+        "poblacion": "ISRAEL",
+        "contagiados": 16667,
+        "fallecidos": 279
+    },
+    {
+        "fecha": "19/05/2020",
+        "poblacion": "ITALIA",
+        "contagiados": 227364,
+        "fallecidos": 32330
+    },
+    {
+        "fecha": "19/05/2020",
+        "poblacion": "JAPON",
+        "contagiados": 16367,
+        "fallecidos": 768
+    },
+    {
+        "fecha": "19/05/2020",
+        "poblacion": "MARRUECOS",
+        "contagiados": 7133,
+        "fallecidos": 194
+    },
+    {
+        "fecha": "19/05/2020",
+        "poblacion": "MEJICO",
+        "contagiados": 54346,
+        "fallecidos": 5666
+    },
+    {
+        "fecha": "19/05/2020",
+        "poblacion": "PORTUGAL",
+        "contagiados": 29660,
+        "fallecidos": 1263
+    },
+    {
+        "fecha": "19/05/2020",
+        "poblacion": "REP. CHECA",
+        "contagiados": 8698,
+        "fallecidos": 304
+    },
+    {
+        "fecha": "19/05/2020",
+        "poblacion": "RUSIA",
+        "contagiados": 308705,
+        "fallecidos": 2972
+    },
+    {
+        "fecha": "19/05/2020",
+        "poblacion": "SUIZA",
+        "contagiados": 30658,
+        "fallecidos": 1892
+    },
+    {
+        "fecha": "19/05/2020",
+        "poblacion": "USA",
+        "contagiados": 1541110,
+        "fallecidos": 92712
+    },
+    {
+        "fecha": "22/05/2020",
+        "poblacion": "ALEMANIA",
+        "contagiados": 179787,
+        "fallecidos": 8256
+    },
+    {
+        "fecha": "22/05/2020",
+        "poblacion": "ARGENTINA",
+        "contagiados": 10649,
+        "fallecidos": 439
+    },
+    {
+        "fecha": "22/05/2020",
+        "poblacion": "BELGICA",
+        "contagiados": 56810,
+        "fallecidos": 9237
+    },
+    {
+        "fecha": "22/05/2020",
+        "poblacion": "BRASIL",
+        "contagiados": 330890,
+        "fallecidos": 21048
+    },
+    {
+        "fecha": "22/05/2020",
+        "poblacion": "CHINA",
+        "contagiados": 82971,
+        "fallecidos": 4634
+    },
+    {
+        "fecha": "22/05/2020",
+        "poblacion": "COREA SUR",
+        "contagiados": 11650,
+        "fallecidos": 266
+    },
+    {
+        "fecha": "22/05/2020",
+        "poblacion": "ESPAÑA",
+        "contagiados": 234824,
+        "fallecidos": 28628
+    },
+    {
+        "fecha": "22/05/2020",
+        "poblacion": "FRANCIA",
+        "contagiados": 218679,
+        "fallecidos": 28218
+    },
+    {
+        "fecha": "22/05/2020",
+        "poblacion": "REINO UNIDO",
+        "contagiados": 258504,
+        "fallecidos": 36757
+    },
+    {
+        "fecha": "22/05/2020",
+        "poblacion": "GRECIA",
+        "contagiados": 2876,
+        "fallecidos": 171
+    },
+    {
+        "fecha": "22/05/2020",
+        "poblacion": "IRAN",
+        "contagiados": 133521,
+        "fallecidos": 7359
+    },
+    {
+        "fecha": "22/05/2020",
+        "poblacion": "ISRAEL",
+        "contagiados": 16712,
+        "fallecidos": 279
+    },
+    {
+        "fecha": "22/05/2020",
+        "poblacion": "ITALIA",
+        "contagiados": 229327,
+        "fallecidos": 32735
+    },
+    {
+        "fecha": "22/05/2020",
+        "poblacion": "JAPON",
+        "contagiados": 16513,
+        "fallecidos": 796
+    },
+    {
+        "fecha": "22/05/2020",
+        "poblacion": "MARRUECOS",
+        "contagiados": 7406,
+        "fallecidos": 198
+    },
+    {
+        "fecha": "22/05/2020",
+        "poblacion": "MEJICO",
+        "contagiados": 62527,
+        "fallecidos": 6989
+    },
+    {
+        "fecha": "22/05/2020",
+        "poblacion": "PORTUGAL",
+        "contagiados": 30471,
+        "fallecidos": 1302
+    },
+    {
+        "fecha": "22/05/2020",
+        "poblacion": "REP. CHECA",
+        "contagiados": 8853,
+        "fallecidos": 314
+    },
+    {
+        "fecha": "22/05/2020",
+        "poblacion": "RUSIA",
+        "contagiados": 335882,
+        "fallecidos": 3388
+    },
+    {
+        "fecha": "22/05/2020",
+        "poblacion": "SUIZA",
+        "contagiados": 30725,
+        "fallecidos": 1905
+    },
+    {
+        "fecha": "22/05/2020",
+        "poblacion": "USA",
+        "contagiados": 1608298,
+        "fallecidos": 96283
     }
 ]
