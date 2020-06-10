@@ -14,10 +14,12 @@
 
 <div class="w3-container">
     <div class="w3-panel w3-card-4" *ngIf="!loadingData">
-        <p-chart type="line" [data]="dataChart" [options]="options" width="97vw" height="75vh"></p-chart>
+        <p-chart type="line" [data]="dataChart" [options]="options" width="97vw" height="74vh"></p-chart>
     </div>
     <div>
         <label>Fuente: <a href="https://covid19.isciii.es/" target="_blank">Ministerio de Sanidad (Los datos de Castilla La Mancha y Madrid hasta el 25/04 son datos de prevalencia, personas ingresadas y en UCI a fecha del día. De igual modo ocurre con las UCIs de Castilla y León y Galicia)</a></label>
+        <br>
+        <label>Nota: A fecha del 20.05.2020 el Ministerio de Sanidad ha dejado de actualizar datos diarios sobre las comunidades.</label>
     </div>
     <div>
         <label>Fuente: <a href="https://www.ine.es/jaxiT3/Tabla.htm?t=2915" target="_blank">INE - Cifras oficiales de problación del 2019</a></label>

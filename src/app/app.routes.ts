@@ -8,13 +8,13 @@ import { ProvinciasViewComponent } from './views/provincias-view/provincias-view
 import { PoblacionesTableComponent } from './components/poblaciones-table/poblaciones-table.component';
 
 const appRoutes: Routes = [
-    {path: '', component: LineChartComponent},
+    {path: '', component: PaisesViewComponent},
     {path: 'comunidades', component: LineChartComponent, data: {titulo: 'Comunidades'} },
     {path: 'comunidad', component: BarChartComponent, data: {titulo: 'Comunidad'} },
     {path: 'paises', component: PaisesViewComponent, data: {titulo: 'Países'} },
     {path: 'provincias', component: ProvinciasViewComponent, data: {titulo: 'Provincias'} },
     {path: 'tablas', component: PoblacionesTableComponent, data: {titulo: 'Tablas'} },
-    {path: '**', component: LineChartComponent}
+    {path: '**', component: PaisesViewComponent}
 ];
 
 export const appRoutingProviders: any[] = [];
