@@ -117,8 +117,8 @@ export class PoblacionesChartComponent implements OnInit, OnDestroy {
       .subscribe((response: DataComunidad[]) => {
         this.data = response;
 
-        this.selectedTypes = ['ESPAÑA', 'PORTUGAL', 'ITALIA', 'ALEMANIA', 'FRANCIA', 'REINO UNIDO', 'BRASIL',
-      'BELGICA', 'ISRAEL', 'REP. CHECHA', 'RUSIA', 'SUIZA', 'USA'];
+        this.selectedTypes = ['ESPAÑA', 'PORTUGAL', 'ITALIA', 'GRECIA', 'ALEMANIA', 'FRANCIA', 'REINO UNIDO', 
+      'BELGICA', 'REP. CHECA', 'SUIZA', 'USA'];
         this.cargarLabels();
         this.cargarData();
       });
@@ -242,9 +242,9 @@ export class PoblacionesChartComponent implements OnInit, OnDestroy {
             }
 
             if (this.checked) {
-              cantidad = (cantidad * 1000000) / poblacionTotal;
+              cantidad = (cantidad * 100000) / poblacionTotal;
             }
-
+            
             dataset.data.push(cantidad);
           }
         }
@@ -273,18 +273,18 @@ export class PoblacionesChartComponent implements OnInit, OnDestroy {
       this.typePoblacion === 'provincias' &&
       this.selectedModo.code === 'Hospitalizados'
     ) {
-      this.dataChart.labels = this.dataChart.labels.slice(7);
+      this.dataChart.labels = this.dataChart.labels.slice(4);
       for (const dataset of this.dataChart.datasets) {
-        dataset.data = dataset.data.slice(7);
+        dataset.data = dataset.data.slice(4);
       }
     }
     if (
       this.typePoblacion === 'provincias' &&
       this.selectedModo.code === 'Fallecidos'
     ) {
-      this.dataChart.labels = this.dataChart.labels.slice(8);
+      this.dataChart.labels = this.dataChart.labels.slice(4);
       for (const dataset of this.dataChart.datasets) {
-        dataset.data = dataset.data.slice(8);
+        dataset.data = dataset.data.slice(4);
       }
     }
   }

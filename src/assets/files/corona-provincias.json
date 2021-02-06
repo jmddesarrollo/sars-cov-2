@@ -6,104 +6,6 @@
         "fallecidos": 0
     },
     {
-        "fecha": "04/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 2,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "07/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 2,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "10/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 6,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "13/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 70,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "16/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 148,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "19/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 322,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "22/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 498,
-        "hospitalizados": 357,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "25/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 666,
-        "hospitalizados": 541,
-        "fallecidos": 66
-    },
-    {
-        "fecha": "28/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 1386,
-        "hospitalizados": 741,
-        "fallecidos": 122
-    },
-    {
-        "fecha": "31/03/2020",
-        "poblacion": "Albacete",
-        "contagiados": 1933,
-        "hospitalizados": 789,
-        "fallecidos": 156
-    },
-    {
-        "fecha": "03/04/2020",
-        "poblacion": "Albacete",
-        "contagiados": 2548,
-        "hospitalizados": 809,
-        "fallecidos": 194
-    },
-    {
-        "fecha": "06/04/2020",
-        "poblacion": "Albacete",
-        "contagiados": 2832,
-        "hospitalizados": 756,
-        "fallecidos": 252
-    },
-    {
-        "fecha": "09/04/2020",
-        "poblacion": "Albacete",
-        "contagiados": 3343,
-        "hospitalizados": 595,
-        "fallecidos": 299
-    },
-    {
-        "fecha": "12/04/2020",
-        "poblacion": "Albacete",
-        "contagiados": 3506,
-        "hospitalizados": 487,
-        "fallecidos": 322
-    },
-    {
         "fecha": "01/03/2020",
         "poblacion": "Ciudad Real",
         "contagiados": 0,
@@ -111,207 +13,11 @@
         "fallecidos": 0
     },
     {
-        "fecha": "04/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 1,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "07/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 2,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "10/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 22,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "13/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 49,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "16/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 139,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "19/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 400,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "22/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 695,
-        "hospitalizados": 455,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "25/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 1147,
-        "hospitalizados": 710,
-        "fallecidos": 89
-    },
-    {
-        "fecha": "28/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 1755,
-        "hospitalizados": 1049,
-        "fallecidos": 145
-    },
-    {
-        "fecha": "31/03/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 2471,
-        "hospitalizados": 1199,
-        "fallecidos": 245
-    },
-    {
-        "fecha": "03/04/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 3496,
-        "hospitalizados": 1169,
-        "fallecidos": 312
-    },
-    {
-        "fecha": "06/04/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 4298,
-        "hospitalizados": 1017,
-        "fallecidos": 370
-    },
-    {
-        "fecha": "09/04/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 4917,
-        "hospitalizados": 804,
-        "fallecidos": 479
-    },
-    {
-        "fecha": "12/04/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 5442,
-        "hospitalizados": 699,
-        "fallecidos": 585
-    },
-    {
         "fecha": "01/03/2020",
         "poblacion": "Cuenca",
         "contagiados": 0,
         "hospitalizados": 0,
         "fallecidos": 0
-    },
-    {
-        "fecha": "04/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 0,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "07/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 0,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "10/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 0,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "13/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 24,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "16/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 51,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "19/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 94,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "22/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 146,
-        "hospitalizados": 118,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "25/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 177,
-        "hospitalizados": 146,
-        "fallecidos": 27
-    },
-    {
-        "fecha": "28/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 253,
-        "hospitalizados": 184,
-        "fallecidos": 55
-    },
-    {
-        "fecha": "31/03/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 297,
-        "hospitalizados": 186,
-        "fallecidos": 68
-    },
-    {
-        "fecha": "03/04/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 449,
-        "hospitalizados": 158,
-        "fallecidos": 89
-    },
-    {
-        "fecha": "06/04/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 616,
-        "hospitalizados": 153,
-        "fallecidos": 96
-    },
-    {
-        "fecha": "09/04/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 845,
-        "hospitalizados": 134,
-        "fallecidos": 123
-    },
-    {
-        "fecha": "12/04/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 920,
-        "hospitalizados": 107,
-        "fallecidos": 135
     },
     {
         "fecha": "01/03/2020",
@@ -321,9 +27,32 @@
         "fallecidos": 0
     },
     {
-        "fecha": "04/03/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 8,
+        "fecha": "01/03/2020",
+        "poblacion": "Toledo",
+        "contagiados": 0,
+        "hospitalizados": 0,
+        "fallecidos": 0
+    },
+    {
+        "fecha": "07/03/2020",
+        "poblacion": "Albacete",
+        "contagiados": 2,
+        "hospitalizados": 0,
+        "fallecidos": 0
+    },
+
+
+    {
+        "fecha": "07/03/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 2,
+        "hospitalizados": 0,
+        "fallecidos": 0
+    },
+    {
+        "fecha": "07/03/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 0,
         "hospitalizados": 0,
         "fallecidos": 0
     },
@@ -335,9 +64,31 @@
         "fallecidos": 0
     },
     {
-        "fecha": "10/03/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 29,
+        "fecha": "07/03/2020",
+        "poblacion": "Toledo",
+        "contagiados": 3,
+        "hospitalizados": 0,
+        "fallecidos": 0
+    },
+    {
+        "fecha": "13/03/2020",
+        "poblacion": "Albacete",
+        "contagiados": 70,
+        "hospitalizados": 0,
+        "fallecidos": 0
+    },
+
+    {
+        "fecha": "13/03/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 49,
+        "hospitalizados": 0,
+        "fallecidos": 0
+    },
+    {
+        "fecha": "13/03/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 24,
         "hospitalizados": 0,
         "fallecidos": 0
     },
@@ -349,9 +100,30 @@
         "fallecidos": 0
     },
     {
-        "fecha": "16/03/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 145,
+        "fecha": "13/03/2020",
+        "poblacion": "Toledo",
+        "contagiados": 58,
+        "hospitalizados": 0,
+        "fallecidos": 0
+    },
+    {
+        "fecha": "19/03/2020",
+        "poblacion": "Albacete",
+        "contagiados": 322,
+        "hospitalizados": 0,
+        "fallecidos": 0
+    },
+    {
+        "fecha": "19/03/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 400,
+        "hospitalizados": 0,
+        "fallecidos": 0
+    },
+    {
+        "fecha": "19/03/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 94,
         "hospitalizados": 0,
         "fallecidos": 0
     },
@@ -363,11 +135,32 @@
         "fallecidos": 0
     },
     {
-        "fecha": "22/03/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 333,
-        "hospitalizados": 159,
+        "fecha": "19/03/2020",
+        "poblacion": "Toledo",
+        "contagiados": 370,
+        "hospitalizados": 0,
         "fallecidos": 0
+    },
+    {
+        "fecha": "25/03/2020",
+        "poblacion": "Albacete",
+        "contagiados": 666,
+        "hospitalizados": 541,
+        "fallecidos": 66
+    },
+    {
+        "fecha": "25/03/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 1147,
+        "hospitalizados": 710,
+        "fallecidos": 89
+    },
+    {
+        "fecha": "25/03/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 177,
+        "hospitalizados": 146,
+        "fallecidos": 27
     },
     {
         "fecha": "25/03/2020",
@@ -377,11 +170,32 @@
         "fallecidos": 56
     },
     {
-        "fecha": "28/03/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 535,
-        "hospitalizados": 326,
-        "fallecidos": 86
+        "fecha": "25/03/2020",
+        "poblacion": "Toledo",
+        "contagiados": 965,
+        "hospitalizados": 637,
+        "fallecidos": 78
+    },
+    {
+        "fecha": "31/03/2020",
+        "poblacion": "Albacete",
+        "contagiados": 1933,
+        "hospitalizados": 789,
+        "fallecidos": 156
+    },
+    {
+        "fecha": "31/03/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 2471,
+        "hospitalizados": 1199,
+        "fallecidos": 245
+    },
+    {
+        "fecha": "31/03/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 297,
+        "hospitalizados": 186,
+        "fallecidos": 68
     },
     {
         "fecha": "31/03/2020",
@@ -391,11 +205,32 @@
         "fallecidos": 100
     },
     {
-        "fecha": "03/04/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 837,
-        "hospitalizados": 279,
-        "fallecidos": 118
+        "fecha": "31/03/2020",
+        "poblacion": "Toledo",
+        "contagiados": 1593,
+        "hospitalizados": 746,
+        "fallecidos": 205
+    },
+    {
+        "fecha": "06/04/2020",
+        "poblacion": "Albacete",
+        "contagiados": 2832,
+        "hospitalizados": 756,
+        "fallecidos": 252
+    },
+    {
+        "fecha": "06/04/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 4298,
+        "hospitalizados": 1017,
+        "fallecidos": 370
+    },
+    {
+        "fecha": "06/04/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 616,
+        "hospitalizados": 153,
+        "fallecidos": 96
     },
     {
         "fecha": "06/04/2020",
@@ -405,11 +240,32 @@
         "fallecidos": 128
     },
     {
-        "fecha": "09/04/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 1036,
-        "hospitalizados": 248,
-        "fallecidos": 137
+        "fecha": "06/04/2020",
+        "poblacion": "Toledo",
+        "contagiados": 2434,
+        "hospitalizados": 712,
+        "fallecidos": 331
+    },
+    {
+        "fecha": "12/04/2020",
+        "poblacion": "Albacete",
+        "contagiados": 3506,
+        "hospitalizados": 487,
+        "fallecidos": 322
+    },
+    {
+        "fecha": "12/04/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 5442,
+        "hospitalizados": 699,
+        "fallecidos": 585
+    },
+    {
+        "fecha": "12/04/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 920,
+        "hospitalizados": 107,
+        "fallecidos": 135
     },
     {
         "fecha": "12/04/2020",
@@ -419,144 +275,11 @@
         "fallecidos": 153
     },
     {
-        "fecha": "01/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 0,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "04/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 2,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "07/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 3,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "10/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 12,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "13/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 58,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "16/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 179,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "19/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 370,
-        "hospitalizados": 0,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "22/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 625,
-        "hospitalizados": 485,
-        "fallecidos": 0
-    },
-    {
-        "fecha": "25/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 965,
-        "hospitalizados": 637,
-        "fallecidos": 78
-    },
-    {
-        "fecha": "28/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 1317,
-        "hospitalizados": 718,
-        "fallecidos": 131
-    },
-    {
-        "fecha": "31/03/2020",
-        "poblacion": "Toledo",
-        "contagiados": 1593,
-        "hospitalizados": 746,
-        "fallecidos": 205
-    },
-    {
-        "fecha": "03/04/2020",
-        "poblacion": "Toledo",
-        "contagiados": 1994,
-        "hospitalizados": 718,
-        "fallecidos": 276
-    },
-    {
-        "fecha": "06/04/2020",
-        "poblacion": "Toledo",
-        "contagiados": 2434,
-        "hospitalizados": 712,
-        "fallecidos": 331
-    },
-    {
-        "fecha": "09/04/2020",
-        "poblacion": "Toledo",
-        "contagiados": 2922,
-        "hospitalizados": 612,
-        "fallecidos": 393
-    },
-    {
         "fecha": "12/04/2020",
         "poblacion": "Toledo",
         "contagiados": 3052,
         "hospitalizados": 569,
         "fallecidos": 431
-    },
-    {
-        "fecha": "15/04/2020",
-        "poblacion": "Albacete",
-        "contagiados": 3600,
-        "hospitalizados": 406,
-        "fallecidos": 344
-    },
-    {
-        "fecha": "15/04/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 5962,
-        "hospitalizados": 594,
-        "fallecidos": 674
-    },
-    {
-        "fecha": "15/04/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 1009,
-        "hospitalizados": 95,
-        "fallecidos": 147
-    },
-    {
-        "fecha": "15/04/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 1245,
-        "hospitalizados": 189,
-        "fallecidos": 168
-    },
-    {
-        "fecha": "15/04/2020",
-        "poblacion": "Toledo",
-        "contagiados": 3335,
-        "hospitalizados": 515,
-        "fallecidos": 463
     },
     {
         "fecha": "18/04/2020",
@@ -594,41 +317,6 @@
         "fallecidos": 493
     },
     {
-        "fecha": "21/04/2020",
-        "poblacion": "Albacete",
-        "contagiados": 3815,
-        "hospitalizados": 303,
-        "fallecidos": 393
-    },
-    {
-        "fecha": "21/04/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 6642,
-        "hospitalizados": 448,
-        "fallecidos": 863
-    },
-    {
-        "fecha": "21/04/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 1353,
-        "hospitalizados": 70,
-        "fallecidos": 165
-    },
-    {
-        "fecha": "21/04/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 1483,
-        "hospitalizados": 130,
-        "fallecidos": 189
-    },
-    {
-        "fecha": "21/04/2020",
-        "poblacion": "Toledo",
-        "contagiados": 4028,
-        "hospitalizados": 385,
-        "fallecidos": 530
-    },
-    {
         "fecha": "24/04/2020",
         "poblacion": "Albacete",
         "contagiados": 3990,
@@ -662,41 +350,6 @@
         "contagiados": 4309,
         "hospitalizados": 305,
         "fallecidos": 569
-    },
-    {
-        "fecha": "28/04/2020",
-        "poblacion": "Albacete",
-        "contagiados": 4228,
-        "hospitalizados": 206,
-        "fallecidos": 436
-    },
-    {
-        "fecha": "28/04/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 7500,
-        "hospitalizados": 324,
-        "fallecidos": 963
-    },
-    {
-        "fecha": "28/04/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 1739,
-        "hospitalizados": 41,
-        "fallecidos": 227
-    },
-    {
-        "fecha": "28/04/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 1758,
-        "hospitalizados": 104,
-        "fallecidos": 215
-    },
-    {
-        "fecha": "28/04/2020",
-        "poblacion": "Toledo",
-        "contagiados": 4570,
-        "hospitalizados": 275,
-        "fallecidos": 595
     },
     {
         "fecha": "01/05/2020",
@@ -734,41 +387,6 @@
         "fallecidos": 614
     },
     {
-        "fecha": "04/05/2020",
-        "poblacion": "Albacete",
-        "contagiados": 4578,
-        "hospitalizados": 149,
-        "fallecidos": 464
-    },
-    {
-        "fecha": "04/05/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 7831,
-        "hospitalizados": 238,
-        "fallecidos": 1000
-    },
-    {
-        "fecha": "04/05/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 2262,
-        "hospitalizados": 28,
-        "fallecidos": 274
-    },
-    {
-        "fecha": "04/05/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 2006,
-        "hospitalizados": 70,
-        "fallecidos": 227
-    },
-    {
-        "fecha": "04/05/2020",
-        "poblacion": "Toledo",
-        "contagiados": 4979,
-        "hospitalizados": 203,
-        "fallecidos": 651
-    },
-    {
         "fecha": "07/05/2020",
         "poblacion": "Albacete",
         "contagiados": 4799,
@@ -802,41 +420,6 @@
         "contagiados": 5135,
         "hospitalizados": 196,
         "fallecidos": 693
-    },
-    {
-        "fecha": "10/05/2020",
-        "poblacion": "Albacete",
-        "contagiados": 4962,
-        "hospitalizados": 104,
-        "fallecidos": 490
-    },
-    {
-        "fecha": "10/05/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 8372,
-        "hospitalizados": 179,
-        "fallecidos": 1030
-    },
-    {
-        "fecha": "10/05/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 2975,
-        "hospitalizados": 12,
-        "fallecidos": 299
-    },
-    {
-        "fecha": "10/05/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 2207,
-        "hospitalizados": 39,
-        "fallecidos": 241
-    },
-    {
-        "fecha": "10/05/2020",
-        "poblacion": "Toledo",
-        "contagiados": 5353,
-        "hospitalizados": 189,
-        "fallecidos": 726
     },
     {
         "fecha": "13/05/2020",
@@ -874,41 +457,6 @@
         "fallecidos": 746
     },
     {
-        "fecha": "16/05/2020",
-        "poblacion": "Albacete",
-        "contagiados": 3775,
-        "hospitalizados": 70,
-        "fallecidos": 514
-    },
-    {
-        "fecha": "16/05/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 6464,
-        "hospitalizados": 101,
-        "fallecidos": 1066
-    },
-    {
-        "fecha": "16/05/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 1241,
-        "hospitalizados": 6,
-        "fallecidos": 306
-    },
-    {
-        "fecha": "16/05/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 1266,
-        "hospitalizados": 36,
-        "fallecidos": 251
-    },
-    {
-        "fecha": "16/05/2020",
-        "poblacion": "Toledo",
-        "contagiados": 3872,
-        "hospitalizados": 114,
-        "fallecidos": 756
-    },
-    {
         "fecha": "19/05/2020",
         "poblacion": "Albacete",
         "contagiados": 3781,
@@ -942,41 +490,6 @@
         "contagiados": 3903,
         "hospitalizados": 76,
         "fallecidos": 762
-    },
-    {
-        "fecha": "22/05/2020",
-        "poblacion": "Albacete",
-        "contagiados": 3795,
-        "hospitalizados": 63,
-        "fallecidos": 523
-    },
-    {
-        "fecha": "22/05/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 6556,
-        "hospitalizados": 56,
-        "fallecidos": 1080
-    },
-    {
-        "fecha": "22/05/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 1270,
-        "hospitalizados": 4,
-        "fallecidos": 308
-    },
-    {
-        "fecha": "22/05/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 1296,
-        "hospitalizados": 19,
-        "fallecidos": 253
-    },
-    {
-        "fecha": "22/05/2020",
-        "poblacion": "Toledo",
-        "contagiados": 3938,
-        "hospitalizados": 38,
-        "fallecidos": 770
     },
     {
         "fecha": "25/05/2020",
@@ -1014,41 +527,6 @@
         "fallecidos": 774
     },
     {
-        "fecha": "28/05/2020",
-        "poblacion": "Albacete",
-        "contagiados": 3845,
-        "hospitalizados": 51,
-        "fallecidos": 526
-    },
-    {
-        "fecha": "28/05/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 6686,
-        "hospitalizados": 44,
-        "fallecidos": 1094
-    },
-    {
-        "fecha": "28/05/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 1322,
-        "hospitalizados": 5,
-        "fallecidos": 313
-    },
-    {
-        "fecha": "28/05/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 1306,
-        "hospitalizados": 15,
-        "fallecidos": 254
-    },
-    {
-        "fecha": "28/05/2020",
-        "poblacion": "Toledo",
-        "contagiados": 3963,
-        "hospitalizados": 38,
-        "fallecidos": 779
-    },
-    {
         "fecha": "31/05/2020",
         "poblacion": "Albacete",
         "contagiados": 3859,
@@ -1082,41 +560,6 @@
         "contagiados": 4005,
         "hospitalizados": 34,
         "fallecidos": 782
-    },
-    {
-        "fecha": "03/06/2020",
-        "poblacion": "Albacete",
-        "contagiados": 3885,
-        "hospitalizados": 29,
-        "fallecidos": 532
-    },
-    {
-        "fecha": "03/06/2020",
-        "poblacion": "Ciudad Real",
-        "contagiados": 6797,
-        "hospitalizados": 39,
-        "fallecidos": 1105
-    },
-    {
-        "fecha": "03/06/2020",
-        "poblacion": "Cuenca",
-        "contagiados": 1359,
-        "hospitalizados": 8,
-        "fallecidos": 313
-    },
-    {
-        "fecha": "03/06/2020",
-        "poblacion": "Guadalajara",
-        "contagiados": 1318,
-        "hospitalizados": 13,
-        "fallecidos": 254
-    },
-    {
-        "fecha": "03/06/2020",
-        "poblacion": "Toledo",
-        "contagiados": 4034,
-        "hospitalizados": 31,
-        "fallecidos": 785
     },
     {
         "fecha": "06/06/2020",
@@ -1154,45 +597,1333 @@
         "fallecidos": 787
     },
     {
-        "fecha": "03/06/2020",
-        "poblacion": "Toledo",
-        "contagiados": 4034,
-        "hospitalizados": 31,
-        "fallecidos": 785
-    },
-    {
-        "fecha": "09/06/2020",
+        "fecha": "12/06/2020",
         "poblacion": "Albacete",
-        "contagiados": 3911,
-        "hospitalizados": 8,
-        "fallecidos": 535
+        "contagiados": 3923,
+        "hospitalizados": 9,
+        "fallecidos": 538
     },
     {
-        "fecha": "09/06/2020",
+        "fecha": "12/06/2020",
         "poblacion": "Ciudad Real",
-        "contagiados": 6931,
-        "hospitalizados": 22,
-        "fallecidos": 1112
+        "contagiados": 6994,
+        "hospitalizados": 18,
+        "fallecidos": 1114
     },
     {
-        "fecha": "09/06/2020",
+        "fecha": "12/06/2020",
         "poblacion": "Cuenca",
-        "contagiados": 1383,
-        "hospitalizados": 10,
+        "contagiados": 1408,
+        "hospitalizados": 5,
         "fallecidos": 313
     },
     {
-        "fecha": "09/06/2020",
+        "fecha": "12/06/2020",
         "poblacion": "Guadalajara",
-        "contagiados": 1345,
-        "hospitalizados": 12,
+        "contagiados": 1353,
+        "hospitalizados": 8,
         "fallecidos": 256
     },
     {
-        "fecha": "09/06/2020",
+        "fecha": "12/06/2020",
         "poblacion": "Toledo",
-        "contagiados": 4070,
+        "contagiados": 4098,
         "hospitalizados": 14,
-        "fallecidos": 788
+        "fallecidos": 790
+    },
+    {
+        "fecha": "18/06/2020",
+        "poblacion": "Albacete",
+        "contagiados": 3936,
+        "hospitalizados": 8,
+        "fallecidos": 549
+    },
+    {
+        "fecha": "18/06/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 7028,
+        "hospitalizados": 24,
+        "fallecidos": 1114
+    },
+    {
+        "fecha": "18/06/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 1416,
+        "hospitalizados": 5,
+        "fallecidos": 315
+    },
+    {
+        "fecha": "18/06/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 1395,
+        "hospitalizados": 6,
+        "fallecidos": 257
+    },
+    {
+        "fecha": "18/06/2020",
+        "poblacion": "Toledo",
+        "contagiados": 4136,
+        "hospitalizados": 12,
+        "fallecidos": 793
+    },
+    {
+        "fecha": "24/06/2020",
+        "poblacion": "Albacete",
+        "contagiados": 3946,
+        "hospitalizados": 7,
+        "fallecidos": 551
+    },
+    {
+        "fecha": "24/06/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 7087,
+        "hospitalizados": 13,
+        "fallecidos": 1116
+    },
+    {
+        "fecha": "24/06/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 1421,
+        "hospitalizados": 3,
+        "fallecidos": 315
+    },
+    {
+        "fecha": "24/06/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 1439,
+        "hospitalizados": 9,
+        "fallecidos": 257
+    },
+    {
+        "fecha": "24/06/2020",
+        "poblacion": "Toledo",
+        "contagiados": 4161,
+        "hospitalizados": 12,
+        "fallecidos": 795
+    },
+    {
+        "fecha": "30/06/2020",
+        "poblacion": "Albacete",
+        "contagiados": 3969,
+        "hospitalizados": 11,
+        "fallecidos": 549
+    },
+    {
+        "fecha": "30/06/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 7140,
+        "hospitalizados": 12,
+        "fallecidos": 1114
+    },
+    {
+        "fecha": "30/06/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 1429,
+        "hospitalizados": 7,
+        "fallecidos": 315
+    },
+    {
+        "fecha": "30/06/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 1457,
+        "hospitalizados": 4,
+        "fallecidos": 257
+    },
+    {
+        "fecha": "30/06/2020",
+        "poblacion": "Toledo",
+        "contagiados": 4194,
+        "hospitalizados": 12,
+        "fallecidos": 793
+    },
+    {
+        "fecha": "06/07/2020",
+        "poblacion": "Albacete",
+        "contagiados": 3996,
+        "hospitalizados": 9,
+        "fallecidos": 563
+    },
+    {
+        "fecha": "06/07/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 7180,
+        "hospitalizados": 21,
+        "fallecidos": 1117
+    },
+    {
+        "fecha": "06/07/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 1432,
+        "hospitalizados": 7,
+        "fallecidos": 315
+    },
+    {
+        "fecha": "06/07/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 1473,
+        "hospitalizados": 5,
+        "fallecidos": 260
+    },
+    {
+        "fecha": "06/07/2020",
+        "poblacion": "Toledo",
+        "contagiados": 4220,
+        "hospitalizados": 10,
+        "fallecidos": 801
+    },
+    {
+        "fecha": "12/07/2020",
+        "poblacion": "Albacete",
+        "contagiados": 4004,
+        "hospitalizados": 6,
+        "fallecidos": 573
+    },
+    {
+        "fecha": "12/07/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 7233,
+        "hospitalizados": 18,
+        "fallecidos": 1118
+    },
+    {
+        "fecha": "12/07/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 1433,
+        "hospitalizados": 1,
+        "fallecidos": 315
+    },
+    {
+        "fecha": "12/07/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 1485,
+        "hospitalizados": 5,
+        "fallecidos": 260
+    },
+    {
+        "fecha": "12/07/2020",
+        "poblacion": "Toledo",
+        "contagiados": 4233,
+        "hospitalizados": 7,
+        "fallecidos": 805
+    },
+    {
+        "fecha": "18/07/2020",
+        "poblacion": "Albacete",
+        "contagiados": 4047,
+        "hospitalizados": 13,
+        "fallecidos": 575
+    },
+    {
+        "fecha": "18/07/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 7308,
+        "hospitalizados": 10,
+        "fallecidos": 1118
+    },
+    {
+        "fecha": "18/07/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 1443,
+        "hospitalizados": 2,
+        "fallecidos": 315
+    },
+    {
+        "fecha": "18/07/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 1499,
+        "hospitalizados": 3,
+        "fallecidos": 262
+    },
+    {
+        "fecha": "18/07/2020",
+        "poblacion": "Toledo",
+        "contagiados": 4247,
+        "hospitalizados": 11,
+        "fallecidos": 806
+    },
+    {
+        "fecha": "24/07/2020",
+        "poblacion": "Albacete",
+        "contagiados": 4060,
+        "hospitalizados": 9,
+        "fallecidos": 577
+    },
+    {
+        "fecha": "24/07/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 7330,
+        "hospitalizados": 16,
+        "fallecidos": 1119
+    },
+    {
+        "fecha": "24/07/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 1452,
+        "hospitalizados": 4,
+        "fallecidos": 316
+    },
+    {
+        "fecha": "24/07/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 1524,
+        "hospitalizados": 6,
+        "fallecidos": 262
+    },
+    {
+        "fecha": "24/07/2020",
+        "poblacion": "Toledo",
+        "contagiados": 4286,
+        "hospitalizados": 9,
+        "fallecidos": 807
+    },
+    {
+        "fecha": "30/07/2020",
+        "poblacion": "Albacete",
+        "contagiados": 4100,
+        "hospitalizados": 6,
+        "fallecidos": 579
+    },
+    {
+        "fecha": "30/07/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 7401,
+        "hospitalizados": 8,
+        "fallecidos": 1119
+    },
+    {
+        "fecha": "30/07/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 1463,
+        "hospitalizados": 2,
+        "fallecidos": 316
+    },
+    {
+        "fecha": "30/07/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 1553,
+        "hospitalizados": 7,
+        "fallecidos": 264
+    },
+    {
+        "fecha": "30/07/2020",
+        "poblacion": "Toledo",
+        "contagiados": 4352,
+        "hospitalizados": 9,
+        "fallecidos": 807
+    },
+    {
+        "fecha": "05/08/2020",
+        "poblacion": "Albacete",
+        "contagiados": 4140,
+        "hospitalizados": 7,
+        "fallecidos": 579
+    },
+    {
+        "fecha": "05/08/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 7499,
+        "hospitalizados": 14,
+        "fallecidos": 1119
+    },
+    {
+        "fecha": "05/08/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 1473,
+        "hospitalizados": 2,
+        "fallecidos": 317
+    },
+    {
+        "fecha": "05/08/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 1607,
+        "hospitalizados": 10,
+        "fallecidos": 264
+    },
+    {
+        "fecha": "05/08/2020",
+        "poblacion": "Toledo",
+        "contagiados": 4450,
+        "hospitalizados": 13,
+        "fallecidos": 809
+    },
+    {
+        "fecha": "11/08/2020",
+        "poblacion": "Albacete",
+        "contagiados": 4377,
+        "hospitalizados": 13,
+        "fallecidos": 580
+    },
+    {
+        "fecha": "11/08/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 7658,
+        "hospitalizados": 19,
+        "fallecidos": 1121
+    },
+    {
+        "fecha": "11/08/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 1504,
+        "hospitalizados": 3,
+        "fallecidos": 317
+    },
+    {
+        "fecha": "11/08/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 1763,
+        "hospitalizados": 15,
+        "fallecidos": 265
+    },
+    {
+        "fecha": "11/08/2020",
+        "poblacion": "Toledo",
+        "contagiados": 4716,
+        "hospitalizados": 17,
+        "fallecidos": 810
+    },
+    {
+        "fecha": "17/08/2020",
+        "poblacion": "Albacete",
+        "contagiados": 4581,
+        "hospitalizados": 17,
+        "fallecidos": 581
+    },
+    {
+        "fecha": "17/08/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 7813,
+        "hospitalizados": 18,
+        "fallecidos": 1123
+    },
+    {
+        "fecha": "17/08/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 1566,
+        "hospitalizados": 6,
+        "fallecidos": 317
+    },
+    {
+        "fecha": "17/08/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 1945,
+        "hospitalizados": 18,
+        "fallecidos": 265
+    },
+    {
+        "fecha": "17/08/2020",
+        "poblacion": "Toledo",
+        "contagiados": 5046,
+        "hospitalizados": 25,
+        "fallecidos": 811
+    },
+    {
+        "fecha": "23/08/2020",
+        "poblacion": "Albacete",
+        "contagiados": 4977,
+        "hospitalizados": 36,
+        "fallecidos": 581
+    },
+    {
+        "fecha": "23/08/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 8173,
+        "hospitalizados": 21,
+        "fallecidos": 1124
+    },
+    {
+        "fecha": "23/08/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 1661,
+        "hospitalizados": 6,
+        "fallecidos": 318
+    },
+    {
+        "fecha": "23/08/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 2227,
+        "hospitalizados": 35,
+        "fallecidos": 268
+    },
+    {
+        "fecha": "23/08/2020",
+        "poblacion": "Toledo",
+        "contagiados": 5970,
+        "hospitalizados": 59,
+        "fallecidos": 813
+    },
+    {
+        "fecha": "29/08/2020",
+        "poblacion": "Albacete",
+        "contagiados": 5656,
+        "hospitalizados": 47,
+        "fallecidos": 581
+    },
+    {
+        "fecha": "29/08/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 8809,
+        "hospitalizados": 45,
+        "fallecidos": 1127
+    },
+    {
+        "fecha": "29/08/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 1829,
+        "hospitalizados": 12,
+        "fallecidos": 318
+    },
+    {
+        "fecha": "29/08/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 2674,
+        "hospitalizados": 31,
+        "fallecidos": 270
+    },
+    {
+        "fecha": "29/08/2020",
+        "poblacion": "Toledo",
+        "contagiados": 7251,
+        "hospitalizados": 116,
+        "fallecidos": 815
+    },
+    {
+        "fecha": "04/09/2020",
+        "poblacion": "Albacete",
+        "contagiados": 6161,
+        "hospitalizados": 55,
+        "fallecidos": 584
+    },
+    {
+        "fecha": "04/09/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 9280,
+        "hospitalizados": 50,
+        "fallecidos": 1132
+    },
+    {
+        "fecha": "04/09/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 1913,
+        "hospitalizados": 17,
+        "fallecidos": 318
+    },
+    {
+        "fecha": "04/09/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 3060,
+        "hospitalizados": 38,
+        "fallecidos": 270
+    },
+    {
+        "fecha": "04/09/2020",
+        "poblacion": "Toledo",
+        "contagiados": 8308,
+        "hospitalizados": 151,
+        "fallecidos": 818
+    },
+    {
+        "fecha": "10/09/2020",
+        "poblacion": "Albacete",
+        "contagiados": 6700,
+        "hospitalizados": 63,
+        "fallecidos": 591
+    },
+    {
+        "fecha": "10/09/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 10396,
+        "hospitalizados": 89,
+        "fallecidos": 1137
+    },
+    {
+        "fecha": "10/09/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 2121,
+        "hospitalizados": 19,
+        "fallecidos": 319
+    },
+    {
+        "fecha": "10/09/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 3604,
+        "hospitalizados": 54,
+        "fallecidos": 270
+    },
+    {
+        "fecha": "10/09/2020",
+        "poblacion": "Toledo",
+        "contagiados": 10289,
+        "hospitalizados": 194,
+        "fallecidos": 829
+    },
+    {
+        "fecha": "16/09/2020",
+        "poblacion": "Albacete",
+        "contagiados": 7107,
+        "hospitalizados": 62,
+        "fallecidos": 596
+    },
+    {
+        "fecha": "16/09/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 11433,
+        "hospitalizados": 139,
+        "fallecidos": 1147
+    },
+    {
+        "fecha": "16/09/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 2434,
+        "hospitalizados": 23,
+        "fallecidos": 320
+    },
+    {
+        "fecha": "16/09/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 4440,
+        "hospitalizados": 59,
+        "fallecidos": 275
+    },
+    {
+        "fecha": "16/09/2020",
+        "poblacion": "Toledo",
+        "contagiados": 12078,
+        "hospitalizados": 226,
+        "fallecidos": 852
+    },
+    {
+        "fecha": "22/09/2020",
+        "poblacion": "Albacete",
+        "contagiados": 7636,
+        "hospitalizados": 53,
+        "fallecidos": 598
+    },
+    {
+        "fecha": "22/09/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 12459,
+        "hospitalizados": 130,
+        "fallecidos": 1162
+    },
+    {
+        "fecha": "22/09/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 2714,
+        "hospitalizados": 22,
+        "fallecidos": 325
+    },
+    {
+        "fecha": "22/09/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 5055,
+        "hospitalizados": 70,
+        "fallecidos": 281
+    },
+    {
+        "fecha": "22/09/2020",
+        "poblacion": "Toledo",
+        "contagiados": 14011,
+        "hospitalizados": 274,
+        "fallecidos": 877
+    },
+    {
+        "fecha": "28/09/2020",
+        "poblacion": "Albacete",
+        "contagiados": 7947,
+        "hospitalizados": 55,
+        "fallecidos": 599
+    },
+    {
+        "fecha": "28/09/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 13301,
+        "hospitalizados": 125,
+        "fallecidos": 1170
+    },
+    {
+        "fecha": "28/09/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 3085,
+        "hospitalizados": 35,
+        "fallecidos": 325
+    },
+    {
+        "fecha": "28/09/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 5631,
+        "hospitalizados": 66,
+        "fallecidos": 282
+    },
+    {
+        "fecha": "28/09/2020",
+        "poblacion": "Toledo",
+        "contagiados": 15628,
+        "hospitalizados": 296,
+        "fallecidos": 880
+    },
+    {
+        "fecha": "03/10/2020",
+        "poblacion": "Albacete",
+        "contagiados": 8383,
+        "hospitalizados": 55,
+        "fallecidos": 602
+    },
+    {
+        "fecha": "03/10/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 13982,
+        "hospitalizados": 105,
+        "fallecidos": 1200
+    },
+    {
+        "fecha": "03/10/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 3422,
+        "hospitalizados": 46,
+        "fallecidos": 333
+    },
+    {
+        "fecha": "03/10/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 6310,
+        "hospitalizados": 64,
+        "fallecidos": 287
+    },
+    {
+        "fecha": "03/10/2020",
+        "poblacion": "Toledo",
+        "contagiados": 17523,
+        "hospitalizados": 284,
+        "fallecidos": 914
+    },
+    {
+        "fecha": "09/10/2020",
+        "poblacion": "Albacete",
+        "contagiados": 8630,
+        "hospitalizados": 44,
+        "fallecidos": 604
+    },
+    {
+        "fecha": "09/10/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 14395,
+        "hospitalizados": 84,
+        "fallecidos": 1204
+    },
+    {
+        "fecha": "09/10/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 3647,
+        "hospitalizados": 39,
+        "fallecidos": 338
+    },
+    {
+        "fecha": "09/10/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 6745,
+        "hospitalizados": 79,
+        "fallecidos": 295
+    },
+    {
+        "fecha": "09/10/2020",
+        "poblacion": "Toledo",
+        "contagiados": 18619,
+        "hospitalizados": 243,
+        "fallecidos": 936
+    },
+    {
+        "fecha": "15/10/2020",
+        "poblacion": "Albacete",
+        "contagiados": 9095,
+        "hospitalizados": 54,
+        "fallecidos": 608
+    },
+    {
+        "fecha": "15/10/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 14956,
+        "hospitalizados": 80,
+        "fallecidos": 1211
+    },
+    {
+        "fecha": "15/10/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 4208,
+        "hospitalizados": 33,
+        "fallecidos": 345
+    },
+    {
+        "fecha": "15/10/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 7367,
+        "hospitalizados": 94,
+        "fallecidos": 309
+    },
+    {
+        "fecha": "15/10/2020",
+        "poblacion": "Toledo",
+        "contagiados": 20550,
+        "hospitalizados": 299,
+        "fallecidos": 968
+    },
+    {
+        "fecha": "22/10/2020",
+        "poblacion": "Albacete",
+        "contagiados": 9783,
+        "hospitalizados": 70,
+        "fallecidos": 612
+    },
+    {
+        "fecha": "22/10/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 15662,
+        "hospitalizados": 64,
+        "fallecidos": 1215
+    },
+    {
+        "fecha": "22/10/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 4747,
+        "hospitalizados": 34,
+        "fallecidos": 350
+    },
+    {
+        "fecha": "22/10/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 7964,
+        "hospitalizados": 95,
+        "fallecidos": 319
+    },
+    {
+        "fecha": "22/10/2020",
+        "poblacion": "Toledo",
+        "contagiados": 22605,
+        "hospitalizados": 373,
+        "fallecidos": 1004
+    },
+    {
+        "fecha": "29/10/2020",
+        "poblacion": "Albacete",
+        "contagiados": 10895,
+        "hospitalizados": 97,
+        "fallecidos": 616
+    },
+    {
+        "fecha": "29/10/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 16896,
+        "hospitalizados": 100,
+        "fallecidos": 1226
+    },
+    {
+        "fecha": "29/10/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 5890,
+        "hospitalizados": 41,
+        "fallecidos": 355
+    },
+    {
+        "fecha": "29/10/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 8806,
+        "hospitalizados": 87,
+        "fallecidos": 332
+    },
+    {
+        "fecha": "29/10/2020",
+        "poblacion": "Toledo",
+        "contagiados": 26110,
+        "hospitalizados": 446,
+        "fallecidos": 1068
+    },
+    {
+        "fecha": "05/11/2020",
+        "poblacion": "Albacete",
+        "contagiados": 11744,
+        "hospitalizados": 121,
+        "fallecidos": 625
+    },
+    {
+        "fecha": "05/11/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 17878,
+        "hospitalizados": 124,
+        "fallecidos": 1231
+    },
+    {
+        "fecha": "05/11/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 6711,
+        "hospitalizados": 51,
+        "fallecidos": 361
+    },
+    {
+        "fecha": "05/11/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 9241,
+        "hospitalizados": 76,
+        "fallecidos": 347
+    },
+    {
+        "fecha": "05/11/2020",
+        "poblacion": "Toledo",
+        "contagiados": 28370,
+        "hospitalizados": 465,
+        "fallecidos": 1150
+    },
+    {
+        "fecha": "12/11/2020",
+        "poblacion": "Albacete",
+        "contagiados": 12875,
+        "hospitalizados": 133,
+        "fallecidos": 636
+    },
+    {
+        "fecha": "12/11/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 19034,
+        "hospitalizados": 110,
+        "fallecidos": 1243
+    },
+    {
+        "fecha": "12/11/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 7564,
+        "hospitalizados": 71,
+        "fallecidos": 365
+    },
+    {
+        "fecha": "12/11/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 9859,
+        "hospitalizados": 66,
+        "fallecidos": 355
+    },
+    {
+        "fecha": "12/11/2020",
+        "poblacion": "Toledo",
+        "contagiados": 30906,
+        "hospitalizados": 392,
+        "fallecidos": 1231
+    },
+    {
+        "fecha": "19/11/2020",
+        "poblacion": "Albacete",
+        "contagiados": 13580,
+        "hospitalizados": 130,
+        "fallecidos": 648
+    },
+    {
+        "fecha": "19/11/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 19826,
+        "hospitalizados": 105,
+        "fallecidos": 1259
+    },
+    {
+        "fecha": "19/11/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 8144,
+        "hospitalizados": 60,
+        "fallecidos": 376
+    },
+    {
+        "fecha": "19/11/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 10173,
+        "hospitalizados": 53,
+        "fallecidos": 366
+    },
+    {
+        "fecha": "19/11/2020",
+        "poblacion": "Toledo",
+        "contagiados": 32376,
+        "hospitalizados": 299,
+        "fallecidos": 1284
+    },
+    {
+        "fecha": "26/11/2020",
+        "poblacion": "Albacete",
+        "contagiados": 14301,
+        "hospitalizados": 96,
+        "fallecidos": 660
+    },
+    {
+        "fecha": "26/11/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 20623,
+        "hospitalizados": 100,
+        "fallecidos": 1274
+    },
+    {
+        "fecha": "26/11/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 8709,
+        "hospitalizados": 38,
+        "fallecidos": 387
+    },
+    {
+        "fecha": "26/11/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 10541,
+        "hospitalizados": 56,
+        "fallecidos": 375
+    },
+    {
+        "fecha": "26/11/2020",
+        "poblacion": "Toledo",
+        "contagiados": 33764,
+        "hospitalizados": 208,
+        "fallecidos": 1349
+    },
+    {
+        "fecha": "04/12/2020",
+        "poblacion": "Albacete",
+        "contagiados": 14806,
+        "hospitalizados": 91,
+        "fallecidos": 673
+    },
+    {
+        "fecha": "04/12/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 21261,
+        "hospitalizados": 106,
+        "fallecidos": 1286
+    },
+    {
+        "fecha": "04/12/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 9087,
+        "hospitalizados": 31,
+        "fallecidos": 395
+    },
+    {
+        "fecha": "04/12/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 10774,
+        "hospitalizados": 51,
+        "fallecidos": 389
+    },
+    {
+        "fecha": "04/12/2020",
+        "poblacion": "Toledo",
+        "contagiados": 34770,
+        "hospitalizados": 199,
+        "fallecidos": 1386
+    },
+    {
+        "fecha": "11/12/2020",
+        "poblacion": "Albacete",
+        "contagiados": 15402,
+        "hospitalizados": 84,
+        "fallecidos": 685
+    },
+    {
+        "fecha": "11/12/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 21857,
+        "hospitalizados": 95,
+        "fallecidos": 1295
+    },
+    {
+        "fecha": "11/12/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 9362,
+        "hospitalizados": 24,
+        "fallecidos": 397
+    },
+    {
+        "fecha": "11/12/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 11058,
+        "hospitalizados": 48,
+        "fallecidos": 412
+    },
+    {
+        "fecha": "11/12/2020",
+        "poblacion": "Toledo",
+        "contagiados": 35639,
+        "hospitalizados": 225,
+        "fallecidos": 1425
+    },
+    {
+        "fecha": "18/12/2020",
+        "poblacion": "Albacete",
+        "contagiados": 16184,
+        "hospitalizados": 83,
+        "fallecidos": 697
+    },
+    {
+        "fecha": "18/12/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 22875,
+        "hospitalizados": 95,
+        "fallecidos": 1304
+    },
+    {
+        "fecha": "18/12/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 9631,
+        "hospitalizados": 13,
+        "fallecidos": 402
+    },
+    {
+        "fecha": "18/12/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 11486,
+        "hospitalizados": 34,
+        "fallecidos": 429
+    },
+    {
+        "fecha": "18/12/2020",
+        "poblacion": "Toledo",
+        "contagiados": 36809,
+        "hospitalizados": 221,
+        "fallecidos": 1467
+    },
+    {
+        "fecha": "25/12/2020",
+        "poblacion": "Albacete",
+        "contagiados": 17091,
+        "hospitalizados": 70,
+        "fallecidos": 710
+    },
+    {
+        "fecha": "25/12/2020",
+        "poblacion": "Ciudad Real",
+        "contagiados": 24407,
+        "hospitalizados": 128,
+        "fallecidos": 1319
+    },
+    {
+        "fecha": "25/12/2020",
+        "poblacion": "Cuenca",
+        "contagiados": 9981,
+        "hospitalizados": 18,
+        "fallecidos": 408
+    },
+    {
+        "fecha": "25/12/2020",
+        "poblacion": "Guadalajara",
+        "contagiados": 12089,
+        "hospitalizados": 52,
+        "fallecidos": 444
+    },
+    {
+        "fecha": "25/12/2020",
+        "poblacion": "Toledo",
+        "contagiados": 38201,
+        "hospitalizados": 198,
+        "fallecidos": 1500
+    },
+    {
+        "fecha": "01/01/2021",
+        "poblacion": "Albacete",
+        "contagiados": 18144,
+        "hospitalizados": 125,
+        "fallecidos": 720
+    },
+    {
+        "fecha": "01/01/2021",
+        "poblacion": "Ciudad Real",
+        "contagiados": 26198,
+        "hospitalizados": 165,
+        "fallecidos": 1335
+    },
+    {
+        "fecha": "01/01/2021",
+        "poblacion": "Cuenca",
+        "contagiados": 10443,
+        "hospitalizados": 29,
+        "fallecidos": 409
+    },
+    {
+        "fecha": "01/01/2021",
+        "poblacion": "Guadalajara",
+        "contagiados": 12637,
+        "hospitalizados": 59,
+        "fallecidos": 458
+    },
+    {
+        "fecha": "01/01/2021",
+        "poblacion": "Toledo",
+        "contagiados": 39454,
+        "hospitalizados": 219,
+        "fallecidos": 1529
+    },
+    {
+        "fecha": "08/01/2021",
+        "poblacion": "Albacete",
+        "contagiados": 18922,
+        "hospitalizados": 122,
+        "fallecidos": 729
+    },
+    {
+        "fecha": "08/01/2021",
+        "poblacion": "Ciudad Real",
+        "contagiados": 27797,
+        "hospitalizados": 205,
+        "fallecidos": 1347
+    },
+    {
+        "fecha": "08/01/2021",
+        "poblacion": "Cuenca",
+        "contagiados": 11019,
+        "hospitalizados": 27,
+        "fallecidos": 411
+    },
+    {
+        "fecha": "08/01/2021",
+        "poblacion": "Guadalajara",
+        "contagiados": 13248,
+        "hospitalizados": 66,
+        "fallecidos": 464
+    },
+    {
+        "fecha": "08/01/2021",
+        "poblacion": "Toledo",
+        "contagiados": 41314,
+        "hospitalizados": 267,
+        "fallecidos": 1543
+    },
+    {
+        "fecha": "15/01/2021",
+        "poblacion": "Albacete",
+        "contagiados": 20914,
+        "hospitalizados": 173,
+        "fallecidos": 743
+    },
+    {
+        "fecha": "15/01/2021",
+        "poblacion": "Ciudad Real",
+        "contagiados": 32010,
+        "hospitalizados": 309,
+        "fallecidos": 1380
+    },
+    {
+        "fecha": "15/01/2021",
+        "poblacion": "Cuenca",
+        "contagiados": 12441,
+        "hospitalizados": 67,
+        "fallecidos": 419
+    },
+    {
+        "fecha": "15/01/2021",
+        "poblacion": "Guadalajara",
+        "contagiados": 14509,
+        "hospitalizados": 74,
+        "fallecidos": 473
+    },
+    {
+        "fecha": "15/01/2021",
+        "poblacion": "Toledo",
+        "contagiados": 44981,
+        "hospitalizados": 418,
+        "fallecidos": 1587
+    },
+    {
+        "fecha": "22/01/2021",
+        "poblacion": "Albacete",
+        "contagiados": 23298,
+        "hospitalizados": 242,
+        "fallecidos": 765
+    },
+    {
+        "fecha": "22/01/2021",
+        "poblacion": "Ciudad Real",
+        "contagiados": 36464,
+        "hospitalizados": 419,
+        "fallecidos": 1437
+    },
+    {
+        "fecha": "22/01/2021",
+        "poblacion": "Cuenca",
+        "contagiados": 14458,
+        "hospitalizados": 108,
+        "fallecidos": 436
+    },
+    {
+        "fecha": "22/01/2021",
+        "poblacion": "Guadalajara",
+        "contagiados": 16256,
+        "hospitalizados": 114,
+        "fallecidos": 487
+    },
+    {
+        "fecha": "22/01/2021",
+        "poblacion": "Toledo",
+        "contagiados": 49967,
+        "hospitalizados": 619,
+        "fallecidos": 1683
+    },
+    {
+        "fecha": "29/01/2021",
+        "poblacion": "Albacete",
+        "contagiados": 25395,
+        "hospitalizados": 235,
+        "fallecidos": 797
+    },
+    {
+        "fecha": "29/01/2021",
+        "poblacion": "Ciudad Real",
+        "contagiados": 39469,
+        "hospitalizados": 425,
+        "fallecidos": 1509
+    },
+    {
+        "fecha": "29/01/2021",
+        "poblacion": "Cuenca",
+        "contagiados": 16186,
+        "hospitalizados": 128,
+        "fallecidos": 458
+    },
+    {
+        "fecha": "29/01/2021",
+        "poblacion": "Guadalajara",
+        "contagiados": 17913,
+        "hospitalizados": 127,
+        "fallecidos": 501
+    },
+    {
+        "fecha": "29/01/2021",
+        "poblacion": "Toledo",
+        "contagiados": 55381,
+        "hospitalizados": 641,
+        "fallecidos": 1772
+    },
+    {
+        "fecha": "05/02/2021",
+        "poblacion": "Albacete",
+        "contagiados": 26694,
+        "hospitalizados": 208,
+        "fallecidos": 826
+    },
+    {
+        "fecha": "05/02/2021",
+        "poblacion": "Ciudad Real",
+        "contagiados": 41176,
+        "hospitalizados": 309,
+        "fallecidos": 1577
+    },
+    {
+        "fecha": "05/02/2021",
+        "poblacion": "Cuenca",
+        "contagiados": 17165,
+        "hospitalizados": 97,
+        "fallecidos": 494
+    },
+    {
+        "fecha": "05/02/2021",
+        "poblacion": "Guadalajara",
+        "contagiados": 19288,
+        "hospitalizados": 130,
+        "fallecidos": 529
+    },
+    {
+        "fecha": "05/02/2021",
+        "poblacion": "Toledo",
+        "contagiados": 58863,
+        "hospitalizados": 566,
+        "fallecidos": 1881
     }
 ]

@@ -3,7 +3,7 @@
     <div class="w3-clear"></div>
     <div class="w3-margin-bottom">
         <p-dropdown class="w3-margin-right" [options]="modos" [(ngModel)]="selectedModo" placeholder="Seleccionar modo" optionLabel="name" [showClear]="false" (onChange)="cambiarModo()"></p-dropdown>
-        <p-inputSwitch class="w3-margin-right w3-margin-left" [(ngModel)]="checked" (onChange)="cambiarModo()"></p-inputSwitch><label>Cantidad por cada millón de habitantes</label>
+        <p-inputSwitch class="w3-margin-right w3-margin-left" [(ngModel)]="checked" (onChange)="cambiarModo()"></p-inputSwitch><label>Cantidad por cada cien mil habitantes</label>
     </div>
 </div>
 
@@ -24,7 +24,7 @@
     </div>
     <div *ngIf="typePoblacion === 'provincias'">
         <div>
-            <label>Fuente: <a href="https://sanidad.castillalamancha.es/saladeprensa/notas-de-prensa" target="_blank">Sanidad CLM - (Los datos de hospitalizados por provincia comenzaron a informarse a partir del día 22/03/2020. Fallecidos se recogen datos a partir del día 25/03/2020)</a></label>
+            <label>Fuente: <a href="https://sanidad.castillalamancha.es/saladeprensa/notas-de-prensa" target="_blank">Sanidad CLM - Los datos de hospitalizados y fallecidos por provincia comenzaron a informarse a partir del día 25/03/2020</a></label>
         </div>
         <div>
             <label>Fuente: <a href="https://www.ine.es/jaxiT3/Datos.htm?t=2852#!tabs-tabla" target="_blank">INE - Tabla de Población por Provincias en 2019</a></label>
